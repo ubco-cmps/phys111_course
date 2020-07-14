@@ -34,7 +34,7 @@ jobs:
         REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
         REMOTE_USER: ${{ secrets.REMOTE_USER }}
         REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-        LOCAL_DIR: "/home/runner/work/physics111-course/_build/html/"
+        LOCAL_DIR: "/home/runner/work/physics111-course/physics111-course/_build/html"
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
       run: |
         mkdir ~/.ssh
