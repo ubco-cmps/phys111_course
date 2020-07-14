@@ -28,7 +28,6 @@ jobs:
         jupyter-book build .
         
     # Push to server
-    - uses: actions/checkout@v2
     - name: rsync and ssh
       env:
         REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
