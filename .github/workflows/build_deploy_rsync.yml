@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      
+
     # Install dependencies
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
@@ -34,11 +34,12 @@ jobs:
         REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
         REMOTE_USER: ${{ secrets.REMOTE_USER }}
         REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-        LOCAL_DIR: "./_build/html"
+        LOCAL_DIR: "_build/html"
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
       run: |
         mkdir ~/.ssh
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
+        ssh -T -i ~/.ssh/id_rsa $REMOTE_USER@$REMOTE_HOST
         rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR
