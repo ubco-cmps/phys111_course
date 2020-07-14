@@ -1,0 +1,11 @@
+# Book settings
+title: Course 100 
+author: Firas Moosvi
+logo: images/logo.jpg
+
+latex:
+  latex_documents:
+    targetname: book.tex
+html:
+    navbar_number_sections: true
+    home_page_in_navbar: false

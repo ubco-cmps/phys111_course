@@ -1,2 +1,2 @@
-# physics111-course
-Course material for Physics 111 (jupyter book)
+# template_jb_syllabus
+Template for Jupyterbook Syllabus

@@ -1,0 +1,17 @@
+- file: about/home
+
+- header: About this Course
+- file: about/syllabus
+  sections:
+    - file: about/accommodations
+    - file: about/course_map
+    - file: about/help
+    - file: about/faq
+    - file: about/class
+
+- header: Class notes
+- file: class/welcome
+- file: class/energy
+- file: class/momentum
+
+- header: Logistics
