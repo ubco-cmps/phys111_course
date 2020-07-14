@@ -1,4 +1,4 @@
-![](html/_images/header.jpg)
+![](../images/header.jpg)
 [Header image attribution](https://unsplash.com/photos/qxCqkbF7tUc)
 
 Syllabus
