@@ -33,9 +33,9 @@ jobs:
         REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
         REMOTE_USER: ${{ secrets.REMOTE_USER }}
         REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-        LOCAL_DIR: "_build/html/"
+        LOCAL_DIR: ${{ secrets.LOCAL_DIR }}
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
-        COURSE_NAME: "phys111"
+        COURSE_NAME: "physics111"
       run: |
         mkdir ~/.ssh
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
