@@ -1,2 +1,20 @@
-# template_jb_syllabus
-Template for Jupyterbook Syllabus
+# Physics 111 Course Website
+
+To access the rendered version of the Physics 111 website, visit this site: https://firas.moosvi.com/courses/physics111.
+
+Each time there is a commit to master, the website will re-deploy.
+Currently it takes about 90s for the website to update.
+
+## Summer Development Plan
+
+### Phase 1: Add learning goals to the weekly notes 
+
+### Phase 2: Assign textbook readings
+
+### Phase 3: Select homework problems, test, and bonus test problems
+
+### Phase 4: Add supplemental course notes/videos, clicker questions, and lecture activities
+
+### Phase 5: Work on Canvas/MP integration ; Add lab information
+
+### Phase 6: Finishing Touches
