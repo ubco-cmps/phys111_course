@@ -13,6 +13,7 @@ This is the official syllabus for Course 100.
     <iframe src="https://player.vimeo.com/video/148751763" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
+<div class="page_break"> </div>
 
 ## About this Course
 
@@ -124,7 +125,7 @@ Do not procrastinate buying access to the online homework system! You will need 
 
 The required **textbook** for this course is:
 
-> [Physics for Scientists and Engineers, 4e by Randall D. Knight]()
+> Physics for Scientists and Engineers, 4e by Randall D. Knight
 
 and it is required because you need a reference text for this course, as well as practice problems, and a homework system.
 The Mastering Physics homework system comes bundled with this textbook.
@@ -163,7 +164,7 @@ Below is some information that might be helpful for you in making the decision.
 | Withdrawal type | Effect on Transcript | Tuition refund |
 | --------------- | -------------------- | -------------- | 
 | Before the 1st withdrawal date | None  | 100% refund    |
-| Before the 2nd withdrawal date  | W on transcript | [0 - 50%](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=14,339,1033,0) refund depending on the date you're withdrawing |
+| Before the 2nd withdrawal date  | W on transcript | [0 - 50%](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=14,339,1033,0) refund (depending on the date you're withdrawing) |
 | After the 2nd withdrawal date (cannot happen without faculty approval) | W on transcript | 0% |
 
 There are other things to consider as well, including your graduation requirements/timelines, eligibility for student loans, bursaries, scholarships etc.
