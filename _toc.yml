@@ -1,6 +1,7 @@
 - file: about/home
 
 - header: About this Course
+- file: about/syllabus
   sections:
     - file: about/syllabus
     - file: about/course_schedule
