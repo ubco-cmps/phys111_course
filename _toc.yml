@@ -1,11 +1,12 @@
 - file: about/home
 
 - header: About this Course
-- file: about/syllabus
-- file: about/course_schedule
-- file: about/accommodations
-- file: about/doing_well
-- file: about/faq
+  sections:
+    - file: about/syllabus
+    - file: about/course_schedule
+    - file: about/accommodations
+    - file: about/doing_well
+    - file: about/faq
 
 - header: Class Notes
 - file: class/topic1
