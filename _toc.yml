@@ -12,6 +12,7 @@
 - file: class/part1
   title: Part 1
   sections:
+    - file: class/test_notebook
     - file: class/topic1
       title: Week 1 - Topic
     - file: class/topic2

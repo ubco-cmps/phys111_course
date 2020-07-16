@@ -5,6 +5,14 @@ To access the rendered version of the Physics 111 website, visit this site: http
 Each time there is a commit to master, the website will re-deploy.
 Currently it takes about 90s for the website to update.
 
+## Mastering Physics Information
+
+- Website to log into MP: [http://masteringphysics.com](http://masteringphysics.com)
+- Create account
+- Ask the instructor for an access code to get textbook access
+- Physics 111 pearson course code: `moosvi87376`
+- 
+
 ## Summer Development Plan
 
 ### Phase 1: Add learning goals to the weekly notes 
