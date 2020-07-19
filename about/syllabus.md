@@ -39,10 +39,10 @@ The grading scheme for this course is here:
 
 | Item                 | Weight | Due date(s) |
 | -------------------- | ------ | ----------- |
-| Learning Logs           | 10% (10 x 1%)   | TBD |
-| 12 Homework Assignments | 24% (12 x 2%)   | TBD |
-| 8 Tests (& Bonus Tests) | 32% (8 x 4%)    | TBD |
-| 8 Labs                  | 16% (8 x 2%)    | TBD |
+| 10 Learning Logs        | 10% (10 x 1%)   | TBD |
+| 10 Homework Assignments | 20% (10 x 2%)   | TBD |
+| 10 Tests (& Bonus Tests)| 30% (10 x 3%)   | TBD |
+| 8 Labs                  | 20% (8 x 2.5%)  | TBD |
 | Final Exam              | 20%             | TBD | 
 
 ```{attention} 
