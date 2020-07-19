@@ -17,7 +17,7 @@ Currently it takes about 90s for the website to update.
 |Week #|Week                |Course Topics|Readings                                     |Homework              |Test                    |Bonus Test                    |
 |------|--------------------|-------------|---------------------------------------------|----------------------|------------------------|------------------------------|
 |1     |September 7-13      |TBD          |About this course                            |Math Diagnostic       |Test 0: Course Policies |FCI                           |
-|2     |September 14-20     |TBD          |Chapter 2: Kinematics in 1 D                 |Chapter 2 HW          |Test 1: Chapter 2       |Course Policies Pt 2          |
+|2     |September 14-20     |TBD          |Chapter 2: Kinematics in 1 D                 |Chapter 2 HW          |Test 1: Chapter 2       |Bonus Test 0: Course Policies Pt 2          |
 |3     |September 21-27     |TBD          |Chapter 3: Vectors and Coordinate Systems    |Chapter 3 HW          |Test 2: Chapter 3       |Bonus Test 1: Chapter 2       |
 |4     |September 28 - Oct 4|TBD          |Chapter 4: Kinematics in 2D                  |Chapter 4 HW          |Test 3: Chapter 4       |Bonus Test 2: Chapter 3       |
 |5     |October 5 - 11      |TBD          |Chapter 5: Force and Motion                  |Chapter 5 HW          |Test 4: Chapter 5       |Bonus Test 3: Chapter 4       |
