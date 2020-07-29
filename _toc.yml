@@ -1,17 +1,18 @@
 - file: about/home
 
-- header: About this Course
-- file: about/syllabus
+- chapter: About this Course
   sections:
-    - file: about/course_schedule
-    - file: about/accommodations
-    - file: about/doing_well
-    - file: about/faq
+    - file: about/syllabus
+      sections:
+        - file: about/course_schedule
+        - file: about/accommodations
+        - file: about/doing_well
+        - file: about/faq
 
-- header: Class Notes
-- file: class/part1
-  title: Part 1
+- chapter: Part 1
   sections:
+    - file: class/part1
+      title: Introduction
     - file: class/test_notebook
     - file: class/topic1
       title: Week 1 - Topic
@@ -21,9 +22,11 @@
       title: Week 3 - Topic
     - file: class/topic4
       title: Week 4 - Topic
-- file: class/part2
-  title: Part 2
+
+- chapter: Part 2
   sections:
+    - file: class/part2
+      title: Part 2
     - file: class/topic5
       title: Week 5 - Topic
     - file: class/topic6
@@ -32,9 +35,11 @@
       title: Week 7 - Topic
     - file: class/topic8
       title: Week 8 - Topic
-- file: class/part3
-  title: Part 3
+
+- chapter: Part 3
   sections:
+    - file: class/part3
+      title: Part 3
     - file: class/topic9
       title: Week 9 - Topic
     - file: class/topic10
@@ -46,10 +51,12 @@
     - file: class/topic13
       title: Week 13 - Topic
 
-- header: Lab Materials
-- file: class/labs
-  title: Lab Stuff
+- chapter: Lab Materials
+  sections:
+    - file: class/labs
+      title: Lab Stuff
 
-- header: Final Exam prep
-- file: class/final
-  title: Exam stuff
+- chapter: Final Exam prep
+  sections:
+    - file: class/final
+      title: Exam stuff
