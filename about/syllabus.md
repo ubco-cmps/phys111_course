@@ -37,13 +37,13 @@ This is the official syllabus for Course 100.
 
 The grading scheme for this course is here:
 
-| Item                 | Weight | Due date(s) |
-| -------------------- | ------ | ----------- |
-| 10 Learning Logs        | 10% (10 x 1%)   | TBD |
-| 10 Homework Assignments | 20% (10 x 2%)   | TBD |
-| 10 Tests (& Bonus Tests)| 30% (10 x 3%)   | TBD |
-| 8 Labs                  | 20% (8 x 2.5%)  | TBD |
-| Final Exam              | 20%             | TBD | 
+| Item                  | Weight         | Due date(s) |
+|-----------------------|----------------|-------------|
+| Learning Logs         | 10% (10 x 1%)  | TBD         |
+| Homework Assignments  | 20% (10 x 2%)  | TBD         |
+| Tests (& Bonus Tests) | 30% (10 x 3%)  | TBD         |
+| Labs                  | 20% (8 x 2.5%) | TBD         |
+| Final Exam            | 20%            | TBD         |
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
@@ -54,9 +54,9 @@ Any submissions submitted past the grace period will not be graded.
 
 Yes. To pass this course, you must do all of the following:
 
-- Achieve a minimum of 50% on the labs (8.0 / 16) with no more than 3 missed labs
-- Achieve a minimum of 50% on the tests and final exam (26.0 / 52) 
-- Achieve a minimum of 50% on whole course grade (50.0 / 100)
+- Achieve a minimum of 50% on the labs (10.0 / 20) with no more than 3 missed labs
+- Achieve a minimum of 50% on the tests and final exam (25.0 / 50) 
+- Achieve a minimum of 50% on the whole course grade (50.0 / 100)
 
 ## Why should I take this course?
 
@@ -190,11 +190,35 @@ Suspendisse malesuada pretium dui, ac lacinia mi pellentesque eu. Sed volutpat e
 
 ### ... but I've never been good at physics or math!
 
+That's okay! 
+You're still more than welcome in this course.
+I will do everything I can (within reason) to still make the course accessible to you.
+This course is designed with your success in mind.
+There are multiple opportunities for you to learn from your mistakes and improve your grades in nearly every aspect of the course.
+In my opinion, the best learning happens when folks are given the opportunity to make mistakes so they get over their fear of trying something!
+At the beginning of the term, we will all do a Math Diagnostic (not for marks) to check if you have the required math background for this course. 
+If you do not, I have some supplemental material for you to catch up.
+My expectation is that you'll complete the exercises and review the supplemental material in the first couple of weeks.
+
+To summarize, if you've never been "good" at physics or math, come into the course with a healthy attitude, a desire to work for your success, and I have no doubt you will be successful in this course. 
+If you ever want to talk about the course, or have any feedback you want to give me, do not hesitate to reach out to me!
+
 ### ... but I don't even like physics or math!
+
+Believe it or not, I have no expectation that every student that takes my course will have an undying passion for the subject.
+Some of you may be forced to take this course by your programs, faculties, career interests, etc...
+Sometimes we all have to take courses that we think we don't like, or enjoy. 
+That's fine!
+No judgement from me, you are more than welcome in this course.
+I just ask that you not make any snap judgements about the class, the material, the instructor (me), or the teaching team.
+Whatever your motivations are for taking this course, give us a chance, maybe you don't HAVE TO be miserable taking this course!
+You might even enjoy the feeling of community and camaraderie that develops over the course of the semester :-). 
+
+I hope you're not miserable, if you do feel miserable, come talk to me - maybe I can help you see the light at the end of tunnel?
 
 ## What type of information will I collect about you in this course?
 
-Having taught [DSCI 541: Security, Ethics, and Security](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec) in the UBC Master of Data Science in the past, I am very aware of the surveillance culture that has permeated our society and heralded the [End of Privacy](https://www.youtube.com/watch?v=NesTWiKfpD0) as we know it.
+Having taught [DSCI 541: Privacy, Ethics, and Security](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec) in the UBC Master of Data Science in the past, I am very aware of the surveillance culture that has permeated our society and heralded the [End of Privacy](https://www.youtube.com/watch?v=NesTWiKfpD0) as we know it.
 That being said, as an instructor, I care tremendously about your learning and the course-related data that is collected about you is extremely valuable. 
 Broadly speaking, this relatively new field is called **Learning Analytics**.
 [Learning analytics](https://www.solaresearch.org/about/what-is-learning-analytics/) involves the collection and analysis of data about learners for the [express purpose](https://www.collinsdictionary.com/dictionary/english/the-express-purpose-of) of improving their learning by optimizing teaching and learning practices. 
@@ -278,7 +302,7 @@ In particular, I hope (and expect) that the following features of the course sho
 - Weekly learning logs, homework and reading reflections to make you think about your learning ([metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/)).
 - Timed tests have generous time limits (allowable time is 1.5x the estimated time).
 - Each test has a "bonus test" available one week later; for each test, we will take the better score of the pair.
-- No high-stakes exams (the single largest assessment item is the final exam at 20%).
+- No high-stakes exams (the single largest assessment item is the final exam).
 - All course assessments are completely open book and open notes. 
 - Plenty of TA and instructor office hours and several outside of normal business hours.
 - A class guidebook that outlines exactly what you should do when to help you manage your time.
