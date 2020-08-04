@@ -1,16 +1,15 @@
-- file: about/home
+- file: about/syllabus
+  expand_sections: true
 
-- chapter: About this Course
-  sections:
-    - file: about/syllabus
-      sections:
-        - file: about/course_schedule
-        - file: about/accommodations
-        - file: about/doing_well
-        - file: about/faq
+- part: About this course
+  chapters:
+    - file: about/course_schedule
+    - file: about/accommodations
+    - file: about/doing_well
+    - file: about/faq
 
-- chapter: Part 1 - Kinematics
-  sections:
+- part: Part 1 - Kinematics
+  chapters:
     - file: class/part1
       title: Introduction
     - file: class/test_notebook
@@ -24,8 +23,8 @@
       title: Week 4 - Topic
     - file: class/topic5
       title: Week 5 - Topic
-- chapter: Part 2 - Dynamics
-  sections:
+- part: Part 2 - Dynamics
+  chapters:
     - file: class/part2
       title: Part 2
     - file: class/topic6
@@ -37,8 +36,8 @@
     - file: class/topic9
       title: Week 9 - Topic
 
-- chapter: Part 3 - Energy and Momentum
-  sections:
+- part: Part 3 - Energy and Momentum
+  chapters:
     - file: class/part3
       title: Part 3
     - file: class/topic10
@@ -50,12 +49,12 @@
     - file: class/topic13
       title: Week 13 - Topic
 
-- chapter: Lab Materials
-  sections:
+- part: Lab Materials
+  chapters:
     - file: class/labs
       title: Lab Stuff
 
-- chapter: Final Exam prep
-  sections:
+- part: Final Exam prep
+  chapters:
     - file: class/final
       title: Exam stuff
