@@ -1,10 +1,15 @@
 ![](../images/header.jpg)
 
-PHYS 111 (3) Introductory Physics for the Physical Sciences I
-=======================
+# Course Syllabus
+
+This is the official syllabus and course outline for Physics 111.
+
+```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
+```
+
+## PHYS 111 (3) Introductory Physics for the Physical Sciences I
 
 The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?code=PHYS) of this course is: 
-
 
 > Introduction to mechanics primarily for students majoring in the physical sciences (e.g. physics, chemistry, mathematics, computer science, geology, physical geography) or engineering.
 > Particle kinematics and dynamics, work and energy, momentum, gravitation, rigid body motion, fluid statics and dynamics with applications to the physical sciences.
@@ -14,12 +19,7 @@ The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?
 > 
 > *Corequisite*: MATH 100.
 
-# Syllabus
-
-This is the official syllabus and course outline for PHYS 111.
-
-```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
-```
+## Is this syllabus a contract? 
 
 Rather than interpreting this syllabus as a legal document that serves as a contract between the instructor and the students, I prefer to view the syllabus as a *living document*.
 Dr. John Warmer describes this best [in his article, "A syllabus is not a contract"](https://www.insidehighered.com/blogs/just-visiting/syllabus-not-contract):
