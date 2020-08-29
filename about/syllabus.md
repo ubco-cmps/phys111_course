@@ -1,14 +1,51 @@
 ![](../images/header.jpg)
-[Header image attribution](https://unsplash.com/photos/qxCqkbF7tUc)
 
-Syllabus
+PHYS 111 (3) Introductory Physics for the Physical Sciences I
 =======================
-2020 - 2021, Winter Term 1
 
-This is the official syllabus for Physics 111.
+The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?code=PHYS) of this course is: 
 
-```{warning} Please note that this syllabus is currently under active development, treat this as a draft.
+
+> Introduction to mechanics primarily for students majoring in the physical sciences (e.g. physics, chemistry, mathematics, computer science, geology, physical geography) or engineering.
+> Particle kinematics and dynamics, work and energy, momentum, gravitation, rigid body motion, fluid statics and dynamics with applications to the physical sciences.
+> Credit will be granted for only one of PHYS 111 and PHYS 112. Students with Physics 12 may apply for a tutorial exemption. [3-3-1]
+> 
+> *Prerequisite*: One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. Physics 12 is strongly recommended.
+> 
+> *Corequisite*: MATH 100.
+
+# Syllabus
+
+This is the official syllabus and course outline for PHYS 111.
+
+```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
 ```
+
+Rather than interpreting this syllabus as a legal document that serves as a contract between the instructor and the students, I prefer to view the syllabus as a *living document*.
+Dr. John Warmer describes this best [in his article, "A syllabus is not a contract"](https://www.insidehighered.com/blogs/just-visiting/syllabus-not-contract):
+
+> ... this syllabus is not a contract, it is a living document which reflects the experiences, emotions, philosophies, and goals I bring to a particular course.
+
+and also: 
+
+> A syllabus as a plan is a lot like an itinerary before a trip. 
+> There’s some definite highlights we need to hit, but if something that seems cool and worth doing crops up unexpectedly, we need to seize that opportunity in the moment. 
+> If something really bad happens (the equivalent of a norovirus breakout on a cruise ship) we may need to abandon something previously scheduled entirely.
+
+Interestingly, it is worth noting that a recent review of legal precedents suggests that syllabi are not considered contracts by the courts {cite}`Rumore2016`.
+
+Having an adaptive and responsive syllabus is important to me as an instructor because it allows me to be more flexible with what/how/when you learn, and respond to your feedback in a meaningful way.
+I invite you to be co-contributors to this syllabus, and use the tools provided to add your own annotations, questions, and suggestions on making this syllabus work for you.
+
+```{important} Please note that I have your best interests in mind, and it is highly unlikely that I will ever change a syllabus in a way that negatively affects the class, or even individual students. If you believe a syllabus change is affecting you negatively, please do not hesitate to reach out to me, or [submit your feedback anonymously here](https://ubc.ca1.qualtrics.com/jfe/form/SV_6FhZZZAe9WoKdnv).
+```
+## Changes to the syllabus since the start of Term
+
+Any major changes to the syllabus (this page) will be documented here as well as the date the change was made. 
+
+| Change Date | Change summary | Rationale |
+|-------------|----------------|-----------|
+| TBD         | TBD            | TBD       |
 
 ## A message from your instructor
 
@@ -26,17 +63,27 @@ Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrol
 | Name                | Description                                                                                    |
 |---------------------|------------------------------------------------------------------------------------------------|
 | Course              | Physics 111                                                                                    |
+| Term                | 2020/21 Winter Term 1                                                                          |
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
 | Costs               | Total $XX                                                                                      |
-| Lectures            | Online  [Thursdays at 14:00](https://ubc.zoom.us)                                              |
+| Lectures            | Online [Thursdays at 14:00](https://ubc.zoom.us)                                               |
 | Tutorial            | You **must** register for a tutorial section.                                                  |
 | Laboratory          | You **must** register for a laboratory section.                                                |
 | URL                 | https://this.site                                                                              |
 | Instructor          | Firas Moosvi                                                                                   |
 | Office              | [Zoom](https://ubc.zoom.us)                                                                    |
 | Email               | [Contact via Piazza](https://piazza.com)                                                       |
-| Teaching Assistants | TA1 (location) <br> TA2(location) <br> TA3 (location) <br> TA4 (location) <br> TA5 (location)  |
+
+## Contact the Teaching Team
+
+| Team Member                               | Pronounce as | Contact | Office Hour |
+|-------------------------------------------|--------------|---------|-------------|
+| Dr. Firas Moosvi (he/his/him); Instructor |              | TBD     | TBD         |
+| (TA)                                      |              | TBD     | TBD         |
+| (TA)                                      |              | TBD     | TBD         |
+| (TA)                                      |              | TBD     | TBD         |
+
 
 ## How will I be evaluated in this course?
 
@@ -373,5 +420,7 @@ Below is the list of resources I have used to put this syllabus together:
 - Psychology 417A-951 (Instructor: [Dr. Catherine Rawn](https://blogs.ubc.ca/catherinerawn/))
 - [Dr. Christopher Jones](https://hcommons.org/members/profchrismjones/) and [this tweet](https://twitter.com/ProfChrisMJones/status/1282036533562834944)
 - [Dr. Jesse Stommell](https://www.jessestommel.com/designing-for-care/)
+- [Header image](https://unsplash.com/photos/qxCqkbF7tUc)
+- [Header logo]()
 
 ### References
