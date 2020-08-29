@@ -5,9 +5,15 @@ Syllabus
 =======================
 2020 - 2021, Winter Term 1
 
-This is the official syllabus for Course 100.
+This is the official syllabus for Physics 111.
+
+```{warning} Please note that this syllabus is currently under active development, treat this as a draft.
+```
 
 ## A message from your instructor
+
+Closer to the start of the term, I will update the video below with an actual message to the students :-).
+Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrolling/).
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe src="https://player.vimeo.com/video/148751763" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
@@ -17,21 +23,20 @@ This is the official syllabus for Course 100.
 
 ## About this Course
 
-| Name                | Description                                     |
-|---------------------|-------------------------------------------------|
-| Course              | Course 100                                      |
-| Pre-requisites      | Pre-Course 100                                  |
-| Co-requisites       | N/A                                             |
-| Costs               | Total $XX                                       |
-| Weekly meetings     | [Thursdays at 14:00](https://cbc.ca)            |
-| Lectures            | Online                                          |
-| Tutorial            | You **must** register for a tutorial section.   |
-| Laboratory          | You **must** register for a laboratory section. |
-| URL                 | https://this.site                               |
-| Instructor          | Firas Moosvi                                    |
-| Office              | [Zoom](https://ubc.zoom.us)                     |
-| Email               | [Contact via Piazza](https://piazza.com)        |
-| Teaching Assistants | TA1 (location) <br> TA2(location) <br> TA3 (location) <br> TA4 (location) <br> TA5 (location) |
+| Name                | Description                                                                                    |
+|---------------------|------------------------------------------------------------------------------------------------|
+| Course              | Physics 111                                                                                    |
+| Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
+| Co-requisites       | Math 100                                                                                       |
+| Costs               | Total $XX                                                                                      |
+| Lectures            | Online  [Thursdays at 14:00](https://ubc.zoom.us)                                              |
+| Tutorial            | You **must** register for a tutorial section.                                                  |
+| Laboratory          | You **must** register for a laboratory section.                                                |
+| URL                 | https://this.site                                                                              |
+| Instructor          | Firas Moosvi                                                                                   |
+| Office              | [Zoom](https://ubc.zoom.us)                                                                    |
+| Email               | [Contact via Piazza](https://piazza.com)                                                       |
+| Teaching Assistants | TA1 (location) <br> TA2(location) <br> TA3 (location) <br> TA4 (location) <br> TA5 (location)  |
 
 ## How will I be evaluated in this course?
 
@@ -367,6 +372,6 @@ Below is the list of resources I have used to put this syllabus together:
 - Physics 117 (Instructor: [Dr. Simon Bates](https://sites.google.com/site/simonpbates/home?authuser=0))
 - Psychology 417A-951 (Instructor: [Dr. Catherine Rawn](https://blogs.ubc.ca/catherinerawn/))
 - [Dr. Christopher Jones](https://hcommons.org/members/profchrismjones/) and [this tweet](https://twitter.com/ProfChrisMJones/status/1282036533562834944)
-- [Jesse Stommell](https://www.jessestommel.com/designing-for-care/)
+- [Dr. Jesse Stommell](https://www.jessestommel.com/designing-for-care/)
 
 ### References

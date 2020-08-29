@@ -8,6 +8,11 @@
     - file: about/doing_well
     - file: about/faq
 
+- part: Course Feedback
+  chapters:
+    - file: about/feedback
+      title: Anonymous Feedback Form
+
 - part: Part 1 - Kinematics
   chapters:
     - file: class/part1

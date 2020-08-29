@@ -1,3 +1,4 @@
+(page_doing_well)=
 How to do well in this course
 =======================
 
