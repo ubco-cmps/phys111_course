@@ -29,22 +29,3 @@ Currently it takes about 90s for the website to update.
 |11    |November 16 - 22    |TBD          |Chapter 10: Interactions and Potential Energy|Chapter 10 HW         |Test 9: Chapter 10      |Bonus Test 8: Chapter 9       |
 |12    |November 23 - 29    |TBD          |Chapter 11: Impulse and momentum             |Chapter 11 HW         |Test 10: Chapter 11     |Bonus Test 9: Chapter 10      |
 |13    |November 30 - Dec 6 |TBD          |Review and recap                             |Practice Final Exam Qs|No Test                 |Bonus Test 10: Chapter 11     |
-
-
-## Summer Development Plan
-
-### Phase 1: Add learning goals to the weekly notes 
-
-In progress
-
-### Phase 2: Assign textbook readings
-
-Done, see table above.
-
-### Phase 3: Select homework problems, test, and bonus test problems
-
-### Phase 4: Add supplemental course notes/videos, clicker questions, and lecture activities
-
-### Phase 5: Work on Canvas/MP integration ; Add lab information
-
-### Phase 6: Finishing Touches
