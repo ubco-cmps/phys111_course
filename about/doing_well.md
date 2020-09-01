@@ -36,7 +36,7 @@ Why? Because research shows testing improves learning.
 It might seem counterintuitive, but by taking a test, what we recall becomes more recallable in the future.  
 In a sense, you are practicing what you are going to need to do for the final.
 
-### Ingredients for your success 
+## Ingredients for your success 
 
 Even with all these key ideas about learning, the most important ingredients need to come from you.  
 Here are some of the things we think you need to think about at the start of the course:
@@ -65,13 +65,11 @@ Practice not just solving but how to get started on problems.
 Don’t get isolated; form a study group, use Piazza and Perusall, go to the Drop-in sessions.  
 Try not to fall behind (it’s hard to catch up if you do) but do talk to us if you really are struggling.  
 
-
 - Be careful and don’t be fooled by the familiarity of some of this material.  
 You may have seen most of it before.  
 This may lead you to expect that you have little new to learn here.  
 We found that students come with huge misconceptions about seemingly familiar ideas.  
 You need to be prepared to let go of them if you are to really master these foundations of the subject and this course.  
-
 
 - And finally, math.  
 You need a relevant math co-requisite for this course (one of MATH 100, 102, 104, 110, 120, 180, 184).  
