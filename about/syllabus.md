@@ -55,16 +55,18 @@ Any major changes to the syllabus (this page) will be documented here as well as
 |---------------------|------------------------------------------------------------------------------------------------|
 | Course              | Physics 111                                                                                    |
 | Term                | 2020/21 Winter Term 1                                                                          |
+| Canvas Course       | [Link to Canvas course](https://canvas.ubc.ca/courses/63995) (requires CWL authentication)
+| Mastering Physics course code |  moosvi87376                                                                         | 
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
-| Costs               | Total $XX                                                                                      |
-| Lectures            | Online [Thursdays at 14:00](https://ubc.zoom.us)                                               |
+| Costs               | Total $121.28 CAD                                                                              |
+| Lectures            | Online Thursdays at 14:00                                                                      |
 | Tutorial            | You **must** register for a tutorial section.                                                  |
 | Laboratory          | You **must** register for a laboratory section.                                                |
-| URL                 | https://this.site                                                                              |
+| URL                 | https://firas.moosvi.com/courses/physics111                                                                              |
 | Instructor          | Firas Moosvi                                                                                   |
-| Office              | [Zoom](https://ubc.zoom.us)                                                                    |
-| Email               | [Contact via Piazza](https://piazza.com)                                                       |
+| Office Hours        | Zoom                                                                                           |
+| Email               | [Contact via Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w)                                                                             |
 
 ## A message from your instructor
 
@@ -77,25 +79,12 @@ Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrol
 
 <div class="page_break"> </div>
 
-## Why should I take this course?
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Ut blandit faucibus fermentum.
-Fusce porttitor congue dolor, eget efficitur neque ultricies at.
-Nulla suscipit convallis elit, eu consequat felis.
-Quisque et malesuada justo, dapibus commodo enim.
-Sed malesuada turpis sed nibh dictum, a interdum dui tincidunt.
-Duis consequat magna non tortor dictum facilisis.
-In hac habitasse platea dictumst.
-Phasellus eu eros libero.
-Phasellus rhoncus eros vel metus porttitor porta.
-In et tellus finibus, mollis nisi sed, auctor est.
-Sed placerat ex at ligula eleifend, ac dapibus neque euismod.
-Suspendisse malesuada pretium dui, ac lacinia mi pellentesque eu. Sed volutpat enim sed feugiat malesuada.
+<!-- ## Why should I take this course?
 
 ```{tip}
 Number one reason thing to take away from this is...
-```
+``` 
+-->
 
 ## Contact the Teaching Team
 
@@ -137,11 +126,7 @@ Yes. To pass this course, you must do all of the following:
 
 ## Course Learning Outcomes (AKA what will I learn in this course?)
 
-1. Pellentesque pellentesque ut arcu vel sagittis.
-1. Sed faucibus at ipsum pharetra euismod.
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-1. Vivamus pharetra pretium dui, nec semper enim vehicula nec.
-1. Quisque vel odio dui. Aenean ullamcorper arcu sit amet gravida dapibus.
+Coming soon!
 
 ```{tip}
 The full course schedule is available here: {ref}`page_Course_Schedule`
@@ -150,8 +135,8 @@ The full course schedule is available here: {ref}`page_Course_Schedule`
 
 The following are required items for this course, and their costs (in $CAD) are:
 
-- Textbook ($XX)
-- Access to online homework system ($XX)
+- eTextbook ($121.28 including tax) or physical textbook (variable)
+- Access to online homework system ($0; comes included with new purchases)
 - Lab Manual ($0)
 
 Being very conscious of the high tuition and technology costs, I have made efforts to minimize the additional cost of taking this course.
@@ -171,10 +156,16 @@ and it is required because you need a reference text for this course, as well as
 The Mastering Physics homework system comes bundled with this textbook.
 
 You may purchase either Volume 1 only or the full text.
-The cost for a new physical textbook is $---.
-It is also possible to get a digital textbook for $---.
-Volume 1 contains all of the material required for PHYS 111 and will be lighter and more portable. If you purchase the full text, it will include Volume 2 which will (tentatively) be used in the second part of Introductory Physics for the Physical Sciences (PHYS 121) in term 2.
+The cost for a new e-Text (with MasteringPhysics code) is listed above.
+Volume 1 contains all of the material required for PHYS 111 and will be lighter and more portable. 
+If you purchase the full text, it will include Volume 2 which will (tentatively) be used in the second part of Introductory Physics for the Physical Sciences (PHYS 121) in term 2.
 
+Either an e-Text or a physical textbook will work as long as you have the Mastering Physics access code to get access to the homework system.
+New textbooks will have it, if you purchase a used one you’ll need to purchase it separately. 
+
+```{warning}
+The UBCO bookstore has warned me there may be shipping delays due to COVID-19 if you choose to get a physical textbook. If you’re ordering it online or through the bookstore, I encourage you to call or email to confirm there is stock, and that the shipping times (if applicable) are reasonable before placing the order.
+```
 ### Online homework system
 
 The required online homework system for this course is:
@@ -233,6 +224,43 @@ Here are the key principles I intend to apply in this class:
 1. Exploring the connections between different disciplines is an extremely powerful motivator.
 1. Teaching is three parts preparation, two parts classroom management, and one part execution.
 
+## Course Communication
+
+- For lectures, labs, tutorials, and office hours we will be using Zoom.
+- For official course communication, we will be using Canvas and Piazza.
+- For unofficial chat, community building, sharing of tiktoks, cat videos, and general conversation we will (optionally) be using a Discord server.
+
+```{warning}
+Please note signing up for the Discord server is **completely optional**! You will not miss anything course-related if you choose not to get on the Discord.```
+
+### Sign up for a (free) Zoom account
+
+Instructions coming soon...
+
+### Sign up for a (free) Piazza account [Required]
+
+This term we will be using Piazza for class discussion.
+The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself.
+Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
+
+*The Piazza tool is stored on servers outside Canada. When you access this site by clicking on the link through Canvas, you are being transferred to these servers. In order to protect your identity, UBC obfuscates your user ID before it is sent to the site. However, Piazza does require you to create an account on their servers. While Piazza adheres to strict U.S. privacy regulations (FERPA), UBC cannot guarantee security of your private details on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns.*
+
+[Sign up for our class Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w).
+
+### Sign up for the Discord Server [Optional]
+
+You can [download Discord for free on desktop here](https://discord.com/download), or through the [Google Play store](https://play.google.com/store/apps/details?id=com.discord) or [Apple App Store](https://apps.apple.com/us/app/discord/id985746746) on mobile and tablets.
+
+Invitation to [join the unofficial UBCO first year science Discord Server](https://discord.gg/uzcEBSK)!
+
+Here is a [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) and if you prefer watching a video:
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3ooRuvrPQsU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Again, please note signing up for the Discord server is **completely optional**, and is an experiment we are trying to help maintain human interactions during online learning.
+
 ## What should I think about if I'm considering withdrawing from the course?
 
 First of all, I'm sorry you're having trouble and are considering withdrawing from the course!
@@ -250,21 +278,24 @@ I advise you to [read the full list of considerations](https://students.ok.ubc.c
 
 ## How do I do well in this course? 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Ut blandit faucibus fermentum.
-Fusce porttitor congue dolor, eget efficitur neque ultricies at.
-Nulla suscipit convallis elit, eu consequat felis.
+For full details, please see the page {ref}`page_doing_well`.
 
-1. Quisque et malesuada justo, dapibus commodo enim.
-1. Sed malesuada turpis sed nibh dictum, a interdum dui tincidunt.
-1. Duis consequat magna non tortor dictum facilisis.
-1. In hac habitasse platea dictumst.
-1. Phasellus eu eros libero.
-1. Phasellus rhoncus eros vel metus porttitor porta.
-1. In et tellus finibus, mollis nisi sed, auctor est.
+To whet your appetite on what you'll read there, here are some guidelines on preparing yourselves for this course:
 
-Sed placerat ex at ligula eleifend, ac dapibus neque euismod.
-Suspendisse malesuada pretium dui, ac lacinia mi pellentesque eu. Sed volutpat enim sed feugiat malesuada.
+1. Learning is a contact sport.
+2. Memorizing is not learning.
+3. Understanding is learning and understanding should be your goal.
+4. We’ll do lots of tests.
+
+And some ingredients for your success:
+
+1. Plan.
+1. Prepare.
+1. Engage.
+1. Practice.
+1. Collaborate.
+1. Do not be fooled by familiarity of the material.
+1. Math.
 
 ### ... but I've never been good at physics or math!
 
@@ -374,7 +405,6 @@ You will *never* owe me an explanation about your physical health, mental health
 I will not judge you, nor think any less of you.
 I will do everything in my power to work something that is both reasonable and fair. 
 This, I promise!
-
 
 ## How do I go through this course ethically and with integrity?
 
