@@ -7,7 +7,7 @@ In terms of content, we will use this week to do a math diagnostic, get everyone
 
 ```{dropdown} <label><input type="checkbox" id="video1-1" class="box"> **Video 1.1: Introduction from Dr. Shini Somara (4:05)** </input></label> 
 
-<div class="container">
+<div class="containerYT">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -15,7 +15,7 @@ In terms of content, we will use this week to do a math diagnostic, get everyone
 
 ```{dropdown} <label><input type="checkbox" id="video1-2" class="box"> **Video 1.1: Introduction from Dr. Shini Somara (4:05)** </input></label> 
 
-<div class="container">
+<div class="containerYT">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
