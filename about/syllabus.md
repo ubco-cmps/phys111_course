@@ -56,17 +56,17 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Course              | Physics 111                                                                                    |
 | Term                | 2020/21 Winter Term 1                                                                          |
 | Canvas Course       | [Link to Canvas course](https://canvas.ubc.ca/courses/63995) (requires CWL authentication)
-| Mastering Physics course code |  moosvi87376                                                                         | 
+| MasteringPhysics code |  moosvi87376                                                                         | 
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
 | Costs               | Total $121.28 CAD                                                                              |
 | Lectures            | Online Thursdays at 14:00                                                                      |
 | Tutorial            | You **must** register for a tutorial section.                                                  |
 | Laboratory          | You **must** register for a laboratory section.                                                |
-| URL                 | https://firas.moosvi.com/courses/physics111                                                                              |
+| URL                 | https://firas.moosvi.com/coursesphysics111                                                     |
 | Instructor          | Firas Moosvi                                                                                   |
 | Office Hours        | Zoom                                                                                           |
-| Email               | [Contact via Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w)                                                                             |
+| Email               | [Contact via Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w)                |
 
 ## A message from your instructor
 
@@ -168,20 +168,20 @@ The UBCO bookstore has warned me there may be shipping delays due to COVID-19 if
 ```
 ### Online homework system
 
-The required online homework system for this course is:
+```{tip}
+The required online homework system for this course is: **Mastering Physics**
+```
 
-> Mastering Physics 
-
-and it is required because it is a companion product to our textbook.
+It is required and is a companion product to our textbook.
 There is considerable research ([here](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1949-8594.1995.tb15736.x) and [here](https://www.learningscientists.org/learning-scientists-podcast/2017/10/4/episode-4-spaced-practice)) that suggests distributed practice is more helpful for long term retention and overall learning.
 Furthermore with online Mastering Physics interface, your textbook, homework assignments, and tests are all on Mastering Physics.
 Mastering Physics also has some integrated study modules that can help you test yourself and take more effective notes.
 
 ### Lab Manual
 
-The required **lab manual** for this course is:
-
-> Available on Canvas, free of charge
+```{tip}
+The required online homework system for this course is: Available on Canvas, free of charge.
+```
 
 In the past, this lab manual had to be purchased from the UBC Bookstore.
 This year, because the labs are all online, a digital version of the lab manual is available to you on Canvas free of charge. 
@@ -332,7 +332,7 @@ That being said, as an instructor, I care tremendously about your learning and t
 Broadly speaking, this relatively new field is called **Learning Analytics**.
 [Learning Analytics](https://www.solaresearch.org/about/what-is-learning-analytics/) involves the collection and analysis of data about learners for the [express purpose](https://www.collinsdictionary.com/dictionary/english/the-express-purpose-of) of improving their learning by optimizing teaching and learning practices. 
 
-In this course, we will be using the following learning technologies (privacy policies linked): 
+In this course, we will be using the following required learning technologies (privacy policies linked): 
 
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
 - [Piazza](https://piazza.com/legal/privacy)
@@ -355,6 +355,20 @@ In this course, I intend to use this information to:
 Unfortunately, at the moment it is not possible to opt-out of the data collection process, but if you like, you may opt-out of the process where *I use the data to give you personalized feedback*. 
 To opt-out, please [complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_4SB8DCF8fnktkLb) at any point in the course. 
 You may opt-out with my full support, I respect your decision and applaud you for your netizenship!
+
+### Optional Tools
+
+There are some learning tools that I would like to experiment with this year, and I will not require you to sign up for these (but you are free to do so to explore):
+
+- [Hypothes.is](https://web.hypothes.is/privacy/)
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Desmos](https://www.desmos.com/privacy)
+
+... others may be added as needed.
 
 ## What should I do if I need accommodations to be successful in this course?
 
