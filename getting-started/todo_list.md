@@ -11,7 +11,7 @@ In the first chunk (Before the first class) are the same four things that you re
 
 You'll need it to get through the course, and do all the homework assignments using the online system. 
 
-My MasteringPhysics course ID is: **moosvi87376**. [Here is a PDF from Pearson](https://firas.moosvi.com/physics111/files/Student_Registration_Handout_moosvi87376) that walks you the steps to get onto the platform. 
+My MasteringPhysics course ID is: **moosvi87376**. [Here is a PDF from Pearson](https://firas.moosvi.com/courses/physics111/Student_Registration_Handout_moosvi87376.pdf) that walks you the steps to get onto the platform. 
 
 <label><input type="checkbox" id="todo1-2" class="box"> **2. Have a look at the syllabus.** </input></label> 
 
