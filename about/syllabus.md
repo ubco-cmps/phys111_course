@@ -79,13 +79,6 @@ Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrol
 
 <div class="page_break"> </div>
 
-<!-- ## Why should I take this course?
-
-```{tip}
-Number one reason thing to take away from this is...
-``` 
--->
-
 ## Contact the Teaching Team
 
 | Team Member                               | Pronounce as     | Contact | Office Hour |
