@@ -47,7 +47,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 
 | Change Date | Summary | Rationale |
 |-------------|----------------|-----------|
-| TBD         | TBD            | TBD       |
+| Sept. 4, 2020| Updated textbook price to remove tax | Tax is applied depending on where you're purchasing from so is variable(?) |
 
 ## About this course
 
@@ -59,7 +59,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | MasteringPhysics code |  moosvi87376                                                                         | 
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
-| Costs               | Total $121.28 CAD                                                                              |
+| Costs               | Total $115.50 + tax CAD                                                                        |
 | Lectures            | Online Thursdays at 14:00                                                                      |
 | Tutorial            | You **must** register for a tutorial section.                                                  |
 | Laboratory          | You **must** register for a laboratory section.                                                |
@@ -128,7 +128,7 @@ The full course schedule is available here: {ref}`page_Course_Schedule`
 
 The following are required items for this course, and their costs (in $CAD) are:
 
-- eTextbook ($121.28 including tax) or physical textbook (variable)
+- eTextbook ($115.50 + tax) or physical textbook (variable)
 - Access to online homework system ($0; comes included with new purchases)
 - Lab Manual ($0)
 
