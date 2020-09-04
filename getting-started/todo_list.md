@@ -27,7 +27,7 @@ Here's what you need to do:
 
 First click this link and Sign Up for Hypothes.is when it asks you to log in: https://hypothes.is/groups/o9PDYB4E/physics111-students.
 
-Next, go back to the Syllabus website (in Canvas or on the web) and click the "<" button at the right of the webpage. I have attached a picture of what you should see.
+Next, go back to the Syllabus website (in Canvas or on the web) and click the "<" button at the right of the webpage.
 
 <label><input type="checkbox" id="todo1-4" class="box"> **4) [Optional] Sign up for the unofficial UBCO 1st Year Science Discord Server** </input></label> 
 
