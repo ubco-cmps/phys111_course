@@ -47,7 +47,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 
 | Change Date | Summary | Rationale |
 |-------------|----------------|-----------|
-| Sept. 4, 2020| Updated textbook price to remove tax | Tax is applied depending on where you're purchasing from so is variable(?) |
+| Sept. 4, 2020| Updated textbook price to remove tax; fix class time, clarify vol1/vol2 | Tax is applied depending on where you're purchasing from so is variable(?) |
 
 ## About this course
 
@@ -60,14 +60,17 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
 | Costs               | Total $115.50 + tax CAD                                                                        |
-| Lectures            | Online Thursdays at 14:00                                                                      |
-| Tutorial            | You **must** register for a tutorial section.                                                  |
+| Lectures            | Online Thursdays at 12:00                                                                      |
+| Tutorial            | You **must**(^) register for a tutorial section.                                               |
 | Laboratory          | You **must** register for a laboratory section.                                                |
 | URL                 | https://firas.moosvi.com/coursesphysics111                                                     |
 | Instructor          | Firas Moosvi                                                                                   |
 | Office Hours        | Zoom                                                                                           |
 | Email               | [Contact via Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w)                |
 
+```{tip}
+(^) Students with Physics 12 may apply for a tutorial exemption by email.
+```
 ## A message from your instructor
 
 Closer to the start of the term, I will update the video below with an actual message to the students :-).
@@ -148,13 +151,16 @@ The required **textbook** for this course is: [Physics for Scientists and Engine
 It is required because you need a reference text for this course, as well as practice problems, and a homework system.
 The Mastering Physics homework system comes bundled with this textbook.
 
-You may purchase either Volume 1 only or the full text.
 The cost for a new e-Text (with MasteringPhysics code) is listed above.
+With the e-Text, there is no option to purchase separate volumes and you will get access to the full textbook.
+If you choose to purchase a physical copy from the UBCO Bookstore, there is also no choice - you will need to purchase both volumes ($150 + tax).
 Volume 1 contains all of the material required for PHYS 111 and will be lighter and more portable. 
-If you purchase the full text, it will include Volume 2 which will (tentatively) be used in the second part of Introductory Physics for the Physical Sciences (PHYS 121) in term 2.
+If you purchase the full physical textbook, it will include Volume 2 which will (tentatively) be used in the second part of Introductory Physics for the Physical Sciences (PHYS 121) in term 2.
 
 Either an e-Text or a physical textbook will work as long as you have the Mastering Physics access code to get access to the homework system.
-New textbooks will have it, if you purchase a used one you’ll need to purchase it separately. 
+New textbooks from the UBCO bookstore have it included.
+If you purchase your textbook from elsewhere, or have a used textbook you’ll need to purchase it separately. 
+**Update**: there is now option to purchase just the Mastering Physics access for $50.50 from the link above. 
 
 ```{warning}
 The UBCO bookstore has warned me there may be shipping delays due to COVID-19 if you choose to get a physical textbook. If you’re ordering it online or through the bookstore, I encourage you to call or email to confirm there is stock, and that the shipping times (if applicable) are reasonable before placing the order.
