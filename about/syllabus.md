@@ -248,7 +248,7 @@ Invitation to [join the unofficial UBCO first year science Discord Server](https
 
 Here is a [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) and if you prefer watching a video:
 
-<div class="containerYT">
+<div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3ooRuvrPQsU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -355,7 +355,7 @@ There are some learning tools that I would like to experiment with this year, an
 
 - [Hypothes.is](https://web.hypothes.is/privacy/)
 
-<div class="containerYT">
+<div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
