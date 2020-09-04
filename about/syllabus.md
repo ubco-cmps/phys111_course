@@ -141,11 +141,11 @@ Do not procrastinate buying access to the online homework system! You will need 
 
 ### Textbook
 
-The required **textbook** for this course is:
+```{tip}
+The required **textbook** for this course is: [Physics for Scientists and Engineers, 4e by Randall D. Knight](https://www.campusebookstore.com/integration/AccessCodes/default.aspx?bookseller_id=240&Course=PHYS+111.001&frame=YES&t=permalink).
+```
 
-> Physics for Scientists and Engineers, 4e by Randall D. Knight
-
-and it is required because you need a reference text for this course, as well as practice problems, and a homework system.
+It is required because you need a reference text for this course, as well as practice problems, and a homework system.
 The Mastering Physics homework system comes bundled with this textbook.
 
 You may purchase either Volume 1 only or the full text.
