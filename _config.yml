@@ -3,7 +3,7 @@ title: Physics 111
 author: Firas Moosvi
 logo: images/logo.jpg
 copyright: ""
-exclude_patterns: ["LICENSE.md", "README.md"]
+exclude_patterns: ["LICENSE.md", "README.md","files/*"]
 
 latex:
   latex_documents:
@@ -24,3 +24,4 @@ html:
 sphinx:
   config:
     html_show_copyright: false
+    html_extra_path: ['files']

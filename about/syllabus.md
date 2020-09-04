@@ -220,11 +220,12 @@ Here are the key principles I intend to apply in this class:
 ## Course Communication
 
 - For lectures, labs, tutorials, and office hours we will be using Zoom.
-- For official course communication, we will be using Canvas and Piazza.
+- For official course communication, we will be using [Canvas](https://canvas.ubc.ca/courses/63995) and [Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w).
 - For unofficial chat, community building, sharing of tiktoks, cat videos, and general conversation we will (optionally) be using a Discord server.
 
 ```{warning}
-Please note signing up for the Discord server is **completely optional**! You will not miss anything course-related if you choose not to get on the Discord.```
+Please note signing up for the Discord server is **completely optional**! You will not miss anything course-related if you choose not to get on the Discord.
+```
 
 ### Sign up for a (free) Zoom account
 
@@ -248,7 +249,7 @@ Invitation to [join the unofficial UBCO first year science Discord Server](https
 
 Here is a [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) and if you prefer watching a video:
 
-<div class="container">
+<div class="container_YT">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3ooRuvrPQsU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -355,7 +356,7 @@ There are some learning tools that I would like to experiment with this year, an
 
 - [Hypothes.is](https://web.hypothes.is/privacy/)
 
-<div class="container">
+<div class="container_YT">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
