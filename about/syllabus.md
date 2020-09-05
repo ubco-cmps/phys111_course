@@ -69,8 +69,9 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Email               | [Contact via Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w)                |
 
 ```{tip}
-(^) Students with Physics 12 may apply for a tutorial exemption by email.
+(^) Students with Physics 12 wanting a tutorial exemption should register for XM2 and email physics.labs@ubc.ca to apply for a tutorial exemption by email.
 ```
+
 ## A message from your instructor
 
 Closer to the start of the term, I will update the video below with an actual message to the students :-).
