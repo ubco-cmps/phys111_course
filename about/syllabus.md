@@ -57,7 +57,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Course              | Physics 111                                                                                    |
 | Term                | 2020/21 Winter Term 1                                                                          |
 | Canvas Course       | [Link to Canvas course](https://canvas.ubc.ca/courses/63995) (requires CWL authentication)
-| Mastering Physics code |  moosvi87376 (This is our course code and you will need it when first log on to Mastering Physics |                                                                         | 
+| Mastering Physics code |  moosvi87376 (This is our course code and you will need it when first log on to Mastering Physics) |                                                                         | 
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
 | Costs               | Total $115.50 + tax CAD                                                                        |
@@ -391,7 +391,7 @@ For a more detailed guide, the {ref}`page_Accommodations` page has a list of ste
 Students who, because of unforeseen events, are absent during the term and are unable to complete tests or other graded work, should normally discuss with their instructors how they can make up for missed work.
 If ill health is an issue, students are encouraged to seek attention from a health professional.
 Campus Health and Counselling will normally provide documentation only to students who have been seen previously at these offices for treatment or counselling specific to conditions associated with their academic difficulties. 
-Students who feel that requests for consideration have not been dealt with fairly by their instructors may take their concerns first to the Head of the Department, and if not resolved, to the Office of the Dean. Further information can be found at the UBCO Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0).
+Students who feel that requests for consideration have not been dealt with fairly by their instructors may take their concerns first to the Head of the Department, and if not resolved, to the Office of the Dean. Further information can be found at the [UBCO Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0).
 
 ```{tip}
 If you miss a course component due to an illness, health, or other personal situation, please reach out to me as soon as you are comfortable, and I'll work with you to get you back on track.
@@ -424,7 +424,7 @@ If I am not able to help you myself, then I can probably direct you to the right
 If you need extra help, or extra time to deal with something you're going through, just ask.
 You will *never* owe me an explanation about your physical health, mental health, or those of your family members, friends, etc... I will believe you, and I will trust you.
 I will not judge you, nor think any less of you.
-I will do everything in my power to work something that is both reasonable and fair. 
+I will do everything in my power to work out something that is both reasonable and fair. 
 This, I promise!
 
 ## How do I go through this course ethically and with integrity?
@@ -445,7 +445,7 @@ According to the scientific literature, the most common reasons students cheat a
 - Inadequate support from instructor and teaching team
 
 Though I sympathize with students and the stresses of your busy lives - in my opinion, there is no good reason to cheat.
-I have tried extremely hard to make this course focused on learning rather than grading, and where grading is needed, to have policies that are as "student-friendly" as possible.
+I have tried extremely hard to make this course focused on learning rather than grading, and where grading is needed, to have policies that are as student-friendly as possible.
 In particular, I hope (and expect) that the following features of the course should eliminate your temptation to cheat or plagiarize:
 
 - 48 hour grace-period on all homework and lab due dates and deadlines.
@@ -456,7 +456,7 @@ In particular, I hope (and expect) that the following features of the course sho
 - No high-stakes exams (the single largest assessment item is the final exam at 20%).
 - All course assessments are completely open book and open notes. 
 - Plenty of TA and instructor office hours and several outside of normal business hours.
-- A class guidebook that outlines exactly what you should do when to help you manage your time.
+- Class website that outlines exactly what you should do when to help you manage your time.
 - Tonnes of supplemental materials including other instructional videos in case you want a different perspective.
 - Weekly prompt to accept the integrity pledge to keep you accountable.
 - A true willingness from the instructor (me) to help you learn and succeed in this course!
@@ -467,7 +467,7 @@ A more detailed description of academic integrity, including the University’s 
 
 With these features, and many other little things, I sincerely hope that you will consider completing this course with maximum integrity so that you never have to feel guilty, ashamed, or disappointed in yourself and your actions!
 
-To make it even easier for you to decide what isn't allowed, below is a list of things that I *definitely** consider to be academic dishonesty:
+To make it even easier for you to decide what isn't allowed, below is a list of things that I **definitely** consider to be academic dishonesty:
 
 - Asking others for their work in the course (whether question by question, or all at once)
 - Sending others your work in the course
