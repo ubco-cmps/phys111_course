@@ -57,7 +57,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Course              | Physics 111                                                                                    |
 | Term                | 2020/21 Winter Term 1                                                                          |
 | Canvas Course       | [Link to Canvas course](https://canvas.ubc.ca/courses/63995) (requires CWL authentication)
-| Mastering Physics code |  moosvi87376 (This is our course code and you will need it when first log on to Mastering Physics) |                                                                         | 
+| Mastering Physics code |  moosvi87376 (This is our course code and you will need it when you first [log on to Mastering Physics](https://portal.mypearson.com)) |                                                                         | 
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
 | Costs               | Total $115.50 + tax CAD                                                                        |
@@ -70,7 +70,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Email               | [Contact via Piazza](https://piazza.com/ubc.ca/winterterm12020/phys1110012020w)                |
 
 ```{tip}
-(^) Students with Physics 12 wanting a tutorial exemption should register for XM2 and email physics.labs@ubc.ca to apply for a tutorial exemption by email.
+(^) Students with Physics 12 wanting a tutorial exemption should just register for XM2 - there is no application necessary.
 ```
 
 ## A message from your instructor
