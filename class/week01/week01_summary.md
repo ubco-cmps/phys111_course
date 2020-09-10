@@ -5,21 +5,34 @@ Week 1
 This week we will be doing course introductions, I will be showing you how to navigate the course website, and how the course is set up. 
 In terms of content, we will use this week to do a math diagnostic, get everyone access to the textbook and homework system, and understand the syllabus.
 
-```{dropdown} <label><input type="checkbox" id="video1-1" class="box"> **Video 1.1: Introduction from Dr. Shini Somara (4:05)** </input></label> 
+## Course Introductions!
 
-<div class="containerYT">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Hello, my name is Firas Moosvi and I am your instructor for Physics 111! 
 
+## Navigating the course website
+
+Live demo...
+
+## Navigating Mastering Physics
+
+```{tip}
+I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
 ```
 
-```{dropdown} <label><input type="checkbox" id="video1-2" class="box"> **Video 1.1: Introduction from Dr. Shini Somara (4:05)** </input></label> 
+## Online polls using Sli.do
 
-<div class="containerYT">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Event Code: Physics111
 
+<iframe src="https://app.sli.do/event/lk89xpvr" width="500px" height="700px">
+
+## Math Diagnostic
+
+```{tip}
+I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
 ```
 
-Which wa
-km
+## Example videos you should expect to see starting next week
+
+Here is an initial video from [CrashCourse Physics](https://www.youtube-nocookie.com/embed/yBMeYW8Nm_s).
+And a second video from [FlippingPhysics](https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4)
+

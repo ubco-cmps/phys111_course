@@ -18,6 +18,10 @@
     - file: about/feedback
       title: Anonymous Feedback Form
 
+- part: Lectures
+  chapters: 
+    - file: class/week01/week01_summary.md
+      title: Lecture 1 - Introductions
 # - part: Part 1 - Kinematics
 #   chapters:
 #     - file: class/part1
