@@ -60,7 +60,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Mastering Physics code |  moosvi87376 (This is our course code and you will need it when you first [log on to Mastering Physics](https://portal.mypearson.com)) |                                                                         | 
 | Pre-requisites      | One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. (Physics 12 is strongly recommended.) |
 | Co-requisites       | Math 100                                                                                       |
-| Costs               | Total $115.50 + tax CAD                                                                        |
+| Additional Course Fees               | Total $115.50 + tax CAD                                                                        |
 | Lectures            | Online Thursdays at 12:00                                                                      |
 | Tutorial            | You **must**(^) register for a tutorial section.                                               |
 | Laboratory          | You **must** register for a laboratory section.                                                |
@@ -262,7 +262,7 @@ Invitation to [join the unofficial UBCO first year science Discord Server](https
 
 Here is a [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) and if you prefer watching a video:
 
-<div class="container">
+<div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3ooRuvrPQsU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -274,14 +274,16 @@ First of all, I'm sorry you're having trouble and are considering withdrawing fr
 This is no problem, and I will not be personally offended or upset you need to do this, I encourage you to do what you feel is right for you and your situation. 
 Below is some information that might be helpful for you in making the decision.
 
-| Withdrawal type | Effect on Transcript | Tuition refund |
-| --------------- | -------------------- | -------------- | 
-| Before the 1st withdrawal date | None  | 100% refund    |
-| Before the 2nd withdrawal date  | W on transcript | [0 - 50%](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=14,339,1033,0) refund (depending on the date you're withdrawing) |
-| After the 2nd withdrawal date (cannot happen without faculty approval) | W on transcript | 0% |
+| Withdrawal type                 | Effect on Transcript | Tuition refund                                                                                     |
+|---------------------------------|----------------------|----------------------------------------------------------------------------------------------------|
+| Before September 21, 2020 11:59 PDT | None                 | 100% refund                                                                                        |
+| Before November 13, 2020 11:59 PDT | W on transcript      | [See UBCO Calendar](https://students.ok.ubc.ca/courses-money-enrolment/finances/tuition-and-fees/) |
+| After 11:59 PDT November 13, 2020 ^ | W on transcript      | [See UBCO Calendar](https://students.ok.ubc.ca/courses-money-enrolment/finances/tuition-and-fees/) |
+
+^ Note: Withdrawal after this date cannot happen without approval from the Faculty (Email: fos.students.ubco@ubc.ca).
 
 There are factors other than money and your transcript to consider as well, including your mental health, graduation requirements/timelines, eligibility for student loans, bursaries, scholarships etc.
-I advise you to [read the full list of considerations](https://students.ok.ubc.ca/courses-money-enrolment/registration/late-course-changes/) here and contact your faculty advisor if you have additional questions.
+I advise you to [read the full list of considerations](https://students.ok.ubc.ca/courses-money-enrolment/registration/late-course-changes/) here and conslt with an Academic Advisor or your Program Advisor if you have additional questions.
 
 ## How do I do well in this course? 
 
@@ -369,7 +371,7 @@ There are some learning tools that I would like to experiment with this year, an
 
 - [Hypothes.is](https://web.hypothes.is/privacy/)
 
-<div class="container">
+<div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

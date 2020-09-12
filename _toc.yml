@@ -18,25 +18,27 @@
     - file: about/feedback
       title: Anonymous Feedback Form
 
-- part: Lectures
-  chapters: 
+- part: Part 1 - Kinematics
+  chapters:
     - file: class/week01/week01_summary.md
-      title: Lecture 1 - Introductions
-# - part: Part 1 - Kinematics
-#   chapters:
-#     - file: class/part1
-#       title: Introduction
-#     - file: class/test_notebook
-#     - file: class/week01/week01_summary
-#       title: Week 1 - Topic
-#     - file: class/week02/week02_summary
-#       title: Week 2 - Topic
-#     - file: class/week03/week03_summary
-#       title: Week 3 - Topic
-#     - file: class/week04/week04_summary
-#       title: Week 4 - Topic
-#     - file: class/week05/week05_summary
-#       title: Week 5 - Topic
+      title: Week 1 - Introductions!
+    - file: class/week02/week02_summary
+      title: Week 2 - Chapter 2
+      expand_sections: true
+      sections:
+        - file: class/week02/readings
+        - file: class/week02/videos
+        - file: class/week02/homework
+        - file: class/week02/lecture
+        - file: class/week02/test
+        - file: class/week02/lab
+
+    # - file: class/week03/week03_summary
+    #   title: Week 3 - Topic
+    # - file: class/week04/week04_summary
+    #   title: Week 4 - Topic
+    # - file: class/week05/week05_summary
+    #   title: Week 5 - Topic
 # - part: Part 2 - Dynamics
 #   chapters:
 #     - file: class/part2

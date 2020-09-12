@@ -23,7 +23,7 @@ I have added an assignment called "Introduction to Mastering Physics" to help fa
 
 Event Code: Physics111
 
-<iframe src="https://app.sli.do/event/lk89xpvr" width="500px" height="700px">
+<iframe src="https://app.sli.do/event/lk89xpvr" width="500px" height="700px"></iframe>
 
 ## Math Diagnostic
 
@@ -33,6 +33,10 @@ I have added an assignment called "Introduction to Mastering Physics" to help fa
 
 ## Example videos you should expect to see starting next week
 
-Here is an initial video from [CrashCourse Physics](https://www.youtube-nocookie.com/embed/yBMeYW8Nm_s).
-And a second video from [FlippingPhysics](https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4)
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/yBMeYW8Nm_s" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
