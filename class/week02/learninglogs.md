@@ -26,7 +26,7 @@ We will grade these based on the thoughtfulness of the responses rather than the
 Each week, I will ask you to type out the integrity pledge, letter by letter, so you understand how important it is to me that you maintain your academic integrity as you go through this course.
 
 ```{warning}
-I affirm and pledge that I will not give or receive any unauthorized help on any of this week's material including but not limited to homework, tests, bonus-tests, learning logs and any lecture material. I also affirm that all work will be my own, and that I will follow all of the rules set out by my instructor.
+*I affirm and pledge that I will not give or receive any unauthorized help on any of this week's material including but not limited to homework, tests, bonus-tests, learning logs and any lecture material. I also affirm that all work will be my own, and that I will follow all of the rules set out by my instructor.*
 ```
 
 ## Task 4: Well-being check (20%)
