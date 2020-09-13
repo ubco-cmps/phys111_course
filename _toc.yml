@@ -25,6 +25,7 @@
         - file: class/week02/lecture
         - file: class/week02/test
         - file: class/week02/lab
+        - file: class/week02/learninglogs
 
     # - file: class/week03/week03_summary
     #   title: Week 3 - Topic
