@@ -6,7 +6,7 @@ I've split these tasks up into several chunks so it's a bit more manageable.
 In the first chunk (Before the first class) are the same four things that you received through a Canvas Announcement.
 
 ```{dropdown} <h3>Before the first class</h3>
-
+:open:
 <label><input type="checkbox" id="todo1-1" class="box"> **1) Make sure you have the textbook!**  </input></label> 
 
 You'll need it to get through the course, and do all the homework assignments using the online system. 

@@ -1,10 +1,12 @@
 (page_topic2)=
-Topic 2
+Week 2 Summary
 =======================
 
-<!-- 
 ## How this course is organized
 
+Hello students! Welcome to Week 2 - this week we will begin physics! 
+
+<!-- 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/XXXXX" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
