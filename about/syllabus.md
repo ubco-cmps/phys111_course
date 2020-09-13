@@ -6,9 +6,6 @@
 
 This is the official syllabus and course outline for Physics 111.
 
-```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
-```
-
 ## PHYS 111 (3) Introductory Physics for the Physical Sciences I
 
 The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?code=PHYS) of this course is: 
@@ -86,12 +83,16 @@ Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrol
 
 ## Contact the Teaching Team
 
-| Team Member                               | Pronounce as     | Contact | Office Hour |
+| Team Member | Role                               | Pronounce as     | Contact | Office Hour |
 |-------------------------------------------|------------------|---------|-------------|
-| Dr. Firas Moosvi (he/his/him); Instructor | Fur-az Moose-vee | TBD     | TBD         |
-| (TA)                                      |                  | TBD     | TBD         |
-| (TA)                                      |                  | TBD     | TBD         |
-| (TA)                                      |                  | TBD     | TBD         |
+| Dr. Firas Moosvi (he/his/him) | Instructor | Fur-az Moose-vee | Piazza     | TBD         |
+| Michael Kudla | TA                                    |                  | Piazza     | TBD         |
+| Stephen Collins  | TA                                 |                  | Piazza     | TBD         |
+| Graham Bovett   | TA                                    |                  | Piazza     | TBD         |
+| Ramie Ali-Adeeb | TA                                     |                  | Piazza     | TBD         |
+| Graham Bovett   | TA                                    |                  | Piazza     | TBD         |
+| Gurbir Amrit    | TA                                   |                  | Piazza     | TBD         |
+| Graham Bovett   | TA                                    |                  | Piazza     | TBD         |
 
 (grading_practices)=
 ## How will I be evaluated in this course?
@@ -100,11 +101,11 @@ The grading scheme for this course is here:
 
 | Item                  | Weight         | Due date(s) |
 |-----------------------|----------------|-------------|
-| Learning Logs         | 10% (10 x 1%)  | TBD         |
-| Homework Assignments  | 20% (10 x 2%)  | TBD         |
-| Labs                  | 20% (8 x 2.5%) | TBD         |
-| Tests (& Bonus Tests) | 30% (5 x 6%)   | TBD         |
-| Final Exam            | 20%            | TBD         |
+| Learning Logs         | 10% (10 x 1%)  | Fridays at 18:00         |
+| Homework Assignments  | 20% (10 x 2%)  | Wednesdays at 18:00         |
+| Labs                  | 20% (8 x 2.5%) | Variable         |
+| Tests (& Bonus Tests) | 30% (5 x 6%)   | Thursday at 18:00 to Saturday at 18:00         |
+| Final Exam            | 20%            | In the exam period         |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken.
@@ -124,8 +125,6 @@ Yes. To pass this course, you must do all of the following:
 
 ## Course Learning Outcomes (AKA what will I learn in this course?)
 
-Coming soon!
-
 ```{tip}
 The full course schedule is available here: {ref}`page_Course_Schedule`
 ```
@@ -134,7 +133,7 @@ The full course schedule is available here: {ref}`page_Course_Schedule`
 The following are required items for this course, and their costs (in $CAD) are:
 
 - eTextbook ($115.50 + tax) OR physical textbook (variable)
-- Access to online homework system ($0; comes included with new purchases)
+- Access to online homework system ($0; included with new purchases)
 - Lab Manual ($0)
 
 Being very conscious of the high tuition and technology costs, I have made efforts to minimize the additional cost of taking this course.
@@ -167,7 +166,7 @@ Either an e-Text or a physical textbook will work as long as you have the Master
 New textbooks from the UBCO bookstore have it included.
 If you purchase your textbook from elsewhere, or have a used textbook you’ll need to purchase it separately. 
 **Update**: there is now option to purchase just the Mastering Physics access for $50.50 from the link above. 
-To be clear, the UBCO Bookstore has three options: 1) eText with Mastering Physics access code ($115.50 + tax), 2) Physical textbook with Mastering Physics access code ($150 + tax), 3) Mastering Physics access code only ($50.50 + tax). Most students will choose choose Option 1 which is the pa
+To be clear, the UBCO Bookstore has three options: 1) eText with Mastering Physics access code ($115.50 + tax), 2) Physical textbook with Mastering Physics access code ($150 + tax), 3) Mastering Physics access code only ($50.50 + tax). Most students will choose choose Option 1.
 
 ```{warning}
 The UBCO bookstore has warned me there may be shipping delays due to COVID-19 if you choose to get a physical textbook. If you’re ordering it online or through the bookstore, I encourage you to call or email to confirm there is stock, and that the shipping times (if applicable) are reasonable before placing the order.
