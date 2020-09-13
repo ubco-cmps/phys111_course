@@ -7,7 +7,7 @@ Here are the tasks for this week's learning log.
 
 Watch this short video (14 minutes) from Dr. Eric Mazur on Active Learning and Peer Instruction.
 
-```{dropdown} <label><input type="checkbox" id="week02_reading1" class="box"> Title </input></label> 
+```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_llvideo" class="box"> **Active Learning and Peer Instruction**</input></label></h4> 
 :open:
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Z9orbxoRofI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
