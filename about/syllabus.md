@@ -83,29 +83,29 @@ Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrol
 
 ## Contact the Teaching Team
 
-| Team Member | Role                               | Pronounce as     | Contact | Office Hour |
-|-------------------------------------------|------------------|---------|-------------|
-| Dr. Firas Moosvi (he/his/him) | Instructor | Fur-az Moose-vee | Piazza     | TBD         |
-| Michael Kudla | TA                                    |                  | Piazza     | TBD         |
-| Stephen Collins  | TA                                 |                  | Piazza     | TBD         |
-| Graham Bovett   | TA                                    |                  | Piazza     | TBD         |
-| Ramie Ali-Adeeb | TA                                     |                  | Piazza     | TBD         |
-| Graham Bovett   | TA                                    |                  | Piazza     | TBD         |
-| Gurbir Amrit    | TA                                   |                  | Piazza     | TBD         |
-| Graham Bovett   | TA                                    |                  | Piazza     | TBD         |
+| Team Member                   | Role       | Pronounce as     | Contact | Office Hour |
+| ----------------------------- | ---------- | ---------------- | ------- | ----------- |
+| Dr. Firas Moosvi (he/his/him) | Instructor | Fur-az Moose-vee | Piazza  | TBD         |
+| Michael Kudla                 | TA         |                  | Piazza  | TBD         |
+| Stephen Collins               | TA         |                  | Piazza  | TBD         |
+| Graham Bovett                 | TA         |                  | Piazza  | TBD         |
+| Ramie Ali-Adeeb               | TA         |                  | Piazza  | TBD         |
+| Graham Bovett                 | TA         |                  | Piazza  | TBD         |
+| Gurbir Amrit                  | TA         |                  | Piazza  | TBD         |
+| Graham Bovett                 | TA         |                  | Piazza  | TBD         |
 
 (grading_practices)=
 ## How will I be evaluated in this course?
 
 The grading scheme for this course is here:
 
-| Item                  | Weight         | Due date(s) |
-|-----------------------|----------------|-------------|
-| Learning Logs         | 10% (10 x 1%)  | Fridays at 18:00         |
-| Homework Assignments  | 20% (10 x 2%)  | Wednesdays at 18:00         |
-| Labs                  | 20% (8 x 2.5%) | Variable         |
-| Tests (& Bonus Tests) | 30% (5 x 6%)   | Thursday at 18:00 to Saturday at 18:00         |
-| Final Exam            | 20%            | In the exam period         |
+| Item                  | Weight         | Due date(s)                            |
+| --------------------- | -------------- | -------------------------------------- |
+| Learning Logs         | 10% (10 x 1%)  | Fridays at 18:00                       |
+| Homework Assignments  | 20% (10 x 2%)  | Wednesdays at 18:00                    |
+| Labs                  | 20% (8 x 2.5%) | Variable                               |
+| Tests (& Bonus Tests) | 30% (5 x 6%)   | Thursday at 18:00 to Saturday at 18:00 |
+| Final Exam            | 20%            | In the exam period                     |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken.
