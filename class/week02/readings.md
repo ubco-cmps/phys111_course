@@ -14,7 +14,6 @@ This week the readings assignments are listed below:
 
 Click the button below to be taken to the Pearson textbook to access the eText
 
-
 ````{panels}
 
 If you have access to the eText, you can go to the eText from here
@@ -27,4 +26,11 @@ If you have access to the eText, you can go to the eText from here
 :classes: btn-outline-warning btn-block stretched-link text-dark
 ```
 ````
+
+```{dropdown} <label><input type="checkbox" id="week02_readings" class="box"> **Review** </input></label> 
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
 

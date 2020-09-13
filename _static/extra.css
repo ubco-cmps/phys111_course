@@ -20,3 +20,9 @@ Source: https: //www.w3schools.com/howto/howto_css_responsive_iframes.asp
     width: 100%;
     height: 100%;
 }
+
+/* remove space above dropdowns */
+
+.dropdown-margin{
+    margin: 0;
+}

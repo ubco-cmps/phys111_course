@@ -13,11 +13,6 @@
     - file: getting-started/todo_list
       title: Things to do before start of course
 
-- part: Course Feedback
-  chapters:
-    - file: about/feedback
-      title: Anonymous Feedback Form
-
 - part: Part 1 - Kinematics
   chapters:
     - file: class/week01/week01_summary.md
@@ -74,3 +69,8 @@
 #   chapters:
 #     - file: class/final
 #       title: Exam stuff
+
+- part: Course Feedback
+  chapters:
+    - file: about/feedback
+      title: Anonymous Feedback Form
