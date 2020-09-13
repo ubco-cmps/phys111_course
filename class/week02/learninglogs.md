@@ -39,11 +39,13 @@ In terms of providing support for you as an instructor I’d like for us to meas
 Q1: On a scale of 1-10, rate your CURRENT level of anxiety and stress: 
 
 Anxiety: 1-10
+
 Stress: 1-10
 
 Q2: On a scale of 1-10, rate WHERE DO YOU THINK YOUR level of anxiety and stress SHOULD BE: 
 
 Anxiety: 1-10
+
 Stress: 1-10
 
 Q3: Is there anything else you would like to tell me?
@@ -54,6 +56,7 @@ I’ll do what I can within my role as an instructor, in terms of workload and d
 Part of undergraduate life and healthy living is finding ways to manage your stress and anxiety in a manner that is effective for you - this will look different for each person! 
 If you want to explore additional resources, start with the ones listed at [UBCO Health & Wellness](https://students.ok.ubc.ca/health-wellness/) and see if the tips there work for you!
 
-Finally, remember (from the course syllabus): as I'm sure you're aware, *there is a global pandemic* happening right now and we could all use some extra compassion and humanity.
-If you're going through something that is affecting you (course or otherwise), you are always welcome to come and talk to me about it. 
-If I am not able to help you myself, then I can probably direct you to the right person or resource.
+Finally, remember (from the course syllabus): 
+> As I'm sure you're aware, *there is a global pandemic* happening right now and we could all use some extra compassion and humanity.
+> If you're going through something that is affecting you (course or otherwise), you are always welcome to come and talk to me about it. 
+> If I am not able to help you myself, then I can probably direct you to the right person or resource.
