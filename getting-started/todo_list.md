@@ -36,9 +36,3 @@ Some of your first year instructors have banded together to create a Discord ser
 You are not certainly not required to sign up for this service as the data is not hosted on Canadian servers, but if you like, you can sign up for the Discord server with this invitation link: https://discord.gg/uzcEBSK.
 
 ```
-
-```{dropdown} <h3>In the first week</h3>
-
-Coming soon...
-
-```

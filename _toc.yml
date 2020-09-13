@@ -8,15 +8,13 @@
     - file: about/doing_well
     - file: about/faq
 
-- part: Getting started!
-  chapters:
-    - file: getting-started/todo_list
-      title: Things to do before start of course
-
 - part: Part 1 - Kinematics
   chapters:
     - file: class/week01/week01_summary.md
       title: Week 1 - Introductions!
+      sections:
+      - file: getting-started/todo_list
+        title: Things to do before start of course
     - file: class/week02/week02_summary
       title: Week 2 - Chapter 2
       expand_sections: true
