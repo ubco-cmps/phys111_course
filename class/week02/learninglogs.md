@@ -5,7 +5,7 @@ Here are the tasks for this week's learning log.
 
 ## Task 1: Studying Physics
 
-Watch this short video (14 minutes) from Dr. Eric Mazur on Active Learning and Peer Instruction.
+Watch this short video (14 minutes; you can watch it at 1.5x or 2x speed but watch to the end!) from Dr. Eric Mazur on Active Learning and Peer Instruction.
 
 ```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_llvideo" class="box"> **Active Learning and Peer Instruction**</input></label></h4> 
 :open:
