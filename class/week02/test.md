@@ -8,8 +8,8 @@ This test will be open to you after the Week 2 lecture.
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/63995
-:text: (Link coming soon!)
+```{link-button} https://canvas.ubc.ca
+:text: (Link coming after lecture on Thursday!)
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```
