@@ -1,15 +1,14 @@
 # Lab
 
-
 ````{panels}
 
-This week in the lab you will ...
+The lab details are posted on the lab course.
 
 ++++ 
 
-```{link-button} https://portal.mypearson.com
-:text: Physics 111 Lab 1
-:type: ref
+```{link-button} https://canvas.ubc.ca/courses/66799
+:text: Physics 111 Lab Course
+:type: url
 :classes: btn-outline-primary btn-block stretched-link text-dark
 ```
 ````

@@ -1,16 +1,16 @@
 # Learning Logs
 
-This week's learning log assignment is on Canvas.
+This week's learning log assignment will be posted on Canvas by Thursday.
 
 Here are the questions you will be asked to answer in the learning logs.
 
-## Task 1: Studying Physics
+## Task 1: TBD
 
-Watch this short video
+## Task 2: Renew your vows
 
-## Task 2: Reflection on active learning
+Each week, I am asking you to type out the integrity pledge, letter by letter, so you understand how important it is to me that you maintain your academic integrity as you go through this course.
 
-What did you think about the video? Reflect on the video and compare it to your current studying strategy - how well does it compare to what is suggested above?
+<img src="../../images/pledge.png>
 
 ## Task 3: Well-being check
 
