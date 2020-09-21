@@ -6,7 +6,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ````{margin}
 ```{admonition} Checklist of items
-:class: tip
+:class: tip sticky
 
 <input type="checkbox" id="week03_video13" class="box"><label>Calculus: Derivatives</input></label>
 
