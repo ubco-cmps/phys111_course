@@ -10,7 +10,7 @@ Here are the questions you will be asked to answer in the learning logs.
 
 Each week, I am asking you to type out the integrity pledge, letter by letter, so you understand how important it is to me that you maintain your academic integrity as you go through this course.
 
-<img src="../../images/pledge.png>
+<img src="../../images/pledge.png">
 
 ## Task 3: Well-being check
 
