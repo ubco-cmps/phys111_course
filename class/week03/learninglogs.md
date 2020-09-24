@@ -34,7 +34,7 @@ Q1.7 - What score do you think you got on this test?
 
 Each week, I am asking you to type out the integrity pledge, letter by letter, so you understand how important it is to me that you maintain your academic integrity as you go through this course.
 
-<img src="../../images/pledge.png">
+<img src="../../images/pledges.png">
 
 ## Task 3: Well-being check
 
