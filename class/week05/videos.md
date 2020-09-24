@@ -46,6 +46,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/1kjgVcflx0Y" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0085_lecture_notes_-_introduction_to_inertia_and_inertial_mass.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/inertial-mass.html)
 ```

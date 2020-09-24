@@ -40,10 +40,10 @@
     #   title: Week 3 - Topic
     # - file: class/week04/week04_summary
     #   title: Week 4 - Topic
-    - file: class/week05/week05_summary
-      title: Week 5 - Topic
-      sections:
-        - file: class/week05/videos
+    # - file: class/week05/week05_summary
+    #   title: Week 5 - Topic
+    #   sections:
+    #     - file: class/week05/videos
 # - part: Part 2 - Dynamics
 #   chapters:
 #     - file: class/part2
