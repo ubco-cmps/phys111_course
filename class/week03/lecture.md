@@ -12,4 +12,4 @@ You can go to [https://sli.do/physics111](https://app.sli.do/event/lk89xpvr/live
 
 Will be available here after the lecture.
 
-<iframe src="../../2020-09-17 - Lecture2.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../2020-09-24 - Lecture3.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
