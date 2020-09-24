@@ -4,7 +4,31 @@ This week's learning log assignment will be posted on Canvas by Thursday.
 
 Here are the questions you will be asked to answer in the learning logs.
 
-## Task 1: TBD
+## Task 1: Test Reflection
+
+This week you will have your first real test in Physics 111 !
+I want you to complete this reflection **after** you finish your test so you can reflect on your experience properly.
+You will not receive your test grade until after the learning log is due - this is intentional.
+
+Q1.1 - How did you prepare for the test (your answers are not graded, so there is no need to lie or exaggerate!) ? Answer in one or two sentences.
+
+Q1.2 - Do you feel that your preparation helped you on the test this week? Answer in one or two sentences.
+
+Q1.3 - Will you do anything differently (preparation-wise) for the next tests? Answer in one or two sentences.
+
+Q1.4 - Select a question from the test that you know you got wrong and do ONE of three things: 
+
+A) explain the misconception that you had that caused you to get the question wrong. 
+
+B) solve the question (or one like it) that you got wrong - the exact numbers or the details of the question do not matter, a similar conceptual question is sufficient. You can attach a picture, or write it in text.
+
+C) You can skip this question if you do not feel like you got a question wrong. 
+
+Q1.5 - Do you plan to take the Bonus-Test next week to improve your mark? Answer in one or two sentences.
+
+Q1.6 - Is there anything else you want me to know about your test ? Answer in one or two sentences.
+
+Q1.7 - What score do you think you got on this test?
 
 ## Task 2: Renew your vows
 
