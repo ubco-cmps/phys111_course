@@ -84,14 +84,12 @@ See this video message showing you how to navigate the course website.
 
 | Team Member                   | Role       | Pronounce as     | Contact | Office Hour |
 | ----------------------------- | ---------- | ---------------- | ------- | ----------- |
-| Dr. Firas Moosvi (he/his/him) | Instructor | Fur-az Moose-vee | Piazza  | TBD         |
+| Dr. Firas Moosvi (he/his/him) | Instructor | Fur-az Moose-vee | Piazza  | Thursday 4:30 - 5:30 PM         |
+| Stephen Collins               | TA         |                  | Piazza  | Monday 12 - 1 PM         |
+| Graham Bovett                 | TA         |                  | Piazza  | Monday 10:30 - 11:30         |
+| Gurbir Amrit                  | TA         |                  | Piazza  | Wednesday 11 - 12 PM        |
 | Michael Kudla                 | TA         |                  | Piazza  | TBD         |
-| Stephen Collins               | TA         |                  | Piazza  | TBD         |
-| Graham Bovett                 | TA         |                  | Piazza  | TBD         |
-| Ramie Ali-Adeeb               | TA         |                  | Piazza  | TBD         |
-| Graham Bovett                 | TA         |                  | Piazza  | TBD         |
-| Gurbir Amrit                  | TA         |                  | Piazza  | TBD         |
-| Graham Bovett                 | TA         |                  | Piazza  | TBD         |
+| Ramie Ali-Adeeb               | TA         |                  | Piazza  | N/A         |
 
 (grading_practices)=
 ## How will I be evaluated in this course?
