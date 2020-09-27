@@ -27,7 +27,6 @@
         - file: class/week02/learninglogs
     - file: class/week03/week03_summary
       title: Week 3 - Chapter 3
-      expand_sections: true
       sections:
         - file: class/week03/readings
         - file: class/week03/videos
@@ -36,6 +35,17 @@
         - file: class/week03/test
         - file: class/week03/lab
         - file: class/week03/learninglogs
+    - file: class/week04/week04_summary
+      title: Week 4 - Chapter 4
+      expand_sections: true
+      sections:
+        - file: class/week04/readings
+        - file: class/week04/videos
+        - file: class/week04/homework
+        - file: class/week04/lecture
+        - file: class/week04/test
+        - file: class/week04/lab
+        - file: class/week04/learninglogs
     # - file: class/week03/week03_summary
     #   title: Week 3 - Topic
     # - file: class/week04/week04_summary
