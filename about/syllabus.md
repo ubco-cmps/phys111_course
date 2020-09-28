@@ -86,9 +86,9 @@ See this video message showing you how to navigate the course website.
 | ----------------------------- | ---------- | ---------------- | ------- | ----------- |
 | Dr. Firas Moosvi (he/his/him) | Instructor | Fur-az Moose-vee | Piazza  | Thursday 4:30 - 5:30 PM         |
 | Stephen Collins               | TA         |                  | Piazza  | Monday 12 - 1 PM         |
-| Graham Bovett                 | TA         |                  | Piazza  | Monday 10:30 - 11:30         |
+| Graham Bovett                 | TA         |                  | Piazza  | Friday 12 - 1 PM         |
 | Gurbir Amrit                  | TA         |                  | Piazza  | Wednesday 11 - 12 PM        |
-| Michael Kudla                 | TA         |                  | Piazza  | TBD         |
+| Michael Kudla                 | TA         |                  | Piazza  | Tuesday 2 - 3 PM         |
 | Ramie Ali-Adeeb               | TA         |                  | Piazza  | N/A         |
 
 (grading_practices)=
