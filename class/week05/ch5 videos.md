@@ -9,17 +9,29 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 :class: tip sticky
 
 <input type="checkbox" id="week05_video1" class="box"><label>Video 1</input></label>
+
 <input type="checkbox" id="week05_video2" class="box"><label>Video 2</input></label>
+
 <input type="checkbox" id="week05_video3" class="box"><label>Video 3</input></label>
+
 <input type="checkbox" id="week05_video4" class="box"><label>Video 4</input></label>
+
 <input type="checkbox" id="week05_video5" class="box"><label>Video 5</input></label>
+
 <input type="checkbox" id="week05_video6" class="box"><label>Video 6</input></label>
+
 <input type="checkbox" id="week05_video7" class="box"><label>Video 7</input></label>
+
 <input type="checkbox" id="week05_video8" class="box"><label>Video 8</input></label>
+
 <input type="checkbox" id="week05_video9" class="box"><label>Video 9</input></label>
+
 <input type="checkbox" id="week05_video10" class="box"><label>Video 10</input></label>
+
 <input type="checkbox" id="week05_video11" class="box"><label>Video 11</input></label>
+
 <input type="checkbox" id="week05_video12" class="box"><label>Video 12</input></label>
+
 
 ```
 ````
