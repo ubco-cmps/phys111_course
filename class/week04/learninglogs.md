@@ -4,9 +4,17 @@ This week's learning log assignment will be posted on Canvas by Thursday.
 
 Here are the questions you will be asked to answer in the learning logs.
 
-## Task 1: TBD
+## Task 1: Formula Sheet
 
-Details coming soon.
+It is about that time in the course where the number of formulas you have to keep track of is getting large. To help you keep track of the concept and formulas, and to encourage you to reference your own notes during assessments, this week's learning log is about getting you set up with your own formula sheet. 
+
+I have created a template for you below, but you are NOT required to use it! If you already have your own formula sheet and it's working for you, please continue to use it.
+
+Keep in mind though, that an ideal formula sheet helps you quickly (i.e. at a glance) find the information you need AND help you remember what you need to do with it. I wish someone had told me that during my undergraduate career! 
+
+If you have other/better versions that you'd like to share, be my guest (on Piazza)! Though I suggest you not allow others to *edit* your file. Each person should have their own formula sheet.
+
+[You can access my template and make a copy for yourself here.](https://docs.google.com/document/d/1H9Vyln44eBsdy4SRx9NFQoIbfuIfmVCQDyr-dUKxPYM/copy)
 
 ## Task 2: Renew your vows
 
