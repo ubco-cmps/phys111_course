@@ -98,7 +98,7 @@ The grading scheme for this course is here:
 
 | Item                  | Weight         | Due date(s)                            |
 | --------------------- | -------------- | -------------------------------------- |
-| Learning Logs         | 10% (10 x 1%)  | Fridays at 18:00                       |
+| Learning Logs         | 10% (10 x 1%)  | ~Fridays~ Saturdays at 18:00           |
 | Homework Assignments  | 20% (10 x 2%)  | Wednesdays at 18:00                    |
 | Labs                  | 20% (8 x 2.5%) | Variable                               |
 | Tests (& Bonus Tests) | 30% (5 x 6%)   | Thursday at 18:00 to Saturday at 18:00 |
