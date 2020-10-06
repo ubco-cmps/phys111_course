@@ -59,6 +59,27 @@
         - file: class/week05/test
         - file: class/week05/lab
         - file: class/week05/learninglogs
+    - file: class/week06/week06_summary
+      title: Week 6 - Chapter 6
+      sections:
+      #   - file: class/week06/readings
+      #   - file: class/week06/videos
+      #   - file: class/week06/homework
+      #   - file: class/week06/lecture
+      #   - file: class/week06/test
+        - file: class/week06/lab
+      #   - file: class/week06/learninglogs
+    - file: class/week07/week07_summary
+      title: Week 7 - Week Off !!
+      sections:
+        - file: class/week07/readings
+        - file: class/week07/videos
+        - file: class/week07/homework
+        - file: class/week07/lecture
+        - file: class/week07/test
+        - file: class/week07/lab
+        - file: class/week07/learninglogs
+
 
 # - part: Part 3 - Energy and Momentum
 #   chapters:
