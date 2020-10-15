@@ -61,8 +61,6 @@
         - file: class/week05/learninglogs
     - file: class/week06/week06_summary
       title: Week 6 - Week Off !!
-      sections:
-        - file: class/week06/lab
     - file: class/week07/week07_summary
       title: Week 7 - Chapter 6
       sections:

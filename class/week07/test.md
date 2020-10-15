@@ -2,7 +2,7 @@
 
 ````{panels}
 
-This week is a Bonus Test, and it will mostly be on the contents of Chapter 4 and 5.
+This week is Bonus Test 2, and it will mostly be on the contents of Chapter 4 and 5.
 
 ++++ 
 
