@@ -6,8 +6,8 @@ This week is Bonus Test 2, and it will mostly be on the contents of Chapter 4 an
 
 ++++ 
 
-```{link-button} https://portal.mypearson.com
-:text: Mastering Physics
+```{link-button} https://canvas.ubc.ca
+:text: Canvas
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```
