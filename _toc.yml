@@ -50,7 +50,6 @@
   chapters:
     - file: class/week05/week05_summary
       title: Week 5 - Chapter 5
-      expand_sections: true
       sections:
         - file: class/week05/readings
         - file: class/week05/videos
@@ -71,8 +70,9 @@
         - file: class/week07/test
         - file: class/week07/lab
         - file: class/week07/learninglogs
-    - file: class/week07/week07_summary
+    - file: class/week08/week08_summary
       title: Week 8 - Chapter 7
+      expand_sections: true
       sections:
         - file: class/week08/readings
         - file: class/week08/videos
