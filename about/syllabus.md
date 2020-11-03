@@ -46,6 +46,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 |-------------|----------------|-----------|
 | Sept. 4, 2020 | Updated textbook price to remove tax; fix class time, clarify vol1/vol2 | Tax is applied depending on where you're purchasing from so is variable(?) |
 | Sept. 5, 2020 | Added UBC statement on "Online learning for international students" and added an extra clarification about the textbook | UBC has requested the language to be added for students taking this course outside Canada. | 
+| Nov. 2, 2020 | Updated language to make it clear labs are not subject to the 48hr grace period | Labs are run separately from the courses |
 
 ## About this course
 
@@ -100,7 +101,7 @@ The grading scheme for this course is here:
 | --------------------- | -------------- | -------------------------------------- |
 | Learning Logs         | 10% (10 x 1%)  | ~Fridays~ Saturdays at 18:00           |
 | Homework Assignments  | 20% (10 x 2%)  | Wednesdays at 18:00                    |
-| Labs                  | 20% (8 x 2.5%) | Variable                               |
+| Labs                  | 20% (8 x 2.5%) | Variable (No Grace Period for the lab) |
 | Tests (& Bonus Tests) | 30% (5 x 6%)   | Thursday at 18:00 to Saturday at 18:00 |
 | Final Exam            | 20%            | In the exam period                     |
 
@@ -108,7 +109,7 @@ There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken.
 
 ```{attention} 
-All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
+All deadlines in this course EXCEPT for the labs, have an automatic 48 hour grace period after the due dates listed above.
 Any submissions submitted past the grace period will not be graded.
 ```
 
@@ -407,7 +408,7 @@ I'm sure we will come to some agreement, generally the earlier you let me know o
 No problem! There's not even any need to tell me, or ask for permission to miss deadlines.
 The course is designed to give you maximum flexibility: 
 
-- Every deadline has a 48-hour grace period that is automatically applied.
+- Every deadline (EXCEPT for the labs) has a 48-hour grace period that is automatically applied.
 - There is no late penalty if you use the grace period
 - You can use the grace period an unlimited amount of time in the course (though if it happens every week and for every assignment, I might check in with you and gently encourage you not to leave things to the last minute)
 
@@ -446,7 +447,7 @@ Though I sympathize with students and the stresses of your busy lives - in my op
 I have tried extremely hard to make this course focused on learning rather than grading, and where grading is needed, to have policies that are as student-friendly as possible.
 In particular, I hope (and expect) that the following features of the course should eliminate your temptation to cheat or plagiarize:
 
-- 48 hour grace-period on all homework and lab due dates and deadlines.
+- 48 hour grace-period on all due dates (EXCEPT labs) and deadlines.
 - Long testing window (48 hours) so you can start the tests whenever you're comfortable.
 - Weekly learning logs, homework and reading reflections to make you think about your learning ([metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/)).
 - Timed tests have generous time limits (allowable time is 1.25x the estimated time).
