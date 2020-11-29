@@ -8,6 +8,10 @@
     - file: about/doing_well
     - file: about/faq
 
+- part: Final Exam
+  chapters:
+    - file: class/final
+
 - part: Part 1 - Kinematics
   chapters:
     - file: class/week01/week01_summary.md
