@@ -6,10 +6,12 @@ The final exam will:
 
 - be conducted on Canvas in the same format of a Test.
 - be scheduled exam during the official scheduled time
-- be expected to join a Collaborate Ultra session.
-- have the same rules as Tests (but no test window)
+- be expected to join a Collaborate Ultra session, and then split off into breakout rooms according to your tutorial sections for invigilation (I will invigilate the tutorial exempt students).
+- have the same rules as Tests (but no test window).
+- have a time limit of 2 hours and 30 minutes. 
 - include multiple choice questions (similar to Tests).
 - include short answer questions (similar to final/midterm practice Qs).
+- include some long answer questiosn (similar to practice final/midterm Qs)
 - require you to solve some problems with symbols/algebra.
 - NOT include questions on deriving formulas.
 - have some choice (not a lot) in which problems you can choose to do.
