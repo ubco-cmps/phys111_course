@@ -16,6 +16,23 @@ The final exam will:
 - NOT include questions on deriving formulas.
 - have some choice (not a lot) in which problems you can choose to do.
 
+## Final exam rules
+
+The usual "Test" rules apply to the final exam also:
+
+- You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are - fine).
+- You DO NOT need to add the units in to the answers, Canvas numeric fields require only the numbers.
+- Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc...)
+- The test is open-book, open-notes, open-web.
+- Copying the question text and googling IS CHEATING
+- Using google to search for concepts is NOT cheating.
+- You can use ANY resource except CHEGG, Course Hero, SLADER and other similar websites that have Q&A or answer questions.
+- If you come across the same or similar question on google, resist the temptation to keep reading, and close your browser tab.
+- Do NOT take pictures of the questions - that IS CHEATING.
+- Do NOT share test questions with your anyone - that IS CHEATING.
+
+Overall, do not stress! You will be fine :-)
+
 ## Exam Structure
 
 Here is the approximate structure of the final exam:
