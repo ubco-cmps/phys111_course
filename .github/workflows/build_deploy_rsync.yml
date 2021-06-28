@@ -4,7 +4,7 @@ name: deploy-book
 on:
   push:
     branches:
-    - master
+    - main
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
@@ -19,9 +19,16 @@ jobs:
       with:
         python-version: 3.7
 
+    - name: cache installation
+      uses: actions/cache@v2
+      with:
+        path: ${{ env.pythonLocation }}
+        key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}-${{ hashFiles('requirements.txt') }}
+
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+
     # Build the book
     - name: Build the book
       run: |
@@ -35,7 +42,7 @@ jobs:
         REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
         LOCAL_DIR: "_build/html/"
-        COURSE_NAME: "2020_WT1/physics111"
+        COURSE_NAME: "2021_WT1/physics111"
       run: |
         mkdir ~/.ssh
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
