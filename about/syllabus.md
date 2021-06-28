@@ -70,6 +70,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 ```{tip}
 (^) Students with Physics 12 wanting a tutorial exemption should just register for XM2 - there is no application necessary.
 ```
+<div class="page_break"> </div>
 
 ## A message from your instructor
 
