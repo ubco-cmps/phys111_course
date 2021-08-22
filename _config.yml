@@ -4,6 +4,7 @@ author: Firas Moosvi
 logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md","files/*"]
+only_build_toc_files: true
 
 bibtex_bibfiles:
   - about/citations.bib
@@ -14,7 +15,7 @@ latex:
 html:
   navbar_number_sections : false
   home_page_in_navbar : true
-  baseurl : "https://firas.moosvi.com/courses/2021WT1/physics111/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://firas.moosvi.com/courses/2021_WT1/physics111/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   google_analytics_id: UA-168693744-3
   comments:
     hypothesis: true
@@ -41,12 +42,11 @@ sphinx:
     - dollarmath
     - html_image
     - linkify
-    - replacements
     - substitution
     myst_substitutions:
       INSTRUCTOR: "Dr. Firas Moosvi (he/his/him)"
-      PRONOUNCE: "Fur-az Moose-vee"
-      OFFICE: "ROOM 111"
+      PRONOUNCE: "[Fur-az Moose-vee](https://namedrop.io/firasmoosvi)"
+      OFFICE: "SCI 393"
       PHONE: "N/A"
       COURSE_CODE: "PHYS 111"
       SECTION: "001"
@@ -54,23 +54,22 @@ sphinx:
       TITLE: "Introductory Physics for the Physical Sciences I"
       PREREQS: "One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11 (Physics 12 is strongly recommended)."
       COREQS: "Math 100"
-      TERM: "2020 Winter Term 2"
-      ROOM: "ROOM 100"
-      MEETING_TIMES: "Monday, Wednesday, Friday from 1-2 PM"
+      TERM: "2021 Winter Term 1"
+      ROOM: "Online Via Zoom"
+      MEETING_TIMES: "Monday, Wednesday, Friday from 8-9 AM"
       GRACE_PERIOD: "48 hour"
-      W_DATE_1: "11:59 PDT on January 22, 2021"
-      W_DATE_2: "11:59 PDT on March 26, 2021"
-      W_DATE_3: "11:59 PDT on March 26, 2021"
-      EXAM_PERIOD: "Friday December 10th - Wednesday, December 22"
-      CANVAS_ID: "63995"
-      ED_ID: xxxxxxxx
+      W_DATE_1: "11:59 PDT on September 20, 2021"
+      W_DATE_2: "11:59 PDT on November 12, 2021"
+      W_DATE_3: "November 12, 2021"
+      EXAM_PERIOD: "Saturday December 11th - Wednesday, December 22"
+      CANVAS_ID: "81870"
       CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID"
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
-      # CU_LINK: "[Collaborate Ultra](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/5284)"
-      ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
+      ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
+      COURSE_LINK: "https://firas.moosvi.com/courses/2021_WT1/physics111"
       FORUM_LINK: "[Ed Discussion](https://us.edstem.org/JOIN_LINK/)"
-      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/xxxxxxxxxx)"
-      FORMAT: "Lectures, Labs, Tutorials and they will both be running online in this course."
+      #FORUM_LINK: "[Ed Discussion (sign up for it here)](https://ubc.ca1.qualtrics.com/jfe/form/SV_1BTAIXiMPvBRR2K)"
+      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
+      FORMAT: "Lectures, Labs, Tutorials and they will all be running online in this course."
       ASSOCIATE_HEAD: "Jake Bobowski [jake.bobowski@ubc.ca](mailto:jake.bobowski@ubc.ca)"
-      ANON_FEEDBACK: "[feedback form](https://cbc.ca)"
+      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_doJPm2LTfr463Fb)"

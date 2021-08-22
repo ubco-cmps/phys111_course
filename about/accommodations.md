@@ -2,7 +2,5 @@
 Accommodations
 =======================
 
-More details on this page is coming soon...
-
-In the meantime, please [contact the DRC](https://students.ok.ubc.ca/academic-success/disability-resources/).
-
+The Disability Resource Centre ensures educational equity for students with disabilities, injuries or illness.
+If you are disabled, have an injury or illness and require academic accommodations to meet the course objectives, [visit our website](https://students.ok.ubc.ca/drc/welcome.html) for more information or contact the DRC at: [drc.questions@ubc.ca](mailto:drc.questions@ubc.ca).
