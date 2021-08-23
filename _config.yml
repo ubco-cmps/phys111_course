@@ -63,7 +63,7 @@ sphinx:
       W_DATE_3: "November 12, 2021"
       EXAM_PERIOD: "Saturday December 11th - Wednesday, December 22"
       CANVAS_ID: "81870"
-      CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID"
+      CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID" # {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID)) }}
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
       COURSE_LINK: "https://firas.moosvi.com/courses/2021_WT1/physics111"

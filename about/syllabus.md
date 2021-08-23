@@ -6,6 +6,15 @@
 
 # Course Syllabus (Official)
 
+```{figure} ../images/construction.jpg
+---
+width: 750px
+name: Under Construction.
+---
+This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
+```
+
+<!-- 
 Below is the official UBC-mandated Course Syllabus for {{ COURSE_CODE }}.
 Elements of this document are **fixed** and unchanging.
 Additional details about the course are available on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
@@ -27,7 +36,7 @@ Additional details about the course are available on the {{ '[course website]({l
 
 **Phone:** {{ PHONE }}
 
-For information on how to contact your course instructor, including office hours, see the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+For information on how to contact your course instructor, including office hours, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
 
 ## Course Description
 
@@ -54,15 +63,6 @@ More details about the course can be found on the {{ '[course website]({link})'.
 There is no requirement to purchase textbooks or any other materials for this course.
 Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
-```{figure} ../images/construction.jpeg
- ---
- width: 750px
- name: Under Construction.
- ---
- This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
- ```
- 
-<!-- 
 ## Course Evaluation
 
 ```{include} syllabus_bits/grading_practices_simple.md

@@ -1,7 +1,7 @@
 This is the tentative plan for {{ COURSE_CODE }} this term.
 The exact details are subject to change, so this is roughly the plan we will try to follow.
 
-| Week # | Week            | Readings                                               | Homework         | Test or Bonus Test | Concepts Tested              |
+| # | Week            | Readings                                               | Homework         | Test or Bonus Test | Concepts Tested              |
 |--------|-----------------|--------------------------------------------------------|------------------|--------------------|------------------------------|
 | 1      | Sept 6-12       | Introducion to Physics 111 (and University!)           | Math Diagnostic  | Test 0             | Course policies              |
 | 2      | Sept 13-19      | Chapters 1 and 2: Math and Vectors                     | Chapter 1 & 2 HW | Bonus Test 0       | -                            |
