@@ -1,7 +1,7 @@
 # Book settings
 title: Physics 111 
 author: Firas Moosvi
-logo: images/logo.jpg
+logo: images/logo.png
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md","files/*"]
 only_build_toc_files: true
