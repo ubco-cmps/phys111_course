@@ -10,6 +10,14 @@ So even before the course starts, I have created a "sample" week with some fake 
 
 ## Flow in schematic form
 
+```{figure} ../images/workload.png
+---
+width: 800px
+name: directive-fig
+---
+A schematic of an ideal week in this course.
+```
+
 ## List of things to do this week
 
 Below is a list of things you need to do this week, links to where you can do them, as well as roughly the order you should do it.
