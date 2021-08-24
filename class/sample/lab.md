@@ -1,6 +1,5 @@
 # Lab
 
-
 ````{panels}
 
 The lab information for this week is in the Physics 111 Lab canvas course...
