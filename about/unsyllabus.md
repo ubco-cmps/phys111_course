@@ -4,7 +4,7 @@
 
 # Unsyllabus
 
-```{figure} ../images/construction.jpeg
+```{figure} ../images/construction.jpg
 ---
 width: 750px
 name: Under Construction.
@@ -103,12 +103,10 @@ We will do our best to follow the plan outlined in this unsyllabus, but in case 
 
 Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
 
-| Change Date | Summary                                                           | Rationale                                                    |
-|-------------|-------------------------------------------------------------------|--------------------------------------------------------------|
-| July 5      | Added days course items are due.                                  | Changing from TBD to actual days.                            |
-| July 7      | Added clarification that the max mark is 100% on any course item. | Address issue with Bonus marks                               |
-| July 8      | Added Git content on Test 1.                                      | Need to assess basic competencies with git                   |
-| July 12     | Adjusted Milestone 1 and moved it up to Week 2                    | Made Milesstone 1 lighter, and moved its deadline to Week 2. |
+| Change Date | Summary | Rationale |
+|-------------|---------|-----------|
+|             |         |           |
+|             |         |           |
 
 ## How do I do well in this course? 
 
@@ -129,7 +127,7 @@ And some ingredients for your success:
 1. Practice.
 1. Collaborate.
 1. Do not be fooled by familiarity of the material.
-1. Math.
+1. Practice Math.
 
 ### ... but I've never been good at physics or math!
 

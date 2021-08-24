@@ -10,7 +10,7 @@ So even before the course starts, I have created a "sample" week with some fake 
 
 ## Flow in schematic form
 
-```{figure} ../images/workload.png
+```{figure} ../../images/workload.png
 ---
 width: 800px
 name: directive-fig
