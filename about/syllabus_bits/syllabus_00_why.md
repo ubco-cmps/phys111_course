@@ -1,3 +1,5 @@
+**Why is there a Syllabus and an Unsyllabus for this course?**
+
 Traditionally, there has been a culture at most higher education institutions for every course to have a document that sets expectation for how the course will be conducted, what students will be expected to do, and what they will learn in the course.
 The purpose of that document was for the instructor to communicate "what the course will be about" to students so they know what they're getting themselves into.
 This document is typically called a "Syllabus" or a "Course Outline".

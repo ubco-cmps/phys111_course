@@ -12,14 +12,7 @@ name: Under Construction.
 This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
 ```
 
-<!-- 
-## Highlights
-
-```{warning}
-If there is a lab and/or tutorial listed on the SSC for this course, You **must** register for all course elements without conflicts, otherwise the department will remove you from the course! There are usually lab or tutorial exemptions for some students (i.e. those repeating the course) and instructions for that will be in this syllabus.
-```
-
-### Important Details
+## Important Details
 
 | Name              | Description                                                                                                                                        |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,9 +24,40 @@ If there is a lab and/or tutorial listed on the SSC for this course, You **must*
 | Canvas URL        | {{ CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID) }}                                                                                                   |
 | Course Discussion | To ask any course-related questions, use private (personal, not useful for anyone else) or public (helpful for other) messages on {{ FORUM_LINK }} |
 
-### How do I contact the teaching team?
+```{warning}
+If there is a lab and/or tutorial listed on the SSC for this course, You **must** register for all course elements without conflicts, otherwise the department will remove you from the course! There are usually lab or tutorial exemptions for some students (i.e. those repeating the course) and instructions for that will be in this syllabus.
+```
+
+### What do I need to purchase for this course?
+
+Being very conscious of the high tuition and technology costs, we have made efforts to remove the additional cost of taking this course.
+All course content, references, and resources provided in this course are free and open source, and can be considered open educational resources (OER).
+
+## Contact Us
 
 ```{include} syllabus_bits/teaching_team.md
+```
+
+## Evaluation
+
+```{include} syllabus_bits/grading_practices_detailed.md
+```
+
+## Passing requirements
+
+```{include} syllabus_bits/passing_requirement.md
+```
+
+<!-- 
+## Learning Outcomes
+
+```{include} syllabus_bits/course_LOs.md
+``` 
+-->
+
+## Schedule
+
+```{include} syllabus_bits/schedule.md
 ```
 
 The best way to get personalized help in this course is to attend the "Student Hours" we have scheduled for this course.
@@ -44,8 +68,7 @@ If nobody comes to the Student Hours, we end up sitting in a Zoom room all by ou
 
 A few other notes:
 
-<!-- - For official course communication, I will use {{ ANNOUNCEMENTS_LINK }}, please note that replies to announcements will not be monitored and you should use {{ FORUM_LINK }} for follow-up questions. -->
-- We will try using {{ FORUM_LINK }} for Announcements in this course.
+- We will be using {{ FORUM_LINK }} for Announcements in this course.
 - For **all** course-related questions you can reach out to the teaching team including instructors and TAs via {{ FORUM_LINK }}.
 - You are encouraged to post questions publicly whenever possible so others can benefit. For private and personal issues, you can send private messages on {{ FORUM_LINK }}.
 - Any student may visit the student hour for any member of the teaching team (TA or instructor)! In other words, you can go to the student hour of ANY TA, not just the one whose lab/tutorial you are registered in. 
@@ -61,14 +84,19 @@ Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrol
     <iframe src="https://player.vimeo.com/video/148751763" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div> -->
 
+### Why should I take {{ COURSE_CODE }}?
+
+```{include} syllabus_bits/course_teaser.md
+```
+
 <div class="page_break"> </div>
 
-## Why is there a Syllabus and an Unsyllabus for this course?
+## Syllabus vs. Unsyllabus
 
 ```{include} syllabus_bits/syllabus_00_why.md
 ```
 
-### Changes to the unsyllabus
+## Unsyllabus changes
 
 In this section, I will outline any changes that have been made to the unsyllabus as we go through the course.
 We will do our best to follow the plan outlined in this unsyllabus, but in case things go south, I will need to make adjustments to the contents and the schedule.
@@ -82,37 +110,54 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 | July 8      | Added Git content on Test 1.                                      | Need to assess basic competencies with git                   |
 | July 12     | Adjusted Milestone 1 and moved it up to Week 2                    | Made Milesstone 1 lighter, and moved its deadline to Week 2. |
 
-## About {{ COURSE_CODE }}
+## How do I do well in this course? 
 
-### Why should I take this course?
+For full details, please see the page {ref}`page_doing_well`.
 
-```{include} syllabus_bits/course_teaser.md
-```
+To whet your appetite on what you'll read there, here are some guidelines on preparing yourselves for this course:
 
-### What are the Course Learning Outcomes?
+1. Learning is a contact sport.
+2. Memorizing is not learning.
+3. Understanding is learning and understanding should be your goal.
+4. We'll do lots of tests.
 
-```{include} syllabus_bits/course_LOs.md
-```
+And some ingredients for your success:
 
-### What is the course and topic schedule?
+1. Plan.
+1. Prepare.
+1. Engage.
+1. Practice.
+1. Collaborate.
+1. Do not be fooled by familiarity of the material.
+1. Math.
 
-```{include} syllabus_bits/schedule.md
-```
+### ... but I've never been good at physics or math!
 
-### How will I be evaluated in this course?
+That's okay! 
+You're still more than welcome in this course.
+I will do everything I can (within reason) to still make the course accessible to you.
+This course is designed with your success in mind.
+There are multiple opportunities for you to learn from your mistakes and improve your grades in nearly every aspect of the course.
+In my opinion, the best learning happens when folks are given the opportunity to make mistakes so they get over their fear of trying something!
+At the beginning of the term, we will all do a Math Diagnostic (not for marks) to check if you have the required math background for this course. 
+If you do not, I have some supplemental material for you to catch up.
+My expectation is that you'll complete the exercises and review the supplemental material in the first couple of weeks.
 
-```{include} syllabus_bits/grading_practices_detailed.md
-```
+To summarize, if you've never been "good" at physics or math, come into the course with a healthy attitude, a desire to work for your success, and I have no doubt you will be successful in this course. 
+If you ever want to talk about the course, or have any feedback you want to give me, do not hesitate to reach out to me!
 
-### What are the passing requirements for this course?
+### ... but I don't even like physics or math!
 
-```{include} syllabus_bits/passing_requirement.md
-```
+Believe it or not, I have no expectation that every student that takes my course will have an undying passion for the subject.
+Some of you may be forced to take this course by your programs, faculties, career interests, etc...
+Sometimes we all have to take courses that we think we don't like, or enjoy. 
+That's fine!
+No judgement from me, you are more than welcome in this course.
+I just ask that you not make any snap judgements about the class, the material, the instructor (me), or the teaching team.
+Whatever your motivations are for taking this course, give us a chance, maybe you don't HAVE TO be miserable taking this course!
+You might even enjoy the feeling of community and camaraderie that develops over the course of the semester :-). 
 
-### What do I need to purchase for this course?
-
-Being very conscious of the high tuition and technology costs, we have made efforts to remove the additional cost of taking this course.
-All course content, references, and resources provided in this course are free and open source, and can be considered open educational resources (OER).
+I hope you're not miserable, if you do feel miserable, come talk to me - maybe I can help you see the light at the end of tunnel?
 
 ## Course Tools
 
@@ -125,7 +170,7 @@ In this course, we will be using the following required learning technologies (p
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
 - [Ed Discussion](https://edstem.org/privacy)
 - [Gradescope](https://www.gradescope.com/privacy)
-<!-- - [Sli.do](https://www.sli.do/terms#privacy-policy) -->
+- PrairieLearn (Not Available)
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
 New tools may be added to the course as the need arises, and I will update this section with the appropriate information and make an announcement if a new tool is added midway through a course.
@@ -193,7 +238,7 @@ To develop mastery in a concept, students must first acquire the necessary skill
 The terms "knowledge transfer" and "sense-making" applied in this context is generally attributed to [Dr. Eric Mazur](https://mazur.harvard.edu/files/mazur/files/flip_your_course_online_07.pdf). 
 ```
 
-#### What does this mean in practical terms? 
+### What does this mean in practical terms? 
 
 {numref}`masterymodel2` shows a handy table to help guide you and organize your learning in this course: 
 
@@ -204,52 +249,6 @@ name: masterymodel2
 ---
 This table describes how I think each course activity should be classified between knowledge transfer and sense-making.
 ```
-
-## How do I do well in this course? 
-
-These guidelines were adapted from [Dr. Simon Bates' Physics 117 course from UBCV](https://sites.google.com/site/simonpbates/home?authuser=0)).
-
-To prepare yourselves for this course:
-
-1. Learning is a contact sport.
-2. Memorizing is not learning.
-3. Understanding is learning, and understanding should be your goal (not grades).
-4. We’ll do lots of tests.
-
-And some ingredients for your success:
-
-1. Plan.
-1. Prepare.
-1. Engage.
-1. Practice.
-1. Collaborate.
-1. Do not be fooled by familiarity of the material.
-
-
-### ... but I've never been good at computer science!
-
-That's okay! 
-You're still more than welcome in this course.
-I will do everything I can (within reason) to still make the course accessible to you.
-This course is designed with your success in mind.
-There are multiple opportunities for you to learn from your mistakes and improve your grades in nearly every aspect of the course.
-In my opinion, the best learning happens when folks are given the opportunity to make mistakes so they get over their fear of trying new things!
-
-To summarize, if you've never been "good" at computers, come into the course with a healthy attitude, a desire to work for your success, and I have no doubt you will be successful in this course. 
-If you ever want to talk about the course, or have any feedback you want to give me, do not hesitate to reach out to me!
-
-### ... but I don't even like computers!
-
-Believe it or not, I have no expectation that every student that takes my course will have an undying passion for the subject.
-Some of you may be forced to take this course by your programs, faculties, career interests, etc...
-Sometimes we all have to take courses that we think we don't like, or enjoy. 
-That's fine!
-No judgement from me, you are more than welcome in this course.
-I just ask that you not make any snap judgements about the class, the material, the instructor (me), or the teaching team.
-Whatever your motivations are for taking this course, give us a chance, maybe you don't HAVE TO be miserable taking this course!
-You might even enjoy the feeling of community and camaraderie that develops over the course of the semester :-). 
-
-I hope you're not miserable, if you do feel miserable, come talk to me - maybe I can help you see the light at the end of tunnel?
 
 ## Academic Integrity
 
@@ -399,4 +398,3 @@ Below is the list of resources I have used to put this syllabus together:
 ```{bibliography}
 :style: unsrt
 ```
--->
