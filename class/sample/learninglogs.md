@@ -38,11 +38,11 @@ In terms of providing support for you as an instructor I’d like for us to meas
 
 **Stress: 1-10 (-1 if you prefer not to answer)**
 
-Q2: On a scale of 1-10, rate WHERE DO YOU THINK YOUR level of anxiety and stress SHOULD BE: 
+### Q2: On a scale of 1-10, rate WHERE DO YOU THINK YOUR level of anxiety and stress SHOULD BE: 
 
 **Anxiety: 1-10 (-1 if you prefer not to answer)**
 
-**Anxiety: 1-10 (-1 if you prefer not to answer)**
+**Stress: 1-10 (-1 if you prefer not to answer)**
 
 ### Q3: Is there anything else you would like to tell me?
 
