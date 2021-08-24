@@ -22,7 +22,36 @@ It's fairly intuitive, but the Centre for Teaching, Learning, and Technology has
 <img src="../images/Canvas_login.gif">
 ```
 
-```{dropdown} 2. On the left sidebar in Canvas, click on Gradescope.
+```{dropdown} 2. Claim your @student.ubc.ca email
+    :container: + shadow
+    :title: bg-success text-white font-weight-bold
+    :open:
+
+**All active and registered students are eligible to sign up for a <CWL>@student.ubc.ca email account** that can be used to send and receive mail.
+This account will also grant you access to a range of UBC services that might be useful for you, including Microsoft OneDrive, and Office 365.
+OneDrive will be useful for you to store or share your documents, and backup your work.
+Office365 includes the standard apps such as Microsoft Word, Excel, Powerpoint.
+
+There are only two steps to get a UBC email:
+
+1. Sign up for a Student Email Address
+2. Sign in to the [CWL myAcccount page](https://www.myaccount.ubc.ca/myAccount/login.xhtml) and click on "Activate Student Email"
+    - You must be registered in a course and in good standing to be eligible for this service
+    - Access your email here: [UBC Student Webmail](https://webmail.student.ubc.ca/)
+
+I strongly urge you to take this opportunity (before your life gets busier and crazier) to sign-up for an email through UBC and start using that for any professional or official communications.
+These services are very expensive if you were to pay for them yourself; you can get an @student.ubc.ca email at no cost to you.
+
+A professional email like this will be much better for you than a hotmail or even, a gmail account. 
+Trust me when I say this, I am speaking from experience! 
+I thought I was very clever when I created my first email address (shaq_daddy00@hotmail.com). For a long time, that was the email I used for everything. 
+It was only when I arrived at University that I realized how bad that email was.
+I will pass on this same advice to you: get a professional email address, use it, and check it frequently!
+
+P.S. Your CWL is your campus wide login - this is something you would have created when you first applied to UBC and you will use this for the rest of your academic career (at UBC). 
+```
+
+```{dropdown} 3. On the left sidebar in Canvas, click on Gradescope.
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
@@ -33,14 +62,14 @@ This is **very** important for you to do as it'll be our primary mechanism for d
 <img src="../images/GradescopeAccount.gif">
 ```
 
-```{dropdown} 3. Join Ed Discussion and say hi!
+```{dropdown} 4. Join Ed Discussion and say hi!
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
 <img src="../images/EdDiscussion.gif">
 ```
 
-```{dropdown} 4. [Optional] Sign up for the unofficial UBCO 1st Year Science Discord Server
+```{dropdown} 5. [Optional] Sign up for the unofficial UBCO 1st Year Science Discord Server
     :container: + shadow
     :title: bg-info text-white font-weight-bold
 
@@ -53,7 +82,7 @@ You are not certainly not required to sign up for this service as the data is no
 <img src="../images/discord.png">
 ```
 
-```{dropdown} 5. [Required] Take a break!
+```{dropdown} 6. [Required] Take a break!
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
