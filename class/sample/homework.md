@@ -4,6 +4,7 @@
 
 This week's homework questions are on Chapter 4, and it is posted on PrairieLearn.
 
+<!-- 
 ++++ 
 ```{link-button} https://ca.prairielearn.org/pl
 :text: PrairieLearn
@@ -11,3 +12,4 @@ This week's homework questions are on Chapter 4, and it is posted on PrairieLear
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```
 ````
+-->
