@@ -1,12 +1,12 @@
 The grading scheme for this course is:
 
-| Item          | Weight          | Due date(s)                  |
-|---------------|-----------------|------------------------------|
-| Learning Logs | 11% (11 x 1%)   | Saturdays at 6 PM            |
-| Homework      | 15% (10 x 1.5%) | Thursdays at 6 PM            |
-| Tests         | 30% (5 x 6%)    | Thursday 6 PM - Saturday 6PM |
-| Labs          | 24% (8 x 3%)    | Variable                     |
-| Final Exam    | 20%             | TBD                          |
+| Item          | Weight        | Due date(s)                  |
+|---------------|---------------|------------------------------|
+| Learning Logs | 10% (10 x 1%) | Saturdays at 6 PM            |
+| Homework      | 16% (8 x 2%)  | Thursdays at 6 PM            |
+| Tests         | 30% (5 x 6%)  | Thursday 6 PM - Saturday 6PM |
+| Labs          | 24% (8 x 3%)  | Variable                     |
+| Final Exam    | 20%           | TBD                          |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test one week later and the better score of the Test-Bonus Test pair will be taken.

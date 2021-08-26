@@ -1,7 +1,7 @@
 | Item          | Weight | Frequency   |
 |---------------|--------|-------------|
-| Learning Logs | 11%    | Weekly      |
-| Homework      | 15%    | Weekly      |
+| Learning Logs | 10%    | Weekly      |
+| Homework      | 16%    | Weekly      |
 | Tests         | 30%    | ~ Bi-weekly |
 | Labs          | 24%    | Weekly      |
 | Final Exam    | 20%    | Exam Period |
