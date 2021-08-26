@@ -1,9 +1,10 @@
 # Homework
 
+This week's homework questions are on Chapter 4, and will be posted on PrairieLearn.
+
+
 ````{panels}
-
-This week's homework questions are on Chapter 4, and it is posted on PrairieLearn.
-
+Link to Prairie Learn
 <!-- 
 ++++ 
 ```{link-button} https://ca.prairielearn.org/pl
