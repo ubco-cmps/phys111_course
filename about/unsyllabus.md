@@ -77,12 +77,12 @@ A few other notes:
 
 Will add a video message here soon.
 
-<!-- Closer to the start of the term, I will update the video below with an actual message to the students :-).
+Closer to the start of the term, I will update the video below with an actual message to the students :-).
 Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrolling/).
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe src="https://player.vimeo.com/video/148751763" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div> -->
+</div>
 
 ### Why should I take {{ COURSE_CODE }}?
 
@@ -105,7 +105,7 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 
 | Change Date | Summary | Rationale |
 |-------------|---------|-----------|
-|             |         |           |
+| N/A         | N/A     | N/A       |
 |             |         |           |
 
 ## How do I do well in this course? 
@@ -168,7 +168,7 @@ In this course, we will be using the following required learning technologies (p
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
 - [Ed Discussion](https://edstem.org/privacy)
 - [Gradescope](https://www.gradescope.com/privacy)
-- PrairieLearn (Not Available)
+- PrairieLearn (Privacy policy not available yet)
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
 New tools may be added to the course as the need arises, and I will update this section with the appropriate information and make an announcement if a new tool is added midway through a course.
@@ -177,17 +177,29 @@ New tools may be added to the course as the need arises, and I will update this 
 Even though the tools above are required for this course, if you have a moral or legal objection to my use of these tools, please do reach out to me and we can likely find an acceptable accommodation.
 ```
 
+### Link your Canvas account to Gradescope
+
+You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
+
+On the left sidebar in Canvas, click on Gradescope.
+<img src="../images/GradescopeAccount.gif">
+
+This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
+
 ### Sign up for a (free) Ed Discussion account [Required]
 
 In this course, we will be using {{ FORUM_LINK }} for class discussions.
 The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself.
-Please do NOT email questions to the instructor and TAs unless it is a legitimate emergency (or if you cannot access Ed Discussion).
+
+Once you click on Gradescope, within about 12 hours, you will receive an invitation to join {{ FORUM_LINK }} using the email you used for Gradescope.
+
+```{tip}
+In general, please do NOT email questions to the instructor and TAs unless it is a legitimate emergency (or if you cannot access Ed Discussion). If you do this accidentally, it's okay - we will send you an automated response letting you know that emails will not be answered and you should re-post your question on Ed Discussion.
+```
 
 ```{warning}
 The Ed Discussion tool is stored on servers outside Canada. When you access this site by clicking on the link through Canvas, you are being transferred to these servers. In order to protect your identity, UBC obfuscates your user ID before it is sent to the site. However, Ed Discussion does require you to create an account on their servers. While Ed Discussion adheres to strict U.S. privacy regulations (FERPA), UBC cannot guarantee security of your private details on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns.
 ```
-
-Sign up for {{ FORUM_LINK }} using our unique course link.
 
 ### What type of information will I collect about you in this course?
 

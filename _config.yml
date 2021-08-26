@@ -67,7 +67,7 @@ sphinx:
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
       COURSE_LINK: "https://firas.moosvi.com/courses/2021_WT1/physics111"
-      FORUM_LINK: "[Ed Discussion](https://us.edstem.org/JOIN_LINK/)"
+      FORUM_LINK: "Ed Discussion"
       #FORUM_LINK: "[Ed Discussion (sign up for it here)](https://ubc.ca1.qualtrics.com/jfe/form/SV_1BTAIXiMPvBRR2K)"
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
       FORMAT: "Lectures, Labs, Tutorials and they will all be running online in this course."
