@@ -70,6 +70,6 @@ sphinx:
       FORUM_LINK: "Ed Discussion"
       #FORUM_LINK: "[Ed Discussion (sign up for it here)](https://ubc.ca1.qualtrics.com/jfe/form/SV_1BTAIXiMPvBRR2K)"
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
-      FORMAT: "Lectures, Labs, Tutorials and they will all be running online in this course."
+      FORMAT: "Lectures, Labs, Tutorials will all be running online in this course."
       ASSOCIATE_HEAD: "Jake Bobowski [jake.bobowski@ubc.ca](mailto:jake.bobowski@ubc.ca)"
       ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_doJPm2LTfr463Fb)"
