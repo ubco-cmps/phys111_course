@@ -4,12 +4,16 @@ The grading scheme for this course is:
 |---------------------|---------------|-------------------------------|
 | Learning Logs       | 10% (10 x 1%) | Saturdays at 6 PM             |
 | Homework            | 16% (8 x 2%)  | Thursdays at 6 PM             |
-| Tests               | 30% (5 x 6%)  | Thursday 6 PM - Saturday 6PM  |
 | Labs                | 24% (8 x 3%)  | Variable                      |
+| Tests               | 30% (5 x 6%)  | Thursday 6 PM - Saturday 6PM  |
 | Final Exam (Online) | 20%           | Online during the Exam Period |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test one week later and the better score of the Test-Bonus Test pair will be taken.
+
+```{caution} 
+Please note that the "Labs" in this course are run almost completely separately from the Lectures/Tutorials/Tests/Exams. Any grading policies instituted in the lecture portion of the course are independent of the lab policies.
+```
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
