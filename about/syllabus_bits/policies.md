@@ -5,6 +5,10 @@ Except in the case of examination clashes and hardships (three or more formal ex
 Unforeseen events include (but may not be limited to) the following: ill health or other personal challenges that arise during a term and changes in the requirements of an ongoing job.
 Further information on Academic Concession can be found under Policies and Regulation in the [Okanagan Academic Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0).
 
+```{note}
+Note: Any requests for changes to final exam must be sent to the office of the Associate Dean of Students (fos.students.ubco@ubc.ca).
+```
+
 ## Copyright Disclaimer
 
 Diagrams and figures included in lecture presentations adhere to [Copyright Guidelines for UBC Faculty, Staff and Students](https://copyright.ubc.ca/requirements/copyright-guidelines/) and [UBC Fair Dealing Requirements for Faculty and Staff](https://copyright.ubc.ca/requirements/fair-dealing/).
