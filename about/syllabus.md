@@ -82,4 +82,3 @@ The tentative course schedule, subject to change, can be found on the {{ '[cours
 
 ```{include} syllabus_bits/policies.md
 ```
- -->
