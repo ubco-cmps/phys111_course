@@ -1,0 +1,13 @@
+# Homework
+
+````{panels}
+This week the homework assignment is about an introduction to the PrairieLearn platform. You can find a link to the assessment below
+
+++++ 
+
+```{link-button} https://ca.prairielearn.com/pl/course_instance/2344/assessment/16785
+:text: PrairieLearn HW1
+:type: url
+:classes: btn-outline-success btn-block stretched-link text-dark
+```
+````
