@@ -26,31 +26,17 @@ parts:
       - file: class/week01/test
       - file: class/week01/lab
       - file: class/week01/learninglog
-# - caption: Sample week
-#   chapters:
-#   - file: class/sample
-#     title: Week 0 Summary
-#   - file: class/sample/week00_summary
-#     sections:
-#     - file: class/sample/readings
-#     - file: class/sample/videos
-#     - file: class/sample/class
-#     - file: class/samples/homework
-#     - file: class/sample/lab
-#     - file: class/sample/test
-#     - file: class/sample/learninglog
-
-# - caption: Part 1 - Kinematics
-#     - file: class/week02/week02_summary
-#       title: Week 2 - Chapter 2
-#       sections:
-#         - file: class/week02/readings
-#         - file: class/week02/videos
-#         - file: class/week02/homework
-#         - file: class/week02/classes
-#         - file: class/week02/test
-#         - file: class/week02/lab
-#         - file: class/week02/learninglog
+- caption: Part 1 - Kinematics
+    - file: class/week02/week02_summary
+      title: Week 2 - Chapter 2
+      sections:
+        - file: class/week02/readings
+        - file: class/week02/videos
+        - file: class/week02/homework
+        - file: class/week02/classes
+        - file: class/week02/test
+        - file: class/week02/lab
+        - file: class/week02/learninglog
 #     - file: class/week03/week03_summary
 #       title: Week 3 - Chapter 3
 #       sections:
@@ -166,3 +152,18 @@ parts:
   chapters:
   - file: about/feedback
     title: Anonymous Feedback Form
+
+
+# - caption: Sample week
+#   chapters:
+#   - file: class/sample
+#     title: Week 0 Summary
+#   - file: class/sample/week00_summary
+#     sections:
+#     - file: class/sample/readings
+#     - file: class/sample/videos
+#     - file: class/sample/class
+#     - file: class/samples/homework
+#     - file: class/sample/lab
+#     - file: class/sample/test
+#     - file: class/sample/learninglog

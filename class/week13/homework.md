@@ -1,13 +1,12 @@
 # Homework
 
 ````{panels}
-
-This week is the final week of Physics 111 and will be used for review. There are some extra problems on Mastering Physics.
+This week the homework assignment is about Chapters 1 and 2. You can find a link to the assessment below
 
 ++++ 
 
-```{link-button} https://portal.mypearson.com
-:text: Mastering Physics
+```{link-button} https://ca.prairielearn.com/pl/course_instance/2344/
+:text: PrairieLearn HW2
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```

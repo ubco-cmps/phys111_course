@@ -1,16 +1,12 @@
 # Learning Logs
 
-This week's learning log assignment is now posted on Canvas:
-
-https://canvas.ubc.ca/courses/63995/quizzes/255367
-
 ````{panels}
 
-This week's learning log assignment is now posted on Canvas.
+This week's learning log assignment is now posted on Gradescope (you can also find the link to it on Canvas).
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/63995/quizzes/255367
+```{link-button} https://www.gradescope.ca/courses/4867/assignments/20110
 :text: Learning Log #1
 :type: url
 :classes: btn-outline-primary btn-block stretched-link text-dark

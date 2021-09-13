@@ -2,69 +2,92 @@
 
 Below are the assigned videos for this week. 
 The videos are collapsible so once you're done with one, you can move to the next one.
+In the sidebar on the right, you can use the checklists to keep track of what's done.
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading1" class="box"> **Introduction to Displacement and the Differences Between Displacement and Distance**</input></label></h4> 
-:open:
+````{margin}
+```{admonition} Checklist of items
+:class: tip
+
+<input type="checkbox" id="week01_video1" class="box"><label>Video 1</input></label>
+
+<input type="checkbox" id="week01_video2" class="box"><label>Video 2</input></label>
+
+<input type="checkbox" id="week01_video3" class="box"><label>Video 3</input></label>
+
+<input type="checkbox" id="week01_video4" class="box"><label>Video 3</input></label>
+
+<input type="checkbox" id="week01_video5" class="box"><label>Video 3</input></label>
+```
+````
+
+## Required Videos
+
+```{dropdown} 1. Introduction to Significant Figures
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/uTQ4_AOae1g" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/mxbsgqFnNVY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0007_lecture_notes_-_displacement_versus_distance.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-displacement.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0001_lecture_notes_-_introduction_to_significant_figures_with_examples.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/significant-figures.html)
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading2" class="box"> **Introduction to Velocity and Speed and the differences between the two** </input></label></h4>
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/I16utd8d6JM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0008_lecture_notes_-_introduction_to_velocity_and_speed.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-velocity-and-speed.html)
-
-```
-
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading3" class="box"> **Average Velocity Example Problem with Three Velocities** </input></label></h4>
+```{dropdown} 2. Working with Significant Figures
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/WpdYBnyZOm8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/mxbsgqFnNVY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0009_lecture_notes_-_average_velocity_example_problem_with_three_velocities.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/average-velocity-example-problem-with-three-velocities.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0001_lecture_notes_-_introduction_to_significant_figures_with_examples.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/significant-figures.html)
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading4" class="box"> **Example Problem: Velocity and Speed are Different** </input></label></h4>
+```{dropdown} 3. Introduction to Tip-to-Tail Vector Addition
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/8AWvUvHlpcQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/ZYl9-iz7nR8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0010_lecture_notes_-_example_problem_-_velocity_and_speed_are_different.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-velocity-and-speed-are-different.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0049_lecture_notes_-_introduction_to_tip-to-tail_vector_addition_vectors_and_scalars.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/vectors-and-scalars.html)
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading5" class="box"> **Understanding and Walking Position as a function of Time Graphs**</input></label></h4>
+```{dropdown} 4. Introductory Tip-to-Tail Vector Addition Problem
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Mjnu5ePzXDM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/256Yn47knH4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0011_lecture_notes_-_understanding_walking_and_graphing_position_as_a_function_of_time.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/understanding-and-walking-graphs-of-position-as-a-function-of-time.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0050_lecture_notes_-_introductory_tip-to-tail_vector_addition_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/tip-to-tail-vector-addition.html)
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading6" class="box"> **Example Problem: Finding Average Speed for Pole Position** </input></label></h4>
+```{dropdown} 5. Introduction to Vector Components
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/n8mC8V0_Rbo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Hjc8WwqqF6s" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0012_lecture_notes_-_example_problem_-_finding_necessary_pole_position_speed.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-finding-average-speed-for-pole-position-ndash-not-as-easy-as-you-think.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0052_lecture_notes_-_introduction_to_vector_components.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/vector-components.html)
 ```
+
+
+
+
+https://www.flippingphysics.com/vector-components.html

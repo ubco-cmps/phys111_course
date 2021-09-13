@@ -1,37 +1,30 @@
 # Readings
 
-This week the readings assignments are listed below:
+This week you are encouraged to **skim** Chapters 1 and 2 of the textbook to (re-)familiarize yourself with some of the notation and conventions we will use in this course.
 
-<label><input type="checkbox" id="week02_reading1" class="box"> **Chapter 2 (all sections)** </input></label> 
+Pay particular attention to:
 
-<!--
+<label><input type="checkbox" id="week02_reading1" class="box"> **Section 1.1: The Scope and Scale of Physics** </input></label> 
 
-<label><input type="checkbox" id="week02_reading2" class="box"> **Readings 2.2: ** </input></label> 
+<label><input type="checkbox" id="week02_reading2" class="box"> **Section 1.2: Units and Standards** </input></label> 
 
-<label><input type="checkbox" id="week02_reading3" class="box"> **Readings 2.3: ** </input></label> 
+<label><input type="checkbox" id="week02_reading3" class="box"> **Section 1.6: Significant Figures** </input></label> 
 
-<label><input type="checkbox" id="week02_reading4" class="box"> **Readings 2.4: ** </input></label> 
+<label><input type="checkbox" id="week02_reading4" class="box"> **Section 2.1: Scalars and Vectors**  </input></label> 
 
-<label><input type="checkbox" id="week02_reading5" class="box"> **Readings 2.5: ** </input></label> 
+<label><input type="checkbox" id="week02_reading5" class="box"> **Section 2.2: Coordinate Systems and Components of a Vector**  </input></label> 
 
--->
+<label><input type="checkbox" id="week02_reading6" class="box"> **Section 2.3: Algebra of Vectors**  </input></label> 
 
 ````{panels}
 
-If you have access to the eText, click here to access the eText.
+Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 
 ++++ 
 
-```{link-button} https://portal.mypearson.com
-:text: Pearson eText
+```{link-button} https://openstax.org/books/university-physics-volume-1/pages/1-introduction
+:text: OpenStax University Physics Volume 1
 :type: url
 :classes: btn-outline-warning btn-block stretched-link text-dark
 ```
 ````
-
-```{dropdown} <label><input type="checkbox" id="week02_readings" class="box"> **Review** </input></label> 
-:open:
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/ZM8ECpBuQYE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```

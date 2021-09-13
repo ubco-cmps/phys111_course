@@ -1,15 +1,12 @@
 # Homework
 
 ````{panels}
-
-There is no new homework for this week!
-
-If you're all caught-up with previous material and homework. you should try a game!
+This week the homework assignment is about Chapters 1 and 2. You can find a link to the assessment below
 
 ++++ 
 
-```{link-button} https://www.youtube.com/watch?v=TluRVBhmf8w
-:text: Portal by Valve Corporation
+```{link-button} https://ca.prairielearn.com/pl/course_instance/2344/
+:text: PrairieLearn HW2
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```

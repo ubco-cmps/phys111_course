@@ -2,12 +2,18 @@
 
 ## Monday
 
-No class today as it's Labour Day!
+Class slides will be available here soon...
+
+<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Wednesday
 
-<iframe src="../../Class01A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+Class slides will be available here soon...
+
+<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Friday
 
-<iframe src="../../Class01B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+Class slides will be available here soon...
+
+<iframe src="../../Class01C.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
