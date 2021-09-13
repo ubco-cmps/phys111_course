@@ -1,15 +1,19 @@
-# Lecture
+# Week 1 Classes
 
-This week we will do some a few course-logistics Sli.do questions, and then jump into the diagnostic. 
+## Monday
 
-## Sli.do Polls
+Class slides will be available here soon...
 
-You can go to [https://sli.do/physics111](https://app.sli.do/event/lk89xpvr/live/polls) in a new tab or use the embedded poll here:
+<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-<iframe src="https://app.sli.do/event/lk89xpvr/live/polls" height="100%" width="100%" style="min-height: 560px;"></iframe>
+## Wednesday
 
-## Slides from Lecture
+Class slides will be available here soon...
 
-Will be available here after the lecture.
+<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-<iframe src="../../2020-09-17 - Lecture2.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+## Friday
+
+Class slides will be available here soon...
+
+<iframe src="../../Class02C.pdf" width="100%" height="800px" frameBorder="0"> </iframe>

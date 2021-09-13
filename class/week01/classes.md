@@ -2,18 +2,16 @@
 
 ## Monday
 
-Class slides will be available here soon...
-
-<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+No class today!
 
 ## Wednesday
 
 Class slides will be available here soon...
 
-<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class01A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Friday
 
 Class slides will be available here soon...
 
-<iframe src="../../Class01C.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class01B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
