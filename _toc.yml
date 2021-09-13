@@ -27,6 +27,7 @@ parts:
       - file: class/week01/lab
       - file: class/week01/learninglog
 - caption: Part 1 - Kinematics
+  chapters:
     - file: class/week02/week02_summary
       title: Week 2 - Chapter 2
       sections:
