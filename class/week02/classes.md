@@ -12,4 +12,4 @@
 
 Class slides will be available here soon...
 
-<iframe src="../../Class02C.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class02C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
