@@ -8,15 +8,15 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week01_video1" class="box"><label>Video 1</input></label>
+<input type="checkbox" id="week02_video1" class="box"><label>Video 1</label>
 
-<input type="checkbox" id="week01_video2" class="box"><label>Video 2</input></label>
+<input type="checkbox" id="week02_video2" class="box"><label>Video 2</label>
 
-<input type="checkbox" id="week01_video3" class="box"><label>Video 3</input></label>
+<input type="checkbox" id="week02_video3" class="box"><label>Video 3</label>
 
-<input type="checkbox" id="week01_video4" class="box"><label>Video 3</input></label>
+<input type="checkbox" id="week02_video4" class="box"><label>Video 3</label>
 
-<input type="checkbox" id="week01_video5" class="box"><label>Video 3</input></label>
+<input type="checkbox" id="week02_video5" class="box"><label>Video 3</label>
 ```
 ````
 
