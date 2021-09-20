@@ -1,4 +1,4 @@
-# Week 1 Classes
+# Week 2 Classes
 
 ## Monday
 
