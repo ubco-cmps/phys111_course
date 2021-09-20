@@ -1,17 +1,29 @@
 # Readings
 
-This week the readings assignments are:
+This week you are encouraged to **skim** Chapters 1 and 2 of the textbook to (re-)familiarize yourself with some of the notation and conventions we will use in this course.
 
-<label><input type="checkbox" id="week03_reading1" class="box"> **Chapter 3 (all sections)** </input></label> 
+Pay particular attention to:
+
+<label><input type="checkbox" id="week03_reading1" class="box"> **Section 3.1: Position, Displacement, and Average Velocity** </input></label> 
+
+<label><input type="checkbox" id="week03_reading2" class="box"> **Section 3.2: Instantaneous Velocity and Speed** </input></label> 
+
+<label><input type="checkbox" id="week03_reading3" class="box"> **Section 3.3: Average and Instantaneous Acceleration** </input></label> 
+
+<label><input type="checkbox" id="week03_reading4" class="box"> **Section 3.4: Motion with Constant Acceleration**  </input></label> 
+
+<label><input type="checkbox" id="week03_reading5" class="box"> **Section 3.5: Free Fall**  </input></label> 
+
+<label><input type="checkbox" id="week03_reading6" class="box"> **Section 3.6: Finding Velocity and Displacement from Acceleration**  </input></label> 
 
 ````{panels}
 
-If you have access to the eText, click here to access the eText.
+Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 
 ++++ 
 
-```{link-button} https://portal.mypearson.com
-:text: Pearson eText
+```{link-button} https://openstax.org/books/university-physics-volume-1/pages/3-introduction
+:text: OpenStax University Physics Volume 1
 :type: url
 :classes: btn-outline-warning btn-block stretched-link text-dark
 ```

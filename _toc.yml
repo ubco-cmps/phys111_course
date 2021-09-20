@@ -38,16 +38,16 @@ parts:
         - file: class/week02/test
         - file: class/week02/lab
         - file: class/week02/learninglog
-#     - file: class/week03/week03_summary
-#       title: Week 3 - Chapter 3
-#       sections:
-#         - file: class/week03/readings
-#         - file: class/week03/videos
-#         - file: class/week03/homework
-#         - file: class/week03/classes
-#         - file: class/week03/test
-#         - file: class/week03/lab
-#         - file: class/week03/learninglog
+    - file: class/week03/week03_summary
+      title: Week 3 - Chapter 3
+      sections:
+        - file: class/week03/readings
+        - file: class/week03/videos
+        - file: class/week03/homework
+        - file: class/week03/classes
+        - file: class/week03/test
+        - file: class/week03/lab
+        - file: class/week03/learninglog
 #     - file: class/week04/week04_summary
 #       title: Week 4 - Chapter 4
 #       sections:

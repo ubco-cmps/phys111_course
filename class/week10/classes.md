@@ -1,6 +1,13 @@
-# Lecture
+# Week 2 Classes
 
-This week the lecture is CANCELLED due to the Remembrance Day Holiday.
+## Monday
 
-There will be an OPTIONAL makeup class on Monday or Tuesday the following week.
-It will be recorded.
+<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+
+## Wednesday
+
+<iframe src="../../Class02B_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+
+## Friday
+
+<iframe src="../../Class02C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>

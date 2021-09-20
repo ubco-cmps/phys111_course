@@ -1,16 +1,13 @@
-# Lecture
+# Week 2 Classes
 
-This week we will do go over some key clicker questions from Chapter 8.
+## Monday
 
+<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-## Sli.do Polls
+## Wednesday
 
-You can go to [https://sli.do/physics111](https://app.sli.do/event/lk89xpvr/live/polls) in a new tab or use the embedded poll here:
+<iframe src="../../Class02B_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-<iframe src="https://app.sli.do/event/lk89xpvr/live/polls" height="100%" width="100%" style="min-height: 560px;"></iframe>
+## Friday
 
-## Slides from Lecture
-
-Slides are available now, questions with answers will be available here after the lecture.
-
-<iframe src="../../2020-11-05 - Lecture9.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class02C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>

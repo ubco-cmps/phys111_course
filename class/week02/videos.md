@@ -14,9 +14,12 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week02_video3" class="box"><label>Video 3</label>
 
-<input type="checkbox" id="week02_video4" class="box"><label>Video 3</label>
+<input type="checkbox" id="week02_video4" class="box"><label>Video 4</label>
 
-<input type="checkbox" id="week02_video5" class="box"><label>Video 3</label>
+<input type="checkbox" id="week02_video5" class="box"><label>Video 5</label>
+
+<input type="checkbox" id="week02_video6" class="box"><label>Video 6</label>
+
 ```
 ````
 
@@ -87,7 +90,14 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/vector-components.html)
 ```
 
+```{dropdown} 6. How to use Cardinal Directions with Vectors
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
 
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/UWn3u6kv1Wk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-
-https://www.flippingphysics.com/vector-components.html
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0051_lecture_notes_-_how_to_use_cardinal_directions_with_vectors.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/cardinal-directions.html)
+```

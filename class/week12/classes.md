@@ -1,10 +1,13 @@
-# Lecture
+# Week 2 Classes
 
-Slides are available now, questions with answers will be available here after the lecture.
+## Monday
 
-<iframe src="../../2020-11-26 - Lecture12.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
+## Wednesday
 
-## Link to final exam practice questions:
+<iframe src="../../Class02B_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-https://people.ok.ubc.ca/jbobowsk/phys111.html
+## Friday
+
+<iframe src="../../Class02C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
