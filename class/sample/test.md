@@ -3,7 +3,7 @@
 ````{panels}
 
 This week we will do Test 2, which covers Chapters 4. 
-The Bonus Test will be available from Thursday at 6 PM to Saturday at 6 PM.
+The Bonus Test will be available from Friday at 6 PM to Sunday at 6 PM.
 
 ++++ 
 
