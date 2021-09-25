@@ -15,7 +15,7 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 
 <label><input type="checkbox" id="week03_task3" class="box"> [**Complete the MasteringPhysics homework**](./homework.md) </input></label>
 
-<label><input type="checkbox" id="week03_task4" class="box"> [**Attend yor tutorial section to get help**](https://canvas.ubc.ca/courses/63995/external_tools/5284) </input></label>
+<label><input type="checkbox" id="week03_task4" class="box"> [**Attend yor tutorial section to get help**](https://canvas.ubc.ca/courses/81870/external_tools/5284) </input></label>
 
 
 ```{tip}

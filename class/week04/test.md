@@ -6,7 +6,7 @@ This week you will have an opportunity to do Bonus Test 01 on Chapters 2 and 3. 
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/63995
+```{link-button} https://canvas.ubc.ca/courses/81870/assignments
 :text: Canvas Assignments
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark

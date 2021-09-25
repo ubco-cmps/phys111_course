@@ -8,8 +8,8 @@ You will have 60 minutes to complete the test.
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/63995/assignments
-:text: Test 1 on Canvas
+```{link-button} https://canvas.ubc.ca/courses/81870/assignments/assignments
+:text: Test 1 on PrairieLearn
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```
