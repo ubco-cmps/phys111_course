@@ -28,6 +28,8 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 
 <label><input type="checkbox" id="week00_task2" class="box"> [**Watch the videos**](./videos.md) </input></label>
 
+<label><input type="checkbox" id="week0X_task3" class="box"> [**Attend Class**](./classes.md)</input></label>
+
 <label><input type="checkbox" id="week00_task3" class="box"> [**Attend class to practice skills.**](./class.md) </input></label>
 
 <label><input type="checkbox" id="week00_task4" class="box"> [**Complete the weekly homework**](./homework.md) </input></label>

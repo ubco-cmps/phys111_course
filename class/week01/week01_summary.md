@@ -16,7 +16,7 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 <label><input type="checkbox" id="week01_task2" class="box"> [**Attend classes this week**](./classes.md)</input></label>
 
 
-<label><input type="checkbox" id="week01_task3" class="box"> [**Watch the lecture videos (None this week)**](./videos.md) </input></label>
+<label><input type="checkbox" id="week01_task3" class="box"> [**Watch the videos (None this week)**](./videos.md) </input></label>
 
 
 <label><input type="checkbox" id="week01_task4" class="box"> [**Complete the HW01 (Homework 01) on PrairieLearn**](./homework.md) </input></label>

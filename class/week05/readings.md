@@ -16,17 +16,16 @@ This week the readings assignments are listed below:
 
 <label><input type="checkbox" id="week05_reading7" class="box"> **Readings 5.7** </input></label> 
 
-Click the button below to be taken to the Pearson textbook to access the eText
 
 
 ````{panels}
 
-If you have access to the eText, you can go to the eText from here
+Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 
 ++++ 
 
-```{link-button} https://portal.mypearson.com
-:text: Pearson eText
+```{link-button} https://openstax.org/books/university-physics-volume-1/pages/3-introduction
+:text: OpenStax University Physics Volume 1
 :type: url
 :classes: btn-outline-warning btn-block stretched-link text-dark
 ```

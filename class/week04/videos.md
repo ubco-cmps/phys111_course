@@ -7,77 +7,19 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ````{margin}
 ```{admonition} Checklist of items
 :class: tip
-<input type="checkbox" id="week04_video_CC1" class="box"><label>CrashCourse Physics I</input></label> 
+<input type="checkbox" id="week04_video_CC1" class="box"><label>CrashCourse Physics I - 2D Motion</input></label> 
 
-<input type="checkbox" id="week04_video_CC2" class="box"><label>CrashCourse Physics I</input></label> 
+<input type="checkbox" id="week04_video_CC2" class="box"><label>CrashCourse Physics I - Uniform Circular Motion</input></label> 
 
-<input type="checkbox" id="week04_video1" class="box"><label>Video 1</input></label> 
+<input type="checkbox" id="week04_video1" class="box"><label>Video 1 - Introduction to Projectile Motion</input></label> 
 
-<input type="checkbox" id="week04_video2" class="box"><label>(Optional) Video 2</input></label> 
+<input type="checkbox" id="week04_video4" class="box"><label>Video 4 - Nerd-A-Pult – An Introductory Projectile Motion Problem</input></label> 
 
-<input type="checkbox" id="week04_video3" class="box"><label>(Optional) Video 3</input></label> 
+<input type="checkbox" id="week04_video7" class="box"><label>Video 7 - Understanding the Range Equation of Projectile Motion</input></label> 
 
-<input type="checkbox" id="week04_video4" class="box"><label>Video 4</input></label> 
+<input type="checkbox" id="week04_video12" class="box"><label>Video 12 - A Projectile Motion Problem using Unit Vectors</input></label> 
 
-<input type="checkbox" id="week04_video5" class="box"><label>(Optional) Video 5</input></label> 
-
-<input type="checkbox" id="week04_video6" class="box"><label>(Optional) Video 6</input></label> 
-
-<input type="checkbox" id="week04_video7" class="box"><label>Video 7</input></label> 
-
-<input type="checkbox" id="week04_video8" class="box"><label>(Optional) Video 8</input></label> 
-
-<input type="checkbox" id="week04_video9" class="box"><label>(Optional) Video 9</input></label> 
-
-<input type="checkbox" id="week04_video10" class="box"><label>(Optional) Video 10</input></label> 
-
-<input type="checkbox" id="week04_video11" class="box"><label>(Optional) Video 11</input></label> 
-
-<input type="checkbox" id="week04_video12" class="box"><label>Video 12</input></label> 
-
-<input type="checkbox" id="week04_video13" class="box"><label>(Optional) Video 13</input></label> 
-
-<input type="checkbox" id="week04_video14" class="box"><label>(Optional) Video 14</input></label> 
-
-<input type="checkbox" id="week04_video15" class="box"><label>(Optional) Video 15</input></label> 
-
-<input type="checkbox" id="week04_video16" class="box"><label>Video 16</input></label> 
-
-<input type="checkbox" id="week04_video17" class="box"><label>(Optional) Video 17</input></label> 
-
-<input type="checkbox" id="week04_video18" class="box"><label>(Optional) Video 18</input></label> 
-
-<input type="checkbox" id="week04_video19" class="box"><label>(Optional) Video 19</input></label> 
-
-<input type="checkbox" id="week04_video20" class="box"><label>(Optional) Video 20</input></label> 
-
-<input type="checkbox" id="week04_video21" class="box"><label>(Optional) Video 21</input></label> 
-
-<input type="checkbox" id="week04_video22" class="box"><label>(Optional) Video 22</input></label> 
-
-<input type="checkbox" id="week04_video23" class="box"><label>Video 23</input></label> 
-
-<input type="checkbox" id="week04_video24" class="box"><label>(Optional) Video 24</input></label> 
-
-<input type="checkbox" id="week04_video25" class="box"><label>Video 25</input></label> 
-
-<input type="checkbox" id="week04_video26" class="box"><label>(Optional) Video 26</input></label> 
-
-<input type="checkbox" id="week04_video27" class="box"><label>Video 27</input></label> 
-
-<input type="checkbox" id="week04_video28" class="box"><label>(Optional) Video 28</input></label> 
-
-<input type="checkbox" id="week04_video29" class="box"><label>Video 29</input></label> 
-
-<input type="checkbox" id="week04_video30" class="box"><label>(Optional) Video 30</input></label> 
-
-<input type="checkbox" id="week04_video31" class="box"><label>Video 31</input></label> 
-
-<input type="checkbox" id="week04_video32" class="box"><label>(Optional) Video 32</input></label> 
-
-<input type="checkbox" id="week04_video33" class="box"><label>(Optional) Video 33</input></label> 
-
-<input type="checkbox" id="week04_video34" class="box"><label>(Optional) Video 34</input></label> 
+<input type="checkbox" id="week04_video12" class="box"><label>Video 16 - Introduction to Relative Motion using a Quadcopter Drone</input></label> 
 
 ```
 ````
@@ -170,6 +112,10 @@ The video on uniform circular motion mentions forces - this we will cover in Cha
 
 ```
 
+
+
+## Optional Videos
+
 ```{dropdown} 23. Angular Velocity Introduction
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
@@ -235,7 +181,7 @@ The video on uniform circular motion mentions forces - this we will cover in Cha
 
 ```
 
-## Optional (Additional examples)
+## Additional examples (Optional)
 
 The videos are examples of some of examples being fully solved. They're not required because they're not essential, but many of you asked for additional videos so here they are!
 

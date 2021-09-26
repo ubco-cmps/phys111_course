@@ -10,13 +10,15 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 
 <label><input type="checkbox" id="week04_task1" class="box"> [**Read/skim the assigned textbook chapter**](./readings.md)</input></label>
 
-<label><input type="checkbox" id="week04_task2" class="box"> [**Watch the lecture videos**](./videos.md) </input></label>
+<label><input type="checkbox" id="week04_task2" class="box"> [**Watch the videos**](./videos.md) </input></label>
 
-<label><input type="checkbox" id="week04_task3" class="box"> [**Complete the MasteringPhysics homework**](./homework.md) </input></label>
+<label><input type="checkbox" id="week04_task3" class="box"> [**Attend Class**](./classes.md)</input></label>
+
+<label><input type="checkbox" id="week04_task3" class="box"> [**Complete the PrairieLearn homework**](./homework.md) </input></label>
 
 <label><input type="checkbox" id="week04_task4" class="box"> [**Attend yor tutorial section to get help**](https://canvas.ubc.ca/courses/81870/external_tools/5284) </input></label>
 
-<label><input type="checkbox" id="week04_task5" class="box"> [**Write bonus test 01 (60 mins)**](./test.md) </input></label>
+<label><input type="checkbox" id="week04_task5" class="box"> [**Write Bonus Test 01**](./test.md) </input></label>
 
 <label><input type="checkbox" id="week04_task6" class="box"> [**Complete the lab**](./lab.md) </input></label>
 
