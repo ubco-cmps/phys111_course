@@ -1,7 +1,7 @@
 # Homework
 
 ````{panels}
-This week the homework assignment is about Chapters 3. You can find a link to the assessment below
+This week the homework assignment is about Chapter 3. You can find a link to the assessment below
 
 ++++ 
 
