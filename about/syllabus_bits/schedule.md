@@ -22,6 +22,6 @@ Note that the lab schedule is currently tentative.
 ``` 
 
 ```{note}
-For the homework assignments, your best 8 of 9 will be selected for your average (HW0 is a math diagnostic and not for marks).
+For the homework assignments, your best 8 of 9 will be selected for your average (HW1 is not for marks).
 For the Learning Logs, your best 10 or 11 will be selected for your average.
 ``` 
