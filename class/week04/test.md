@@ -2,7 +2,8 @@
 
 ````{panels}
 
-This week you will have an opportunity to do Bonus Test 01 on Chapters 2 and 3. The Bonus Test will be available from Friday at 6 PM to Sunday at 6 PM.
+This week you will have your first Test, and it will mostly be on the contents of Chapters 1 and 2.
+The Bonus Test will be available from Friday at 6 PM to Sunday at 6 PM.
 
 ++++ 
 
