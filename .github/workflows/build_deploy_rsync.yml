@@ -1,12 +1,12 @@
 name: deploy-book
 
-# Only run this when the master branch changes
+# Only run this when the main branch changes
 on:
   push:
     branches:
     - main
 
-# This job installs dependencies, build the book, and pushes it to `gh-pages`
+# This job installs dependencies, builds the book, and pushes it to my server`
 jobs:
   deploy-book:
     runs-on: ubuntu-latest
@@ -48,6 +48,4 @@ jobs:
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
-        pwd
-        ls -la
         rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME
