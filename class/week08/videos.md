@@ -48,6 +48,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/pA9Uc_rJNiA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0120_lecture_notes_-_5_steps_to_solve_any_free_body_diagram_problem.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/5-steps-fbd.html)
 ```

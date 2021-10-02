@@ -4,22 +4,8 @@ Week 10 Summary
 
 ## List of things to do this week
 
-Below is a list of things you need to do this week, links to where you can do them, as well as roughly the order you should do it.
-Note that these are just SUGGESTIONS and you are by no means required to them this way. 
-I have put the labs at the end, but if your lab section is earlier in the week, you may want to shift things around to accommodate that.
+To keep up with our schedule, despite the fact that it's Reading Week, you will still have Test 4.
 
-<label><input type="checkbox" id="week10_task1" class="box"> [**Read/skim the assigned textbook chapter**](./readings.md)</input></label>
+Luckily, this is the only thing you need to do this week.
 
-<label><input type="checkbox" id="week10_task2" class="box"> [**Watch the videos**](./videos.md) </input></label>
-
-<label><input type="checkbox" id="week0X_task3" class="box"> [**Attend Class**](./classes.md)</input></label>
-
-<label><input type="checkbox" id="week10_task3" class="box"> [**Complete the PrairieLearn homework**](./homework.md) </input></label>
-
-<label><input type="checkbox" id="week10_task4" class="box"> [**Attend yor tutorial section to get help**](https://canvas.ubc.ca/courses/81870/external_tools/5284) </input></label>
-
-<label><input type="checkbox" id="week10_task5" class="box"> [**Write bonus test 01 (60 mins)**](./test.md) </input></label>
-
-<label><input type="checkbox" id="week10_task6" class="box"> [**Complete the lab**](./lab.md) </input></label>
-
-<label><input type="checkbox" id="week10_task7" class="box"> [**Complete your Learning Log assignment**](./learninglogs.md) </input></label>
+<label><input type="checkbox" id="week10_task5" class="box"> [**Write Test 4**](./test.md) </input></label>

@@ -2,17 +2,13 @@
 
 This week the readings assignments are listed below:
 
-<label><input type="checkbox" id="week08_reading1" class="box"> **Readings 7.1:** </input></label> 
+<label><input type="checkbox" id="week08_reading1" class="box"> **Readings 7.1: Work** </input></label> 
 
-<label><input type="checkbox" id="week08_reading2" class="box"> **Readings 7.2:** </input></label> 
+<label><input type="checkbox" id="week08_reading2" class="box"> **Readings 7.2: Kinetic Energy** </input></label> 
 
-<label><input type="checkbox" id="week08_reading3" class="box"> **Readings 7.3:** </input></label> 
+<label><input type="checkbox" id="week08_reading3" class="box"> **Readings 7.3: Work-Energy Theorem** </input></label> 
 
-<label><input type="checkbox" id="week08_reading4" class="box"> **Readings 7.4:** </input></label> 
-
-<label><input type="checkbox" id="week08_reading5" class="box"> **Readings 7.5:** </input></label> 
-
-
+<label><input type="checkbox" id="week08_reading4" class="box"> **Readings 7.4: Power** </input></label> 
 
 ````{panels}
 
@@ -27,3 +23,8 @@ Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 ```
 ````
 
+## Practice Problems
+
+We have put together some additional practice problems to help you complete the homework.
+These problems are optional, and suggested if you are having trouble with the homework problems.
+The odd-numbered problems from the textbook should have solutions available to students.

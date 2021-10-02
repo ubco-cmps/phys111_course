@@ -2,23 +2,19 @@
 
 This week the readings assignments are listed below:
 
-<label><input type="checkbox" id="week11_reading1" class="box"> **Readings 10.1: ** </input></label> 
+<label><input type="checkbox" id="week10_reading1" class="box"> **Readings 9.1: Linear Momentum** </input></label> 
 
-<label><input type="checkbox" id="week11_reading2" class="box"> **Readings 10.2: ** </input></label> 
+<label><input type="checkbox" id="week10_reading2" class="box"> **Readings 9.2: Impulse and Collisions** </input></label> 
 
-<label><input type="checkbox" id="week11_reading3" class="box"> **Readings 10.3: ** </input></label> 
+<label><input type="checkbox" id="week10_reading3" class="box"> **Readings 9.3: Conservation of Linear Momentum** </input></label> 
 
-<label><input type="checkbox" id="week11_reading4" class="box"> **Readings 10.4: ** </input></label> 
+<label><input type="checkbox" id="week10_reading4" class="box"> **Readings 9.4: Types of Collisions** </input></label> 
 
-<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.5: ** </input></label> 
+<label><input type="checkbox" id="week10_reading5" class="box"> **Readings 9.5: Collisions in Multiple Dimensions** </input></label> 
 
-<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.6: ** </input></label> 
+<label><input type="checkbox" id="week10_reading6" class="box"> **Readings 9.6: Center of Mass** </input></label> 
 
-<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.7: ** </input></label> 
-
-<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.8: ** </input></label>
-
-
+<label><input type="checkbox" id="week10_reading7" class="box"> **Readings 9.7: Rocket Propulsion** </input></label>
 
 ````{panels}
 

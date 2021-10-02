@@ -23,7 +23,7 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 
 <label><input type="checkbox" id="week01_task5" class="box"> [**Complete the in-class Physics Diagnostic (0.5% bonus!) (45 mins)**](https://ubc.ca1.qualtrics.com/jfe/form/SV_2uEYuAVjDS2UUhE) </input></label>
 
-<label><input type="checkbox" id="week01_task6" class="box"> [**Write Test 0 - Math Diagnostic (60 mins)**](./test.md) </input></label>
+<label><input type="checkbox" id="week01_task6" class="box"> [**Write Test 0 - Math Diagnostic**](./test.md) </input></label>
 
 <label><input type="checkbox" id="week01_task7" class="box"> [**Complete LL01 (Learning Log 1)**](./learninglogs.md) </input></label>
 

@@ -36,7 +36,7 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 
 <label><input type="checkbox" id="week00_task5" class="box"> [**Attend a tutorial section to get extra help**](https://canvas.ubc.ca/courses/81870/external_tools/15408) </input></label>
 
-<label><input type="checkbox" id="week00_task6" class="box"> [**Write bonus test 01 (60 mins)**](./test.md) </input></label>
+<label><input type="checkbox" id="week00_task6" class="box"> [**Write bonus test 01**](./test.md) </input></label>
 
 <label><input type="checkbox" id="week00_task7" class="box"> [**Attend and complete the lab**](./lab.md) </input></label>
 

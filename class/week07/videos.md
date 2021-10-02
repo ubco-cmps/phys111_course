@@ -128,7 +128,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/static-friction-incline.html)
 ```
 
-```{dropdown} 8. Introductory ﻿Kinetic Friction on an Incline﻿ Problem
+```{dropdown} 8. Introductory "Kinetic Friction on an Incline" Problem
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -159,8 +159,6 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ## Optional Videos
-
-The videos below are relevant to the subject material, but are not required for Physics 111.
 
 ```{dropdown} 11. Physics "Magic Trick" on an Incline
     :container: + shadow

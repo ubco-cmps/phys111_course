@@ -2,4 +2,4 @@
 Topic 13
 =======================
 
-Notes about topic 13.
+This week is Review.

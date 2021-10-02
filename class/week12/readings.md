@@ -2,18 +2,21 @@
 
 This week the readings assignments are listed below:
 
-<label><input type="checkbox" id="week12_reading1" class="box"> **Readings 11.1: ** </input></label> 
+<label><input type="checkbox" id="week11_reading1" class="box"> **Readings 10.1: Rotational Variables** </input></label> 
 
-<label><input type="checkbox" id="week12_reading2" class="box"> **Readings 11.2: ** </input></label> 
+<label><input type="checkbox" id="week11_reading2" class="box"> **Readings 10.2: Rotation with Constant Angular Acceleration** </input></label> 
 
-<label><input type="checkbox" id="week12_reading3" class="box"> **Readings 11.3: ** </input></label> 
+<label><input type="checkbox" id="week11_reading3" class="box"> **Readings 10.3: Relating Angular and Translational Quantities** </input></label> 
 
-<label><input type="checkbox" id="week12_reading4" class="box"> **Readings 11.4: ** </input></label> 
+<label><input type="checkbox" id="week11_reading4" class="box"> **Readings 10.4: Moment of Inertia and Rotational Kinetic Energy** </input></label> 
 
-<label><input type="checkbox" id="week12_reading5" class="box"> **Readings 11.5: ** </input></label> 
+<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.5: Calculating Moments of Inertia** </input></label> 
 
-<label><input type="checkbox" id="week12_reading5" class="box"> **Readings 11.6: ** </input></label> 
+<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.6: Torque** </input></label> 
 
+<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.7: Newton’s Second Law for Rotation** </input></label> 
+
+<label><input type="checkbox" id="week11_reading5" class="box"> **Readings 10.8: Work and Power for Rotational Motion** </input></label>
 
 ````{panels}
 
