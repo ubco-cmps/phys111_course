@@ -6,7 +6,9 @@
 
 ## Wednesday
 
-<iframe src="../../Class05B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class05B_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+
+Link to Desmos Simulation: https://www.desmos.com/calculator/l1bebrtvgo
 
 ## Friday
 
