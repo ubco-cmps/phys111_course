@@ -12,4 +12,4 @@ Link to Desmos Simulation: https://www.desmos.com/calculator/l1bebrtvgo
 
 ## Friday
 
-<iframe src="../../Class05C.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class05C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
