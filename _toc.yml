@@ -44,6 +44,7 @@ parts:
         - file: class/week03/readings
         - file: class/week03/videos
         - file: class/week03/homework
+        - file: class/week03/tutorials
         - file: class/week03/classes
         - file: class/week03/test
         - file: class/week03/lab
@@ -54,6 +55,7 @@ parts:
         - file: class/week04/readings
         - file: class/week04/videos
         - file: class/week04/homework
+        - file: class/week04/tutorials
         - file: class/week04/classes
         - file: class/week04/test
         - file: class/week04/lab
@@ -67,6 +69,7 @@ parts:
       - file: class/week05/readings
       - file: class/week05/videos
       - file: class/week05/homework
+      - file: class/week05/tutorials
       - file: class/week05/classes
       - file: class/week05/test
       - file: class/week05/lab
@@ -81,6 +84,7 @@ parts:
       - file: class/week07/readings
       - file: class/week07/videos
       - file: class/week07/homework
+      - file: class/week07/tutorials
       - file: class/week07/classes
       - file: class/week07/test
       - file: class/week07/lab
@@ -91,6 +95,7 @@ parts:
       - file: class/week08/readings
       - file: class/week08/videos
       - file: class/week08/homework
+      - file: class/week08/tutorials
       - file: class/week08/classes
       - file: class/week08/test
       - file: class/week08/lab
@@ -101,6 +106,7 @@ parts:
       - file: class/week09/readings
       - file: class/week09/videos
       - file: class/week09/homework
+      - file: class/week09/tutorials
       - file: class/week09/classes
       - file: class/week09/test
       - file: class/week09/lab
@@ -118,6 +124,7 @@ parts:
       - file: class/week11/readings
       - file: class/week11/videos
       - file: class/week11/homework
+      - file: class/week11/tutorials
       - file: class/week11/classes
       - file: class/week11/test
       - file: class/week11/lab
@@ -128,6 +135,7 @@ parts:
       - file: class/week12/readings
       - file: class/week12/videos
       - file: class/week12/homework
+      - file: class/week12/tutorials
       - file: class/week12/classes
       - file: class/week12/test
       - file: class/week12/lab
@@ -141,6 +149,7 @@ parts:
       - file: class/week13/readings
       - file: class/week13/videos
       - file: class/week13/homework
+      - file: class/week13/tutorials
       - file: class/week13/classes
       - file: class/week13/test
       - file: class/week13/lab
@@ -150,7 +159,6 @@ parts:
   chapters:
   - file: about/feedback
     title: Anonymous Feedback Form
-
 
 # - caption: Sample week
 #   chapters:
