@@ -100,6 +100,9 @@ parts:
       - file: class/week08/test
       - file: class/week08/lab
       - file: class/week08/learninglog
+
+- caption: Part 3 - Energy & Momentum
+  chapters:
   - file: class/week09/week09_summary
     title: Week 9 - Chapter 8
     sections:
@@ -111,9 +114,6 @@ parts:
       - file: class/week09/test
       - file: class/week09/lab
       - file: class/week09/learninglog
-
-- caption: Part 3 - Energy & Momentum
-  chapters:
   - file: class/week10/week10_summary
     title: Week 10 - Reading Week (+ Test)
     sections:
