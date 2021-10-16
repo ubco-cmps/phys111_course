@@ -29,12 +29,15 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 <input type="checkbox" id="week7_video10" class="box"><label>Video 10</input></label>
 
 <input type="checkbox" id="week7_video11" class="box"><label>Video 11</input></label>
+
+<input type="checkbox" id="week7_video12" class="box"><label>Video 12</input></label>
+
 ```
 ````
 
 ## Content Summary from Crash Course Physics
 
-```{dropdown} Friction (Same as last week's)
+```{dropdown} Friction
     :container: + shadow
     :title: bg-success text-white font-weight-bold
     :open:
@@ -189,7 +192,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 13. Determining the Spring Constant, k, with a Vertically Hanging Mass
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/flCA41BG7Do" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -262,7 +265,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 19. Introductory Centripetal Force Problem - Car over a Hill
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/A2KGtarD4bI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -274,7 +277,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 20. What is the Maximum Speed of a Car at the Top of a Hill?
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NH72nlsr_D4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -286,7 +289,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 21. Determining the Force Normal on a Toy Car moving up a Curved Hill
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/dhn6xgfbPXg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -298,7 +301,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 22. Mints on a Rotating Turntable - Determining the Static Coefficient of Friction
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
     
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/jNbqNhpmHwg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -310,7 +313,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 23. Demonstrating Why Water Stays in a Bucket Revolving in a Vertical Circle
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Zulw5bQ18Kk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -322,7 +325,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 24. Analyzing Water in a Bucket a Bucket Revolving in a Vertical Circle
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/2RQKmu-UEe0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -333,7 +336,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 ```{dropdown} 25. Minimum Speed for Water in a Bucket Revolving in a Vertical Circle
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TIBcntHCxjQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -344,7 +347,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 26. Dropping a bucket of water with two holes in it
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/rz0LRqtf5ks" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -355,7 +358,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 27. Apparent Weightlessness
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 **Content Warning: this is tricky and is likely to blow your mind!!**
 
@@ -368,7 +371,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```{dropdown} 28. Conical Pendulum Demonstration and Problem
     :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :title: bg-success text-white font-weight-bold
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NfhGH68AVMs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
