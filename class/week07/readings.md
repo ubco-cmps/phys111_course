@@ -28,3 +28,20 @@ Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 We have put together some additional practice problems to help you complete the homework.
 These problems are optional, and suggested if you are having trouble with the homework problems.
 The odd-numbered problems from the textbook should have solutions available to students.
+
+- Problem 6.43 (Helpful for HW6 Q10 A Frictionless air track)
+- Problem 6.55  
+- Problem 6.61
+- Problem 6.67
+- Problem 6.71 
+- Problem 6.73 (Helpful for HW 6 Q11 roller coaster)
+- Problem 6.75
+- Problem 6.77 (relevant for HW 6 Q5)
+- Problem 6.79
+- Problem 6.83 (Helpful for HW 6 Q12 Cyclist with airfoil)
+- Problem 6.99
+- Problem 6.109
+- Problem 6.113 
+- Problem 6.115 (Helpful for HW 6 Q4 object swung in circular path
+- Problem 6.117 (Helpful for HW 6 Q11 Roller Coaster)
+- Problem 6.127
