@@ -34,76 +34,90 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ## Content Summary from Crash Course Physics
 
-```{dropdown} Collisions
+```{dropdown} Rotational Motion
     :container: + shadow
     :title: bg-success text-white font-weight-bold
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Y-QOfc2XqOk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/fmXFWi-WfyU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} Torque
+    :container: + shadow
+    :title: bg-success text-white font-weight-bold
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/b-HZ1SZPaQw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
 ## Required Videos
 
-```{dropdown} 1. You Can't Run From Momentum! (a momentum introduction)
+```{dropdown} 1. Introduction to Circular Motion and Arc Length
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/K-lH-DoD6Tk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/7Mls04tAyYU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0171_lecture_notes_-_you_cant_run_from_momentum.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/momentum.html)
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0206_lecture_notes_-_introduction_to_circular_motion_and_arc_length.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/arc-length.html)
 ```
 
-```{dropdown} 2.  Impulse Introduction
+```{dropdown} 2. Angular Velocity Introduction
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/6myC6S2TNHw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/ZzFtX14I9O8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0178_lecture_notes_-_impulse_introduction_or_if_you_dont_bend_your_knees_when_stepping_off_a_wall.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/impulse-introduction.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0209_lecture_notes_-_angular_velocity_introduction.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/angular-velocity.html)
 ```
 
-```{dropdown} 3. Derivation of Impulse using an Integral and Impulse Approximation
+```{dropdown} 3. Angular Acceleration Introduction
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/EV8-eJR70Mg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Vfy3bChhBnk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0211_lecture_notes_-_angular_acceleration_introduction.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/angular-acceleration.html)
 ```
 
-```{dropdown} 4.  Introductory Conservation of Momentum Explosion Problem Demonstration
+```{dropdown} 4.  Introduction to Torque
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/X97-azGdDl8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Tu6e9_SrzBA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0248_lecture_notes_-_hookes_law_introduction_-_force_of_a_spring.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/hookes-law.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0278_lecture_notes_-_torque_introduction.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/torque.html)
 ```
 
-```{dropdown} 5. Introduction to Elastic and Inelastic Collisions
+```{dropdown} 5. Moment of Inertia Introduction and Rotational Kinetic Energy Derivation
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/53nDh4_GhA8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/C2qGOfCOUko" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0182_lecture_notes_-_introduction_to_elastic_and_inelastic_collisions.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/collisions.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0273_lecture_notes_-_moment_of_inertia__and_rotational_kinetic_energy_derivations.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/moment-of-inertia.html)
 ```
 
-```{dropdown} 6. Introductory Perfectly Inelastic Collision Problem Demonstration
+```{dropdown} 6. Introductory Moment of Inertia and Rotational Kinetic Energy Problem
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     
@@ -111,54 +125,17 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/W-BCPUQXAJU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0183_lecture_notes_-_introductory_perfectly_inelastic_collision_problem_demonstration.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/perfectly-inelastic.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0274_lecture_notes_-_introductory_moment_of_inertia_example_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/moment-of-inertia-problem.html)
 ```
 
-```{dropdown} 7. Introductory Elastic Collision Problem Demonstration
+## Optional Videos
+
+```{dropdown} 6. Introductory Angular Velocity Problem - A Turning Bike Tire Energy Problem
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
-
+    
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/6Ks8VYxiugo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/D6mLuwjiAcc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0184_lecture_notes_-_introductory_elastic_collision_problem_demonstration.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/elastic.html)
-```
-
-```{dropdown} 8. Using Impulse to Calculate Initial Height
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/0qK-fxxShWQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0190_lecture_notes_-_using_impulse_to_calculate_initial_height.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/impulse-height.html)
-```
-
-```{dropdown} 9. 2D Conservation of Momentum Example using Air Hockey Discs
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/nuBE7I6-yfk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0193_lecture_notes_-_2d_conservation_of_momentum_example_using_air_hockey_pucks.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/2d-momentum.html)
-```
-
-```{dropdown} 10. Review of Mechanical Energy and Momentum Equations and When To Use Them!
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3KqwsjY1E60" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0192_lecture_notes_-_review_of_mechanical_energy_and_momentum_equations_and_when_to_use_them.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/energy-momentum-review.html)
 ```

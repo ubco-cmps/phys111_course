@@ -28,18 +28,21 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week7_video10" class="box"><label>Video 10</input></label>
 
-<input type="checkbox" id="week7_video11" class="box"><label>Video 11 (Optional) </input></label>
-
-<input type="checkbox" id="week7_video12" class="box"><label>Video 12 (Optional) </input></label>
-
-<input type="checkbox" id="week7_video13" class="box"><label>Video 13 (Optional) </input></label>
-
-<input type="checkbox" id="week7_video14" class="box"><label>Video 14 (Optional) </input></label>
-
-<input type="checkbox" id="week7_video15" class="box"><label>Video 15 (Optional) </input></label>
-
+<input type="checkbox" id="week7_video11" class="box"><label>Video 11</input></label>
 ```
 ````
+
+## Content Summary from Crash Course Physics
+
+```{dropdown} Friction (Same as last week's)
+    :container: + shadow
+    :title: bg-success text-white font-weight-bold
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/fo_pmp5rtzo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
 
 ## Required Videos
 
@@ -149,7 +152,19 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/water-slide.html)
 ```
 
-```{dropdown} 10. Deriving the Equation for Terminal Velocity
+```{dropdown} 10. Centripetal Force Introduction and Demonstration
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/jtg8q5rrZoU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0221_lecture_notes_-_centripetal_force_introduction_and_demonstration.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/centripetal-force.html)
+```
+
+```{dropdown} 11. Deriving the Equation for Terminal Velocity
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -158,9 +173,33 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
+```{dropdown} 12. Hooke's Law Introduction - Force of a Spring
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/EbVeoJBjHTw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0248_lecture_notes_-_hookes_law_introduction_-_force_of_a_spring.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/hookes-law.html)
+```
+
 ## Optional Videos
 
-```{dropdown} 11. Physics "Magic Trick" on an Incline
+```{dropdown} 13. Determining the Spring Constant, k, with a Vertically Hanging Mass
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/flCA41BG7Do" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0249_lecture_notes_-_determining_the_spring_constant_k_with_a_vertically_hanging_mass.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/vertical-spring-constant.html)
+```
+
+```{dropdown} 14. Physics "Magic Trick" on an Incline
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
@@ -172,7 +211,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/magic-trick.html)
 
 ```
-```{dropdown} 12. Does the Book Move? An Introductory Friction Problem
+```{dropdown} 15. Does the Book Move? An Introductory Friction Problem
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
@@ -184,7 +223,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/friction-problem.html)
 
 ```
-```{dropdown} 13. Do Anti-lock Brakes use Static or Kinetic Friction? by Billy
+```{dropdown} 16. Do Anti-lock Brakes use Static or Kinetic Friction? by Billy
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
@@ -196,7 +235,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/abs-brakes.html)
 
 ```
-```{dropdown} 14. A Friction Review Problem - The Original Billy Bobby and Bo
+```{dropdown} 17. A Friction Review Problem - The Original Billy Bobby and Bo
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
@@ -208,7 +247,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/friction-review-problem.html)
 
 ```
-```{dropdown} 15. Determining the Static Coefficient of Friction between Tires and Snow
+```{dropdown} 18. Determining the Static Coefficient of Friction between Tires and Snow
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
@@ -219,4 +258,121 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0131_lecture_notes_-_determining_the_static_coefficient_of_friction_between_tires_and_snow.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/tire-friction.html)
 
+```
+
+```{dropdown} 19. Introductory Centripetal Force Problem - Car over a Hill
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/A2KGtarD4bI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0222_lecture_notes_-_introductory_centripetal_force_problem_-_car_over_a_hill.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/centripetal-force-problem.html)
+```
+
+```{dropdown} 20. What is the Maximum Speed of a Car at the Top of a Hill?
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NH72nlsr_D4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0223_lecture_notes_-_what_is_the_maximum_speed_of_a_car_at_the_top_of_a_hill.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/car-hill-maximum-speed.html)
+```
+
+```{dropdown} 21. Determining the Force Normal on a Toy Car moving up a Curved Hill
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/dhn6xgfbPXg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0225_lecture_notes_-_determining_the_force_normal_on_a_toy_car_moving_up_a_curved_hill.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/car-hill-force-normal.html)
+```
+
+```{dropdown} 22. Mints on a Rotating Turntable - Determining the Static Coefficient of Friction
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/jNbqNhpmHwg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0224_lecture_notes_-_mints_on_a_rotating_turntable_-_determining_the_static_coefficient_of_friction.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/turntable-static-friction-coefficient.html)
+```
+
+```{dropdown} 23. Demonstrating Why Water Stays in a Bucket Revolving in a Vertical Circle
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Zulw5bQ18Kk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0226_lecture_notes_-_demonstrating_why_water_stays_in_a_bucket_revolving_in_a_vertical_circle.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/water-bucket-demonstration.html)
+```
+
+```{dropdown} 24. Analyzing Water in a Bucket a Bucket Revolving in a Vertical Circle
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/2RQKmu-UEe0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0227_lecture_notes_-_analyzing_water_in_a_bucket_revolving_in_a_vertical_circle.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/water-bucket-analysis.html)
+```
+```{dropdown} 25. Minimum Speed for Water in a Bucket Revolving in a Vertical Circle
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TIBcntHCxjQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0228_lecture_notes_-_minimum_speed_for_water_in_a_bucket_revolving_in_a_vertical_circle.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/water-bucket-minimum-speed.html)
+```
+
+```{dropdown} 26. Dropping a bucket of water with two holes in it
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/rz0LRqtf5ks" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+- [Notes](https://www.flippingphysics.com/water-bucket-drop.html)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/water-bucket-drop.html)
+```
+
+```{dropdown} 27. Apparent Weightlessness
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+**Content Warning: this is tricky and is likely to blow your mind!!**
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/PY6glhW3ZME" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0238_lecture_notes_-_apparent_weightlessness.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/apparent-weightlessness.html)
+```
+
+```{dropdown} 28. Conical Pendulum Demonstration and Problem
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NfhGH68AVMs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0231_lecture_notes_-_conical_pendulum_demonstration_and_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/conical-pendulum.html)
 ```

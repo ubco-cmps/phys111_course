@@ -28,105 +28,130 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ````
 ## Content Summary from Crash Course Physics
 
-```{dropdown} Friction (Same as last week's)
+```{dropdown} Work, Energy, and Power
     :container: + shadow
     :title: bg-success text-white font-weight-bold
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/fo_pmp5rtzo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/w4QFJb9a8vo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
 ## Required Videos
 
-```{dropdown} 1. 5 Steps to Solve any Free Body Diagram Problem
+```{dropdown} 1. Introduction to Work with Examples
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/pA9Uc_rJNiA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/0Oeywu5IR6s" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0120_lecture_notes_-_5_steps_to_solve_any_free_body_diagram_problem.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/5-steps-fbd.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0134_lecture_notes_-_introduction_to_work_with_examples.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/work-intro.html)
 ```
 
-```{dropdown} 2. Introduction to Newton's Third Law of Motion
+```{dropdown} 2. Introductory Work Problem
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/bAevUhFUhV4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/e8ZwNtn4uLc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0102_lecture_notes_-_introduction_to_newtons_third_law_of_motion.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/third-law.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0137_lecture_notes_-_introductory_work_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/work-problem.html)
 ```
 
-```{dropdown} 3. A Common Misconception about Newton's Third Law Force Pairs (or Action-Reaction Pairs)
+```{dropdown} 3. Introduction to Kinetic Energy with Example Problem
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/wmmjfbl7zG4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TcIMFGLqt44" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0105_lecture_notes_-_a_common_misconception_about_newtons_thrid_law_force_pairs__or_action-reaction_pairs_.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/third-law-misconception.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0138_lecture_notes_-_introduction_to_kinetic_energy_with_example_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-ke.html)
 ```
 
-```{dropdown} 4. Understanding the Tension Force
+```{dropdown} 4. Introduction to the Integral or Anti-Derivative for use in Work from a Non-Constant Force
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/iWgbhbwwbPk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/X97-azGdDl8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0099_lecture_notes_-_understanding_the_tension_force.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/tension-force.html)
 ```
 
-```{dropdown} 5. An Introductory Tension Force Problem
+```{dropdown} 5. Defining Work with the Dot Product and a Review of the Dot Product - Constant Force
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/JUHeaZk9oNA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/svtv13DeyYs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0121_lecture_notes_-_an_introductory_tension_force_problem.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/tension-problem.html)
 ```
 
-```{dropdown} 6. Force vs. Time on a Dynamics Cart
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-    
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/DU_vaEizFBI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0094_lecture_notes_-_force_vs._time_on_a_dynamics_cart.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/force-vs-time.html)
-```
 
-```{dropdown} 7. (Part 1) Reviewing Pulleys, Inclines and Free Body Diagrams with an Example Problem
+```{dropdown} 8. The Human Spine acts like a Compression Spring
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/M-EkxNU7Yt8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/4d7dHY7RLjA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0250_lecture_notes_-_the_human_spine_acts_like_a_compression_spring.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/horizontal-spring-constant.html)
 ```
 
-```{dropdown} 8. (Part 2) Reviewing Pulleys, Inclines and Free Body Diagrams with an Example Problem
+```{dropdown} 9. Introduction to Mechanical Energy with Friction
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/ncyVqk6IKc0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/d4a3BnOkFcs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0145_lecture_notes_-_introduction_to_mechanical_energy_with_friction.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-wf.html)
+```
+
+```{dropdown} 10. Introductory Work due to Friction equals Change in Mechanical Energy Problem
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/oPP83wQ8ZmU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0148_lecture_notes_-_introductory_work_due_to_friction_equals_change_in_mechanical_energy_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-wf-problem.html)
+```
+
+```{dropdown} 11. Introduction to Power
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/BtHLmxvP7o0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0162_lecture_notes_-_introduction_to_power.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/power.html)
+```
+
+```{dropdown} 12. Average and Instantaneous Power Example
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/c02hWCeSkAI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0163_lecture_notes_-_average_and_instantaneous_power_example.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/power-example.html)
 ```
