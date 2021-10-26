@@ -28,3 +28,19 @@ Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 We have put together some additional practice problems to help you complete the homework.
 These problems are optional, and suggested if you are having trouble with the homework problems.
 The odd-numbered problems from the textbook should have solutions available to students.
+
+- Problem 7.31
+- Problem 7.37
+- Problem 7.39 (Helpful for HW7 q2 Bungee Jumping)
+- Problem 7.45
+- Problem 7.47
+- Problem 7.49 (Helpful for HW7 q1 Kinetic Energy of test mass)
+- Problem 7.55
+- Problem 7.59
+- Problem 7.61
+- Problem 7.73
+- Problem 7.77 (Helpful for HW7 q 11 Power climbing stairs)
+- Problem 7.83 (Helpful for HW7 q9 Energy Expenditure of a Jogger)
+- Problem 7.89
+- Problem 7.93
+- Problem 7.97
