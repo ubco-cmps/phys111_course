@@ -1,4 +1,4 @@
-# Week 10 Classes
+# Week 8 Classes
 
 ## Monday
 
