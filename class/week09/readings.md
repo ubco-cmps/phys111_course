@@ -30,3 +30,21 @@ Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 We have put together some additional practice problems to help you complete the homework.
 These problems are optional, and suggested if you are having trouble with the homework problems.
 The odd-numbered problems from the textbook should have solutions available to students.
+
+- Problem 8.25
+- Problem 8.29
+- Problem 8.31 (Helpful for HW8 Q3 Energy lost due to friction force)
+- Problem 8.35
+- Problem 8.37
+- Problem 8.39
+- Problem 8.41
+- Problem 8.43 (Helpful for HW8 Q1 Compressed spring to launch mass)
+- Problem 8.53
+- Problem 8.55
+- Problem 8.57 (Helpful for HW8 q1 Compressed spring to launch mass)
+- Problem 8.63
+- Problem 8.69
+- Problem 8.71
+- Problem 8.83
+- Problem 8.87 (Helpful for HW8 Q5 Firing a ball)
+- Problem 8.89 (Helpful for HW8 Q8 Collision of a cart with a spring) 
