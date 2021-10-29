@@ -10,4 +10,4 @@
 
 ## Friday
 
-<iframe src="../../Class08C.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class08C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
