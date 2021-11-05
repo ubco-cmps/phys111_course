@@ -105,12 +105,21 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/stable-unstable-neutral-equilibrium.html)
 ```
 
-```{dropdown} 7. Introduction to the Conservative Force and it's Potential Energy with Example Problem
+```{dropdown} (*NEW*) 7. Conservative and Non-conservative Forces
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/CGvQFu75L38" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/2JckBY2aw_U" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} (*NEW*) 8. Conservative and Non-conservative Forces (Khan Academy)
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/iba4gUeQN0w" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
@@ -125,5 +134,14 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/7gf6YpdvtE0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} Introduction to the Conservative Force and it's Potential Energy with Example Problem
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/CGvQFu75L38" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
