@@ -28,7 +28,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week11_video10" class="box"><label>Video 10</input></label>
 
-
+<input type="checkbox" id="week11_video11" class="box"><label>Video 11</input></label>
 ```
 ````
 
@@ -59,7 +59,20 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/momentum.html)
 ```
 
-```{dropdown} 2. Impulse Introduction
+```{dropdown} 2. Introduction to Conservation of Momentum with Demonstrations
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Kf0bBxmNeec" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0180_lecture_notes_-_introduction_to_conservation_of_momentum.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/conservation-of-momentum.html)
+```
+
+```{dropdown} 3. Impulse Introduction
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -71,7 +84,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/impulse-introduction.html)
 ```
 
-```{dropdown} 3. Derivation of Impulse using an Integral and Impulse Approximation
+```{dropdown} 4. Derivation of Impulse using an Integral and Impulse Approximation
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -80,7 +93,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 4.  Introductory Conservation of Momentum Explosion Problem Demonstration
+```{dropdown} 5.  Introductory Conservation of Momentum Explosion Problem Demonstration
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -92,7 +105,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/hookes-law.html)
 ```
 
-```{dropdown} 5. Introduction to Elastic and Inelastic Collisions
+```{dropdown} 6. Introduction to Elastic and Inelastic Collisions
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -104,7 +117,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/collisions.html)
 ```
 
-```{dropdown} 6. Introductory Perfectly Inelastic Collision Problem Demonstration
+```{dropdown} 7. Introductory Perfectly Inelastic Collision Problem Demonstration
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     
@@ -116,7 +129,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/perfectly-inelastic.html)
 ```
 
-```{dropdown} 7. Introductory Elastic Collision Problem Demonstration
+```{dropdown} 8. Introductory Elastic Collision Problem Demonstration
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -128,7 +141,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/elastic.html)
 ```
 
-```{dropdown} 8. Using Impulse to Calculate Initial Height
+```{dropdown} 9. Using Impulse to Calculate Initial Height
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -140,7 +153,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/impulse-height.html)
 ```
 
-```{dropdown} 9. 2D Conservation of Momentum Example using Air Hockey Discs
+```{dropdown} 10. 2D Conservation of Momentum Example using Air Hockey Discs
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -152,7 +165,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/2d-momentum.html)
 ```
 
-```{dropdown} 10. Review of Mechanical Energy and Momentum Equations and When To Use Them!
+```{dropdown} 11. Review of Mechanical Energy and Momentum Equations and When To Use Them!
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
