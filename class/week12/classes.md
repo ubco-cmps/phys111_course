@@ -6,7 +6,7 @@
 
 ## Wednesday
 
-<iframe src="../../Class12B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class12B_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Friday
 
