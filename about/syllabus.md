@@ -73,8 +73,7 @@ Missed Tests and Exams will be given a score of 0 unless prior arrangements are 
 To contact the instructor for this course, use {{ FORUM_LINK }}.
 Details on deadlines and other course policies can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
-## Lecture Outline
-
+## Tentative Course Schedule
 The tentative course schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
 ```{include} syllabus_bits/schedule.md
