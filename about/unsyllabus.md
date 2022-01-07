@@ -25,7 +25,7 @@
 ```
 
 <!-- 
-## Learning Outcomes
+## Learning Intentions
 
 ```{include} syllabus_bits/course_LOs.md
 ``` 
@@ -58,7 +58,7 @@
 
 ## Course Tools
 
-```{include} unsyllabus_bits/changes.md
+```{include} unsyllabus_bits/course_tools.md
 ```
 
 ## Teaching Philosophy
