@@ -33,7 +33,7 @@ For **only the Homework assignments** this year, here is the flexible grading po
 
 | Submission Time                                  | Maximum Possible Grade |
 |--------------------------------------------------|------------------------|
-| Before the deadline                              | 100%                   |
+| Before the deadline                              | 110%                   |
 | 2 days (48 hour grace period) after the deadline | 100%                   |
 | 7 days after original deadline                   | 80%                    |
 | 14 days after original deadline                  | 60%                    |
@@ -43,7 +43,7 @@ For **only the Homework assignments** this year, here is the flexible grading po
 Note: Homework assignments cannot be accepted beyond the last day of classes + 48 hours. This is non-negotiable!
 ```
 
-It is important to build a rhythym as you go through undergraduate courses (particularly mine) and to do that, there is a fixed schedule that must be followed. 
+It is important to build a rhythm as you go through undergraduate courses (particularly mine) and to do that, there is a fixed schedule that must be followed. 
 Of course, deviation from the ideal schedule happens frequently in a term when students are taking other courses as well. 
 That's why I have built in some "pressure releases" in this course so you have another way to manage the workload of the term.
 That being said, I suggest not relying on this too much because it will set you back and if you fall too far behind, there's a danger of running out of time to catch up.
