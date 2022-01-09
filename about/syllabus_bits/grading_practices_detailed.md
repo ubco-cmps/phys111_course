@@ -47,7 +47,3 @@ It is important to build a rhythm as you go through undergraduate courses (parti
 Of course, deviation from the ideal schedule happens frequently in a term when students are taking other courses as well. 
 That's why I have built in some "pressure releases" in this course so you have another way to manage the workload of the term.
 That being said, I suggest not relying on this too much because it will set you back and if you fall too far behind, there's a danger of running out of time to catch up.
-
-```{note}
-Note: Any requests for changes to final exam must be sent to the office of the Associate Dean of Students (fos.students.ubco@ubc.ca).
-```
