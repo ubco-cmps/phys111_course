@@ -1,7 +1,7 @@
-| Team Member                  | Pronounce as    | Contact                      | Student Hour |
-|------------------------------|-----------------|------------------------------|--------------|
-| {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }} | Contact via {{ FORUM_LINK }} | []()         |
-| TA1                          |                 | Contact via {{ FORUM_LINK }} | []()         |
-| TA2                          |                 | Contact via {{ FORUM_LINK }} | []()         |
-| TA3                          |                 | Contact via {{ FORUM_LINK }} | []()         |
-| TA4                          |                 | Contact via {{ FORUM_LINK }} | []()         |
+| Team Member                  | Pronounce as    | Contact                      | Student Hour                                                                                          |
+|------------------------------|-----------------|------------------------------|-------------------------------------------------------------------------------------------------------|
+| {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }} | Contact via {{ FORUM_LINK }} | [30 minutes after every class](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09) |
+| TA1                          |                 | Contact via {{ FORUM_LINK }} | [Monday 12-1 PM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)               |
+| TA2                          |                 | Contact via {{ FORUM_LINK }} | [Tuesday 3-4 PM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)               |
+| TA3                          |                 | Contact via {{ FORUM_LINK }} | [Thursday 2-3 PM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)              |
+| TA4                          |                 | Contact via {{ FORUM_LINK }} | [Friday 10-11 AM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)              |

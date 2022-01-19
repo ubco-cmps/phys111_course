@@ -1,3 +1,5 @@
+<div class="page_break"> </div>
+
 ![](../images/header.jpg)
 
 ![](../images/UBCO_CMPS_header.jpg)
@@ -8,6 +10,7 @@
 
 ```{include} unsyllabus_bits/important_details.md
 ```
+<div class="page_break"> </div>
 
 ## Contact Us
 

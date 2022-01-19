@@ -21,8 +21,10 @@ Any submissions submitted past the grace period will not be graded (with some ex
 ```
 
 ```{note}
-Important: The maximum mark you can get on each item is 100%. Any available bonus marks are not transferrable to other assignments.
+Important: The maximum mark you can get on each item is 100%. Any available bonus marks are not transferable to other assignments.
 ```
+
+<div class="page_break"> </div>
 
 ### Other Grading Policies
 
