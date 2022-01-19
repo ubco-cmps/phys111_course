@@ -19,12 +19,10 @@ Closer to the start of the term, I will update the video below with an actual me
 Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrolling/).
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-    <iframe src="https://player.vimeo.com/video/148751763" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    <iframe src="https://www.youtube.com/embed/_G7FybZQ5zE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 ### Why should I take {{ COURSE_CODE }}?
 
 ```{include} syllabus_bits/course_teaser.md
 ```
-
-<div class="page_break"> </div>

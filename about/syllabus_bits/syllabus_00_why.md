@@ -16,6 +16,8 @@ The items above are indeed permanent and unchanging, and deserve to be in the sy
 Other things, such as what you will learn, how and when you will do it are more flexible and fluid.
 For that, we have this unsyllabus.
 
+<div class="page_break"> </div>
+
 ### What is the Unsyllabus? 
 
 In contrast to the syllabus, the unsyllabus is not a legal document. Instead, it is a *living document* that serves students and adjusts to their needs and feedback.

@@ -21,7 +21,7 @@ Even though the tools above are required for this course, if you have a moral or
 You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
 
 On the left sidebar in Canvas, click on Gradescope.
-<img src="../images/GradescopeAccount.gif">
+<img src="../images/GradescopeAccount.gif" width="40%">
 
 This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
 

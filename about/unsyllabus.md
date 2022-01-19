@@ -34,10 +34,14 @@
 ``` 
 -->
 
+<div class="page_break"> </div>
+
 ## Schedule
 
 ```{include} syllabus_bits/schedule.md
 ```
+
+<div class="page_break"> </div>
 
 ## Getting Help
 
@@ -49,6 +53,8 @@
 ```{include} syllabus_bits/syllabus_00_why.md
 ```
 
+<div class="page_break"> </div>
+
 ## Unsyllabus changes
 
 ```{include} unsyllabus_bits/changes.md
@@ -59,10 +65,19 @@
 ```{include} unsyllabus_bits/doing_well_physics.md
 ```
 
+## Course Accommodations
+
+```{include} unsyllabus_bits/accommodations.md
+```
+
+<div class="page_break"> </div>
+
 ## Course Tools
 
 ```{include} unsyllabus_bits/course_tools.md
 ```
+
+<div class="page_break"> </div>
 
 ## Teaching Philosophy
 
@@ -74,10 +89,7 @@
 ```{include} unsyllabus_bits/academic_integrity.md
 ```
 
-## Course Accommodations
-
-```{include} unsyllabus_bits/accommodations.md
-```
+<div class="page_break"> </div>
 
 ## What should I think about if I'm considering withdrawing from the course?
 
