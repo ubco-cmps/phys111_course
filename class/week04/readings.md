@@ -12,15 +12,13 @@ This week the readings assignments are listed below:
 
 <label><input type="checkbox" id="week04_reading5" class="box"> **Readings 4.5 Relative Motion in One and Two Dimensions** </input></label> 
 
-````{panels}
+````{card}
 
 Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 
-++++ 
+```{button-link} https://openstax.org/books/university-physics-volume-1/pages/4-introduction
+OpenStax University Physics Volume 1
 
-```{link-button} https://openstax.org/books/university-physics-volume-1/pages/4-introduction
-:text: OpenStax University Physics Volume 1
-:type: url
 :classes: btn-outline-warning btn-block stretched-link text-dark
 ```
 ````

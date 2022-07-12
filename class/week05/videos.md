@@ -31,16 +31,14 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 <input type="checkbox" id="week05_video11" class="box"><label>Video 11</input></label>
 
 <input type="checkbox" id="week05_video12" class="box"><label>Video 12</input></label>
-
-
 ```
 ````
 
 ## Content Summary from Crash Course Physics
 
 ```{dropdown} Newton's Laws
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -51,8 +49,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Required Videos
 
 ```{dropdown} 1. Introduction to Inertia and Inertial Mass
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -64,8 +62,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 2. Introduction to Force
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/fiT2R88Zt58" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -76,8 +74,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 3. Introduction to the Force of Gravity and Gravitational Mass
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/6q4kRwRuScI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -88,8 +86,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 4. Weight and Mass are Not the Same
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/nRSJ8w8FrDw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -100,8 +98,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 5. Introduction to Newton's First Law of Motion
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/7kPRD0ow-hM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -112,8 +110,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 6. Introduction to Free Body Diagrams or Force Diagrams
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/29YPIvj1zjc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -124,8 +122,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 7. The Reality of our First Free Body Diagram
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/mNe2QBRirPA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -136,8 +134,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 8. Summing the Forces is Vector Addition
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/pr-bJTSCSUE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -150,8 +148,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Optional Videos
 
 ```{dropdown} 1. Introduction to Newton’s Second Law of Motion with Example Problem
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/j1TUpbGzPBQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -162,8 +160,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 2. Introductory Newton's 2nd Law Example Problem and Demonstration
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/sF_Ln4xWsV0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -174,8 +172,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 3. Using Newton's Second Law to find the Force of Friction
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/IHILOnEW5Qg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -186,8 +184,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 4. A Three Force Example of Newton's 2nd Law with Components
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/IGtbiQt4fCQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

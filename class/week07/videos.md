@@ -30,16 +30,14 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week7_video11" class="box"><label>Video 11</input></label>
 
-<input type="checkbox" id="week7_video12" class="box"><label>Video 12</input></label>
-
-```
+<input type="checkbox" id="week7_video12" class="box"><label>Video 12</input></label>```
 ````
 
 ## Content Summary from Crash Course Physics
 
 ```{dropdown} Friction
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -50,8 +48,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Required Videos
 
 ```{dropdown} 1.  Introduction to Equilibrium
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -63,8 +61,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 2. Breaking the Force of Gravity into its Components on an Incline
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/B8x7-RjbtMY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,8 +73,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 3. Do You Feel Your Weight? A lesson on Apparent Weight
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Li5c9RVItmI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -87,8 +85,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 4. Introduction to Static and Kinetic Friction by Bobby
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/i-DdiI7gFoM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -99,8 +97,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 5. Introduction to the Coefficient of Friction
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/QwuldyEP9Jk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -111,8 +109,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 6. Understanding the Force of Friction Equation
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/quBTyhdVqQE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -123,8 +121,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 7. Introductory Static Friction on an Incline Problem
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/vWzjhKifwcU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -135,8 +133,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 8. Introductory "Kinetic Friction on an Incline" Problem
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/eUpZ0yyFNyc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -146,8 +144,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/kinetic-friction-incline.html)
 ```
 ```{dropdown} 9. Do Your Feet Affect How Far You Slide on a Water Slide?
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/RBPGcE9nD1w" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -156,8 +154,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 10. Centripetal Force Introduction and Demonstration
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/jtg8q5rrZoU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -168,8 +166,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 11. Deriving the Equation for Terminal Velocity
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/pNvv6NM1NPU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -177,8 +175,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 12. Hooke's Law Introduction - Force of a Spring
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/EbVeoJBjHTw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -191,8 +189,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Optional Videos
 
 ```{dropdown} 13. Determining the Spring Constant, k, with a Vertically Hanging Mass
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/flCA41BG7Do" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -203,8 +201,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 14. Physics "Magic Trick" on an Incline
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/5KttXfIPOjY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -215,8 +213,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```
 ```{dropdown} 15. Does the Book Move? An Introductory Friction Problem
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/0ePwg_L8j8Q" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -227,8 +225,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```
 ```{dropdown} 16. Do Anti-lock Brakes use Static or Kinetic Friction? by Billy
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/ZVW9uMeFXK8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -239,8 +237,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```
 ```{dropdown} 17. A Friction Review Problem - The Original Billy Bobby and Bo
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/jKGpkrGrCfI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -251,8 +249,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ```
 ```{dropdown} 18. Determining the Static Coefficient of Friction between Tires and Snow
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/IqmzNU11kv4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -264,8 +262,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 19. Introductory Centripetal Force Problem - Car over a Hill
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/A2KGtarD4bI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -276,8 +274,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 20. What is the Maximum Speed of a Car at the Top of a Hill?
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NH72nlsr_D4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -288,8 +286,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 21. Determining the Force Normal on a Toy Car moving up a Curved Hill
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/dhn6xgfbPXg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -300,8 +298,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 22. Mints on a Rotating Turntable - Determining the Static Coefficient of Friction
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/jNbqNhpmHwg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -312,8 +310,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 23. Demonstrating Why Water Stays in a Bucket Revolving in a Vertical Circle
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Zulw5bQ18Kk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -324,8 +322,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 24. Analyzing Water in a Bucket a Bucket Revolving in a Vertical Circle
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/2RQKmu-UEe0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -335,8 +333,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/water-bucket-analysis.html)
 ```
 ```{dropdown} 25. Minimum Speed for Water in a Bucket Revolving in a Vertical Circle
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TIBcntHCxjQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -346,8 +344,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 26. Dropping a bucket of water with two holes in it
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/rz0LRqtf5ks" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -357,8 +355,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 27. Apparent Weightlessness
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 **Content Warning: this is tricky and is likely to blow your mind!!**
 
@@ -370,8 +368,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 28. Conical Pendulum Demonstration and Problem
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NfhGH68AVMs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -18,15 +18,13 @@ This week the readings assignments are listed below:
 
 
 
-````{panels}
+````{card}
 
 Click below to access the Course Textbook, OpenStax University Physics Volume 1.
 
-++++ 
+```{button-link} https://openstax.org/books/university-physics-volume-1/pages/3-introduction
+OpenStax University Physics Volume 1
 
-```{link-button} https://openstax.org/books/university-physics-volume-1/pages/3-introduction
-:text: OpenStax University Physics Volume 1
-:type: url
 :classes: btn-outline-warning btn-block stretched-link text-dark
 ```
 ````

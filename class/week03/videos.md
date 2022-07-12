@@ -27,8 +27,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Summary of Calculus from Crash Course Physics
 
 ```{dropdown} Derivatives
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -37,8 +37,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} Integrals
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/jLJLXka2wEM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,8 +48,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Required Videos
 
 ```{dropdown} Vectors and 2D Motion
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -58,8 +58,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} Introduction to Displacement and the Differences Between Displacement and Distance
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/uTQ4_AOae1g" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -70,8 +70,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} Introduction to Velocity and Speed and the differences between the two
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/I16utd8d6JM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -82,8 +82,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} Introduction to Acceleration with Prius Brake Slamming Example Problem
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/mzpwV75Beeo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,8 +94,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} Introduction to Free-Fall and the Acceleration due to Gravity
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/vyvDzI22sOE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -110,8 +110,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 The videos below are relevant to the subject material, but are only provided for your interest.
 
 ```{dropdown} Introduction to the R Position Vector by way of an Example Problem
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/1AdVOdOeX0Q" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -119,8 +119,8 @@ The videos below are relevant to the subject material, but are only provided for
 ```
 
 ```{dropdown} Using the R Position Vector to find Velocity and Acceleration - Example Problem
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Z7aT8Efqb6E" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

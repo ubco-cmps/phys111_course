@@ -35,8 +35,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Content Summary from Crash Course Physics
 
 ```{dropdown} Collisions
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -47,8 +47,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Required Videos
 
 ```{dropdown} 1. You Can't Run From Momentum! (a momentum introduction)
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -60,8 +60,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 2. Introduction to Conservation of Momentum with Demonstrations
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -73,8 +73,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 3. Impulse Introduction
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/6myC6S2TNHw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -85,8 +85,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 4. Derivation of Impulse using an Integral and Impulse Approximation
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/EV8-eJR70Mg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,8 +94,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 5.  Introductory Conservation of Momentum Explosion Problem Demonstration
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/X97-azGdDl8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -106,8 +106,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 6. Introduction to Elastic and Inelastic Collisions
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/53nDh4_GhA8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -118,8 +118,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 7. Introductory Perfectly Inelastic Collision Problem Demonstration
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/W-BCPUQXAJU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -130,8 +130,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 8. Introductory Elastic Collision Problem Demonstration
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/6Ks8VYxiugo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -142,8 +142,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 9. Using Impulse to Calculate Initial Height
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/0qK-fxxShWQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -154,8 +154,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 10. 2D Conservation of Momentum Example using Air Hockey Discs
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/nuBE7I6-yfk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -166,8 +166,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 
 ```{dropdown} 11. Review of Mechanical Energy and Momentum Equations and When To Use Them!
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/3KqwsjY1E60" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

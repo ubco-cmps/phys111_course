@@ -1,14 +1,10 @@
 # Test
 
-````{panels}
+````{card}
 
 This week is a Test, and it will mostly be on the contents of Chapter 7 and 8.
 
-++++ 
-
-```{link-button} https://canvas.ubc.ca/courses/81870/assignments
-:text: Canvas Assignments
-:type: url
-:classes: btn-outline-success btn-block stretched-link text-dark
+```{button-link} https://canvas.ubc.ca/courses/81870/assignments
+Canvas Assignments
 ```
 ````

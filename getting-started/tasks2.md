@@ -7,8 +7,8 @@ I've split these tasks up into several chunks so it's a bit more manageable.
 ## After the First Class
 
 ```{dropdown} 6. Read the Syllabus and the Unsyllabus
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 The syllabus and unsullabus is now live on Canvas under the "Course Content" sidebar item. You can also {{ '[view it outside of Canvas here]({link})'.format(link=COURSE_LINK) }}.
 

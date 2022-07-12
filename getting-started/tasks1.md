@@ -7,8 +7,8 @@ I've split these tasks up into several chunks so it's a bit more manageable.
 ## Before Term Starts
 
 ```{dropdown} 1. Log into Canvas
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 Canvas is the go-to platform at UBC Okanagan.
@@ -23,8 +23,8 @@ It's fairly intuitive, but the Centre for Teaching, Learning, and Technology has
 ```
 
 ```{dropdown} 2. Claim your @student.ubc.ca email
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 **All active and registered students are eligible to sign up for a <CWL>@student.ubc.ca email account** that can be used to send and receive mail.
@@ -52,8 +52,8 @@ P.S. Your CWL is your campus wide login - this is something you would have creat
 ```
 
 ```{dropdown} 3. On the left sidebar in Canvas, click on Gradescope.
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
 
@@ -63,15 +63,15 @@ This is **very** important for you to do as it'll be our primary mechanism for d
 ```
 
 ```{dropdown} 4. Join Ed Discussion and say hi!
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <img src="../images/EdDiscussion.gif">
 ```
 
 ```{dropdown} 5. [Optional] Sign up for the unofficial UBCO 1st Year Science Discord Server
-    :container: + shadow
-    :title: bg-info text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 Some of your first year instructors have banded together to create a Discord server where students can chat with each other, share stories and experiences (or funny TikTok videos), and interact with each other. 
 This is essentially a glorified (and more organized) instant messaging service - some of you may already be on other Discords (if you are, I might ask you to help moderate).
@@ -83,8 +83,8 @@ You are not certainly not required to sign up for this service as the data is no
 ```
 
 ```{dropdown} 6. [Required] Take a break!
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 There's still a few days of summer left, go outside, enjoy the sunshine!
 Rest, recover, heal from everything you've been through over the last year.
