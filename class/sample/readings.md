@@ -1,4 +1,4 @@
-# Readings
+# Readings (Optional)
 
 Here is a sample of what your weekly readings may look like.
 Note there are no readings you need to do for the first week.

@@ -1,4 +1,4 @@
-# Readings
+# Readings (Optional)
 
 This week you are encouraged to **skim** Chapters 1 and 2 of the textbook to (re-)familiarize yourself with some of the notation and conventions we will use in this course.
 

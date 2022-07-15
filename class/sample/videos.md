@@ -77,7 +77,8 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week04_video33" class="box"><label>(Optional) Video 33</input></label> 
 
-<input type="checkbox" id="week04_video34" class="box"><label>(Optional) Video 34</input></label> ```
+<input type="checkbox" id="week04_video34" class="box"><label>(Optional) Video 34</input></label>
+```
 ````
 
 ## Content Summary from Crash Course Physics
