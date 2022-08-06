@@ -16,7 +16,7 @@ The exact details are subject to change, so this is roughly the plan we will try
 | 11 | Nov 14 - 20     | Ch. 9: Linear Momentum <br />and Collisions              | Lab 7 | HW 9     | LL 9  | Test 4                     | Energy and Work                 |
 | 12 | Nov 21 - Nov 27 | Ch. 10: Torque <br />and Rotation                        | Lab 8 | HW 10    | LL 10 | (Bonus Test 4)             |                                 |
 | 13 | Nov 28 - Dec 4  | Review and recap <br />(no new material)                 | -     | -        | LL 11 | Test 5                     | Momentum, Impulse, Collisions   |
-| 14 | Dec 5 - Dec 8   | Final Exam Details <br />(no new material)               | -     | -        | LL 11 | (Bonus Test 5)-            | -                               |
+| 14 | Dec 5 - Dec 8   | Final Exam Details <br />(no new material)               | -     | -        | LL 11 | (Bonus Test 5)             | -                               |
 
 ```{note}
 For the homework assignments, your best 8 of 9 will be selected for your average (HW1 is not for marks).
