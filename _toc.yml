@@ -17,11 +17,11 @@ parts:
     - file: class/sample/test
     - file: class/sample/learninglog
 # - caption: About this course
-  # chapters:
-  # - file: about/syllabus
-  # - file: about/course_schedule
-  # - file: about/accommodations
-  # - file: about/doing_well
+#   chapters:
+#   - file: about/syllabus
+#   - file: about/course_schedule
+#   - file: about/accommodations
+#   - file: about/doing_well
 # 
 # - caption: Getting Started
   # chapters:
