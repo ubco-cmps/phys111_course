@@ -1,7 +1,7 @@
-| Team Member                  | Pronounce as    | Contact                      | Student Hour                                                                                          |
+| Team Member                  | Pronounce as    | Contact                      | Student Hours                                                                                          |
 |------------------------------|-----------------|------------------------------|-------------------------------------------------------------------------------------------------------|
-| {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }} | Contact via {{ FORUM_LINK }} | [30 minutes after every class](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09) |
-| TA1                          |                 | Contact via {{ FORUM_LINK }} | [Monday 12-1 PM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)               |
-| TA2                          |                 | Contact via {{ FORUM_LINK }} | [Tuesday 3-4 PM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)               |
-| TA3                          |                 | Contact via {{ FORUM_LINK }} | [Thursday 2-3 PM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)              |
-| TA4                          |                 | Contact via {{ FORUM_LINK }} | [Friday 10-11 AM](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09)              |
+| {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }} | Contact via {{ FORUM_LINK }} | [Wednesdays and Fridays 3:30-4:00 PM and 5:00 - 5:30 in COM 201](https://maps.ok.ubc.ca/?marker=-119.39659596075828%2C49.94019194457154%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Science%20(SCI)%22%2C%22longitude%22%3A-119.39659596075828%2C%22latitude%22%3A49.94019194457154%2C%22isIncludeShareUrl%22%3Atrue%7D&level=6) |
+| TA1                          |                 | Contact via {{ FORUM_LINK }} | [TBD via Zoom]()               |
+| TA2                          |                 | Contact via {{ FORUM_LINK }} | [TBD via Zoom]()               |
+| TA3                          |                 | Contact via {{ FORUM_LINK }} | [TBD via Zoom]()              |
+| TA4                          |                 | Contact via {{ FORUM_LINK }} | [TBD via Zoom]()              |
