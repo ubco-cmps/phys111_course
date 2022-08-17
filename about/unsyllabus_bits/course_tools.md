@@ -6,8 +6,10 @@ In this course, we will be using the following required learning technologies (p
 
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
 - [Ed Discussion](https://edstem.org/privacy)
+- [PrairieLearn](https://www.prairielearn.com/legal/privacy)
+- [Sli.do](https://www.slido.com/terms?experience_id=1&utm_campaign=_eid-007-control&utm_source=www.slido.com-_ab#privacy-policy)
 - [Gradescope](https://www.gradescope.com/privacy)
-- PrairieLearn (Privacy policy not available yet)
+- [Hypothes.is (Optional)](https://web.hypothes.is/privacy/)
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
 New tools may be added to the course as the need arises, and I will update this section with the appropriate information and make an announcement if a new tool is added midway through a course.
@@ -16,12 +18,12 @@ New tools may be added to the course as the need arises, and I will update this 
 Even though the tools above are required for this course, if you have a moral or legal objection to my use of these tools, please do reach out to me and we can likely find an acceptable accommodation.
 ```
 
-### Link your Canvas account to Gradescope
-
-You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
+### Link your Canvas account to Gradescope [Required]
 
 On the left sidebar in Canvas, click on Gradescope.
 <img src="../images/GradescopeAccount.gif" width="40%">
+
+You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
 
 This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
 
@@ -39,6 +41,35 @@ In general, please do NOT email questions to the instructor and TAs unless it is
 ```{warning}
 The Ed Discussion tool is stored on servers outside Canada. When you access this site by clicking on the link through Canvas, you are being transferred to these servers. In order to protect your identity, UBC obfuscates your user ID before it is sent to the site. However, Ed Discussion does require you to create an account on their servers. While Ed Discussion adheres to strict U.S. privacy regulations (FERPA), UBC cannot guarantee security of your private details on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns.
 ```
+
+### Download the Sli.do app (Optional)
+
+During classes I will periodically ask questions to students and we will be using [Sli.do](https://sli.do) as our audience response system.
+This interface for Sli.do is very intuitive and it does not require creation of an account.
+You can use Slido on any browser including a laptop, tablet, or mobile device.
+Below is a demo of what you can expect the Slido experience to be like (video credit to [Sli.do](https://www.slido.com/_next/static/media/aedeb61313e69817.mp4)):
+
+<img src="../images/slido.gif">
+
+```{tip}
+It is your choice how you want to interact with the tool, but you can [download the iOS](https://apps.apple.com/ca/app/slido-q-a-and-polling/id954596240) or [download the Android app](https://play.google.com/store/apps/details?id=com.slido.app).
+```
+### Sign up for a Hypothesis Account (Optional)
+
+I want to know what you think of our unsyllabus in this course!
+Yes, I want your thoughts, feedback, and opinions on how you want the course to go this term.
+If you have a good idea for a change to the unsyllabus - I'd love to hear it, and adopt it if it fits with the aims of the course.
+I strongly believe that you are now in charge of your own education, and I am just a guide to help point you in the right direction.
+
+How can you annotate the syllabus?
+Well there's a really awesome tool called [hypothes.is](https://hypothes.is) - when enabled, it allows anyone to highlight and comment on any website. I have turned this feature on for our course website.
+This is an experiment, and I encourage you to make comments and highlights on our unsyllabus.
+Let's see how it goes! Don't be shy, but please be respectful and courteous.
+
+```{warning}
+The Hypothes.is web annotation tool stores data that it collects on servers outside Canada. When you access or use this site through Canvas, you are being transferred to these servers. However, none of your course work information is shared with Hypothes.is. Though Hypothes.is requires you to create an account on their servers, but it is **not** necessary for you to use your real name or email address because UBC cannot guarantee security of your private details on servers outside of Canada. You may wish to use a pseudonym to protect your privacy if you have concerns. Please exercise caution whenever giving away your personal information.
+```
+
 
 ### What type of information will I collect about you in this course?
 
