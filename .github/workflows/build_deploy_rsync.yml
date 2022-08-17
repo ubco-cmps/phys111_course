@@ -43,7 +43,7 @@ jobs:
         REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
         LOCAL_DIR: "_build/html/"
-        COURSE_NAME: "physics111"
+        COURSE_NAME: "phys111"
         TERM: "2022_WT1"
       run: |
         mkdir ~/.ssh
