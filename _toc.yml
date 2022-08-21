@@ -1,21 +1,20 @@
 format: jb-book
 root: about/unsyllabus
 
-# 
-# parts:
-# - caption: Sample week
-#   chapters:
-#   - file: class/sample
-#     title: Week 0 Summary
-#   - file: class/sample/week00_summary
-#     sections:
-#     - file: class/sample/videos
-#     - file: class/sample/readings
-#     - file: class/sample/class
-#     - file: class/sample/homework
-#     - file: class/sample/lab
-#     - file: class/sample/test
-#     - file: class/sample/learninglog
+parts:
+- caption: Sample week
+  chapters:
+  - file: class/sample
+    title: Week 0 Summary
+  - file: class/sample/week00_summary
+    sections:
+    - file: class/sample/videos
+    - file: class/sample/readings
+    - file: class/sample/class
+    - file: class/sample/homework
+    - file: class/sample/lab
+    - file: class/sample/test
+    - file: class/sample/learninglog
 
 # - caption: About this course
 #   chapters:
