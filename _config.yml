@@ -15,10 +15,9 @@ latex:
 html:
   navbar_number_sections : false
   home_page_in_navbar : true
-  baseurl : "https://firas.moosvi.com/courses/2022_WT1/physics111/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  google_analytics_id: UA-168693744-3
+  baseurl : "https://firas.moosvi.com/courses/physics111/2022_WT1/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
-    hypothesis: false
+    hypothesis: true
   extra_footer : |
       <div>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
@@ -54,22 +53,33 @@ sphinx:
       TITLE: "Introductory Physics for the Physical Sciences I"
       PREREQS: "One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11 (Physics 12 is strongly recommended)."
       COREQS: "Math 100"
-      TERM: "2021 Winter Term 1"
-      ROOM: "Online Via Zoom"
-      MEETING_TIMES: "Monday, Wednesday, Friday from 8-9 AM"
+      TERM: "2022 Winter Term 1"
+      ROOM: "COM 201"
+      MEETING_TIMES: "Monday, Wednesday, Friday from 4-5 PM"
       GRACE_PERIOD: "48 hour"
-      W_DATE_1: "11:59 PDT on September 20, 2021"
-      W_DATE_2: "11:59 PDT on November 12, 2021"
-      W_DATE_3: "November 12, 2021"
-      EXAM_PERIOD: "Saturday December 11th - Wednesday, December 22"
-      CANVAS_ID: "81870"
+      W_DATE_1: "11:59 PDT on September 19, 2022"
+      W_DATE_2: "11:59 PDT on November 18, 2022"
+      W_DATE_3: "November 18, 2022"
+      EXAM_PERIOD: "Sunday December 11th - Thursday, December 22"
+      CANVAS_ID: "100994"
       CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID" # {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID)) }}
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/2021_WT1/physics111"
+      COURSE_LINK: "https://firas.moosvi.com/courses/physics111/2022_WT1/"
       FORUM_LINK: "Ed Discussion"
       #FORUM_LINK: "[Ed Discussion (sign up for it here)](https://ubc.ca1.qualtrics.com/jfe/form/SV_1BTAIXiMPvBRR2K)"
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
-      FORMAT: "Lectures, Labs, Tutorials will all be running online in this course."
-      ASSOCIATE_HEAD: "Jake Bobowski [jake.bobowski@ubc.ca](mailto:jake.bobowski@ubc.ca)"
+      FORMAT: "Lectures, tutorials, and labs will be held in-person. If technology permits, lectures will be recorded and posted. Labs and tutorials are not recorded."
+      ASSOCIATE_HEAD: "Dr. Jake Bobowski [jake.bobowski@ubc.ca](mailto:jake.bobowski@ubc.ca) or the Department Head Dr. John Braun at [cmps.depthead@ubc.ca](cmps.depthead@ubc.ca)"
       ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_doJPm2LTfr463Fb)"
+      # HW01: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18407"
+      # HW02: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18410"
+      # HW03: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18411"
+      # HW04: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18412"
+      # HW05: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18413"
+      # HW06: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18414"
+      # HW07: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18415"
+      # HW08: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18416"
+      # HW09: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18417"
+      # HW10: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18408"
+      # HW11: "https://ca.prairielearn.com/pl/course_instance/2439/assessment/18409"

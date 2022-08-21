@@ -2,21 +2,20 @@ format: jb-book
 root: about/unsyllabus
 
 # 
-parts:
-- caption: Sample week
-  chapters:
-  - file: class/sample
-    title: Week 0 Summary
-  - file: class/sample/week00_summary
-    sections:
-    - file: class/sample/videos
-    - file: class/sample/readings
-    - file: class/sample/class
-    - file: class/samples/homework
-    - file: class/sample/lab
-    - file: class/sample/test
-    - file: class/sample/learninglog
-    - file: class/week01/homework
+# parts:
+# - caption: Sample week
+#   chapters:
+#   - file: class/sample
+#     title: Week 0 Summary
+#   - file: class/sample/week00_summary
+#     sections:
+#     - file: class/sample/videos
+#     - file: class/sample/readings
+#     - file: class/sample/class
+#     - file: class/sample/homework
+#     - file: class/sample/lab
+#     - file: class/sample/test
+#     - file: class/sample/learninglog
 
 # - caption: About this course
 #   chapters:
@@ -44,39 +43,39 @@ parts:
       # - file: class/week01/lab
       # - file: class/week01/learninglog
 # - caption: Part 1 - Kinematics
-  # chapters:
-    # - file: class/week02/week02_summary
-      # title: Week 2 - Chapter 2
-      # sections:
-        # - file: class/week02/readings
-        # - file: class/week02/videos
-        # - file: class/week02/homework
-        # - file: class/week02/classes
-        # - file: class/week02/test
-        # - file: class/week02/lab
-        # - file: class/week02/learninglog
-    # - file: class/week03/week03_summary
-      # title: Week 3 - Chapter 3
-      # sections:
-        # - file: class/week03/readings
-        # - file: class/week03/videos
-        # - file: class/week03/homework
-        # - file: class/week03/tutorials
-        # - file: class/week03/classes
-        # - file: class/week03/test
-        # - file: class/week03/lab
-        # - file: class/week03/learninglog
-    # - file: class/week04/week04_summary
-      # title: Week 4 - Chapter 4
-      # sections:
-        # - file: class/week04/readings
-        # - file: class/week04/videos
-        # - file: class/week04/homework
-        # - file: class/week04/tutorials
-        # - file: class/week04/classes
-        # - file: class/week04/test
-        # - file: class/week04/lab
-        # - file: class/week04/learninglog
+#   chapters:
+#     - file: class/week02/week02_summary
+#       title: Week 2 - Chapter 2
+#       sections:
+#         - file: class/week02/readings
+#         - file: class/week02/videos
+#         - file: class/week02/homework
+#         - file: class/week02/classes
+#         - file: class/week02/test
+#         - file: class/week02/lab
+#         - file: class/week02/learninglog
+#     - file: class/week03/week03_summary
+#       title: Week 3 - Chapter 3
+#       sections:
+#         - file: class/week03/readings
+#         - file: class/week03/videos
+#         - file: class/week03/homework
+#         - file: class/week03/tutorials
+#         - file: class/week03/classes
+#         - file: class/week03/test
+#         - file: class/week03/lab
+#         - file: class/week03/learninglog
+#     - file: class/week04/week04_summary
+#       title: Week 4 - Chapter 4
+#       sections:
+#         - file: class/week04/readings
+#         - file: class/week04/videos
+#         - file: class/week04/homework
+#         - file: class/week04/tutorials
+#         - file: class/week04/classes
+#         - file: class/week04/test
+#         - file: class/week04/lab
+#         - file: class/week04/learninglog
 # 
 # - caption: Part 2 - Dynamics
   # chapters:

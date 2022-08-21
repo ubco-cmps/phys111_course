@@ -21,7 +21,8 @@ Even though the tools above are required for this course, if you have a moral or
 ### Link your Canvas account to Gradescope [Required]
 
 On the left sidebar in Canvas, click on Gradescope.
-<img src="../images/GradescopeAccount.gif" width="40%">
+
+<img src="../images/GradescopeAccount.gif" width="100%">
 
 You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
 
@@ -49,27 +50,34 @@ This interface for Sli.do is very intuitive and it does not require creation of 
 You can use Slido on any browser including a laptop, tablet, or mobile device.
 Below is a demo of what you can expect the Slido experience to be like (video credit to [Sli.do](https://www.slido.com/_next/static/media/aedeb61313e69817.mp4)):
 
-<img src="../images/slido.gif">
+<img src="../images/slido.gif" width="100%">
 
 ```{tip}
 It is your choice how you want to interact with the tool, but you can [download the iOS](https://apps.apple.com/ca/app/slido-q-a-and-polling/id954596240) or [download the Android app](https://play.google.com/store/apps/details?id=com.slido.app).
 ```
 ### Sign up for a Hypothesis Account (Optional)
 
-I want to know what you think of our unsyllabus in this course!
-Yes, I want your thoughts, feedback, and opinions on how you want the course to go this term.
-If you have a good idea for a change to the unsyllabus - I'd love to hear it, and adopt it if it fits with the aims of the course.
-I strongly believe that you are now in charge of your own education, and I am just a guide to help point you in the right direction.
+There's a really awesome tool called [hypothes.is](https://hypothes.is) - when enabled, it allows anyone to highlight and comment on any website.
+I have turned this feature on for our unsyllabus because I want to know what you think of the unsyllabus in our course!
+Yes, it's *our* course, we're in this together and there are some opportunities for you to determine how we do things in this course.
+I want your thoughts, feedback, and opinions on how you want the course to go this term.
+Similarly, if you have any questions about any part of the unsyllabus, the best place to ask it is right in the document itself.
+If you have a good idea for a change to the unsyllabus - I'd love to hear them, and even adopt them if they fit within the goals of the course.
+I strongly believe that you are now in charge of your own education, and I am just a guide to help point you in the right direction!
 
-How can you annotate the syllabus?
-Well there's a really awesome tool called [hypothes.is](https://hypothes.is) - when enabled, it allows anyone to highlight and comment on any website. I have turned this feature on for our course website.
+Here's an animated gif of how to annotate (you'll need to sign up for a free account):
+
+<img src="../images/hypothesis_annotation.gif" width="100%">
+
+
 This is an experiment, and I encourage you to make comments and highlights on our unsyllabus.
-Let's see how it goes! Don't be shy, but please be respectful and courteous.
+Let's see how it goes!
+Remember that your classmates will be able to see your comments too, so feel free to interact with them on here as well - we're in this together.
+Don't be shy, but please also be respectful and courteous.
 
 ```{warning}
 The Hypothes.is web annotation tool stores data that it collects on servers outside Canada. When you access or use this site through Canvas, you are being transferred to these servers. However, none of your course work information is shared with Hypothes.is. Though Hypothes.is requires you to create an account on their servers, but it is **not** necessary for you to use your real name or email address because UBC cannot guarantee security of your private details on servers outside of Canada. You may wish to use a pseudonym to protect your privacy if you have concerns. Please exercise caution whenever giving away your personal information.
 ```
-
 
 ### What type of information will I collect about you in this course?
 

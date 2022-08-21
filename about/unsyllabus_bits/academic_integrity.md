@@ -20,7 +20,7 @@ I have tried extremely hard to make this course focused on learning rather than 
 In particular, I hope (and expect) that the following features of the course should eliminate your temptation to cheat or plagiarize:
 
 - {{ GRACE_PERIOD }} grace-period on all due dates and deadlines.
-- Long testing window so you can start the tests whenever you're comfortable.
+<!-- - Long testing window so you can start the tests whenever you're comfortable. -->
 - Weekly learning logs, homework and reading reflections to make you think about your learning ([metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/)).
 - Each test has a "bonus test" available one week later; for each test, we will take the better score of the pair.
 - No high-stakes exams (the single largest assessment item is the final exam).
@@ -33,7 +33,7 @@ In particular, I hope (and expect) that the following features of the course sho
 
 With these features, and several other little things, I sincerely hope that you will consider completing this course with maximum integrity so that you never have to feel guilty, ashamed, or disappointed in yourself and your actions!
 
-A more detailed description of academic integrity, including the University’s policies and procedures, may be found in the [Academic Calendar](https://calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0).
+A more detailed description of academic integrity, including the University’s policies and procedures, may be found in the [Academic Calendar](https://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,54,111,0).
 
 ### What is considered academic dishonesty in this course?
 
