@@ -16,6 +16,8 @@ parts:
     - file: class/sample/lab
     - file: class/sample/test
     - file: class/sample/learninglog
+    - file: class/week01/homework
+
 # - caption: About this course
 #   chapters:
 #   - file: about/syllabus

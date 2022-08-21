@@ -21,6 +21,17 @@ Source: https: //www.w3schools.com/howto/howto_css_responsive_iframes.asp
     height: 100%;
 }
 
+/* Try to create an iframe for pl */
+.prairielearn-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 200%;
+}
+
 /* remove space above dropdowns */
 
 .dropdown-margin{
