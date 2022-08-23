@@ -43,6 +43,18 @@ In general, please do NOT email questions to the instructor and TAs unless it is
 The Ed Discussion tool is stored on servers outside Canada. When you access this site by clicking on the link through Canvas, you are being transferred to these servers. In order to protect your identity, UBC obfuscates your user ID before it is sent to the site. However, Ed Discussion does require you to create an account on their servers. While Ed Discussion adheres to strict U.S. privacy regulations (FERPA), UBC cannot guarantee security of your private details on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns.
 ```
 
+### Link your Canvas account to PrairieLearn
+
+PrairieLearn is an open source, extensible online assessment platform built on modern web technologies and is available to students at no cost.
+This system replaces commerical textbook publisher platforms for homework assignments such as MasteringPhysics, WileyPlus etc.
+In the past, instructors were forced to use these expensive options and pass these costs on to the students, to the tune of $60/student per course with just a temporary "subscription" to a textbook.
+Today, thanks to the emergence of high-quality open-education resources (OERs), student advocacy (see the [UBC Senate policy](https://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,41,1110,0)) and institutional support (see the [ALT-2040 project](https://alt-2040.ok.ubc.ca/funded-projects/)), and free and open source software (FOSS) we have alternatives.
+This will be just the second year we are using the PrairieLearn platform, and all the questions on the platform were coded by undergraduate and graduate students from UBC and UBCV.
+You can actually find all of the questions online in the [Open Physics Bank](https://firas.moosvi.com/oer/physics_bank) - note that only the question text is available, solutions are only available to instructors.
+
+In the first week of class, we will do a demo of the PrairieLearn platform together, but if you'd like to get started, you can [join the course and do the first assignment by clicking here](https://ca.prairielearn.com/pl/course_instance/2439/assessment/18407).
+You should login by clicking "Sign in with UBC" and provide your UBC CWL credentials.
+
 ### Download the Sli.do app (Optional)
 
 During classes I will periodically ask questions to students and we will be using [Sli.do](https://sli.do) as our audience response system.
