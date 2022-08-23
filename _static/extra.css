@@ -27,7 +27,8 @@ Source: https: //www.w3schools.com/howto/howto_css_responsive_iframes.asp
     left: 0;
     bottom: 0;
     right: 0;
-    width: 100%;
+    width: 150%;
+    height: 1200px
 }
 
 /* remove space above dropdowns */
