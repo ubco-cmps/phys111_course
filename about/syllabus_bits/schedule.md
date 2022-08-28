@@ -15,11 +15,11 @@ The exact details are subject to change, so this is roughly the plan we will try
 | 10 | Nov 7 - 13      | Reading week <br />(no new material)                     | -        | -        | -     | -   | -      | -               |
 | 11 | Nov 14 - 20     | Ch. 9: Linear Momentum <br />and Collisions              | Hw 9     | Tu 9     | LL 9  | L 7 | T 4    | Chs. 7-8        |
 | 12 | Nov 21 - 27     | Ch. 10: Torque <br />and Rotation                        | Hw 10    | Tu 10    | LL 10 | L 8 | (BT 4) |                 |
-| 13 | Nov 28 - Dec 4  | Review and recap <br />(no new material)                 | Hw 11    | -        | LL 11 | -   | T 5    | Ch. 9-10        |
+| 13 | Nov 28 - Dec 4  | Review and recap <br />(no new material)                 | -        | -        | LL 11 | -   | T 5    | Ch. 9-10        |
 | 14 | Dec 5 - Dec 8   | Final Exam Details <br />(no new material)               | -        | -        | -     | -   | (BT 5) | -               |
 
 ```{note}
-For the homework assignments (Hw), your best 10 of 11 will be selected for your average (Hw1 is for completion marks only).
+For the homework assignments (Hw), your best 9 of 10 will be selected for your average (Hw1 is for completion marks only).
 For the Learning Logs (LL), your best 10 of 11 will be selected for your average.
 ``` 
 

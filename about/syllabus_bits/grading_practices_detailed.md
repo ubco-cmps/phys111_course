@@ -1,12 +1,12 @@
 The grading scheme for this course is:
 
-| Item                | Weight        | Due date(s)                   |
-|---------------------|---------------|-------------------------------|
-| Learning Logs       | 10% (10 x 1%) | Saturdays at 6 PM             |
-| Homework            | 16% (8 x 2%)  | Thursdays at 6 PM             |
-| Labs                | 24% (8 x 3%)  | Variable                      |
-| Tests               | 30% (5 x 6%)  | Friday 6 PM - Sunday 6PM  |
-| Final Exam (Online) | 20%           | Online during the Exam Period |
+| Item                | Weight        | Due date(s)                      |
+|---------------------|---------------|----------------------------------|
+| Learning Logs       | 10% (10 x 1%) | Saturdays at 6 PM                |
+| Homework            | 18% (9 x 2%)  | Thursdays at 6 PM                |
+| Labs                | 32% (8 x 4%)  | Variable                         |
+| Tests               | 20% (5 x 4%)  | Friday 4-5 PM                    |
+| Final Exam (Online) | 20%           | Scheduled During the Exam Period |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test one week later and the better score of the Test-Bonus Test pair will be taken.
@@ -21,7 +21,7 @@ Any submissions submitted past the grace period will not be graded (with some ex
 ```
 
 ```{note}
-Important: The maximum mark you can get on each item is 100%. Any available bonus marks are not transferable to other assignments.
+Important: The maximum mark you can get on each item is 100%.
 ```
 
 <div class="page_break"> </div>
@@ -35,17 +35,21 @@ For **only the Homework assignments** this year, here is the flexible grading po
 
 | Submission Time                                  | Maximum Possible Grade |
 |--------------------------------------------------|------------------------|
-| Before the deadline                              | 110%                   |
+| Before the deadline                              | 110% ^                 |
 | 2 days (48 hour grace period) after the deadline | 100%                   |
 | 7 days after original deadline                   | 80%                    |
 | 14 days after original deadline                  | 60%                    |
 | Any time before last day of classes              | 50%                    |
 
-```{note}
-Note: Homework assignments cannot be accepted beyond the last day of classes + 48 hours. This is non-negotiable!
+```{tip}
+^ Note: To achieve the 110% score, you need to successfully complete **all** of the questions. You cannot earn more than 100% on the overall Homework portion, but this can help you makeup for lost marks in other missed or incomplete assignments.
 ```
 
 It is important to build a rhythm as you go through undergraduate courses (particularly mine) and to do that, there is a fixed schedule that must be followed. 
 Of course, deviation from the ideal schedule happens frequently in a term when students are taking other courses as well. 
 That's why I have built in some "pressure releases" in this course so you have another way to manage the workload of the term.
 That being said, I suggest not relying on this too much because it will set you back and if you fall too far behind, there's a danger of running out of time to catch up.
+
+```{note}
+Note: Homework assignments cannot be accepted beyond the last day of classes + 48 hours. This is non-negotiable!
+```
