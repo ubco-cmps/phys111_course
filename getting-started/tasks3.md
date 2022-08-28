@@ -20,3 +20,13 @@ This assignment will help you get familiar with answering questions on Gradescop
 This assignment will help you get familiar with answering questions on the PrairieLearn platform.
 We will be using this platform for our weekly homework assignments as well as the Tests.
 ```
+
+```{dropdown} 8. Get Familiar with the course pattern.
+    :class-container: sd-shadow-lg
+    :color: primary
+    :open:
+
+It is my intention to establish a "course pattern" where the only thing that changes from week-to-week is the specific content we're learning that week.
+Otherwise, the pattern of videos, homework, class activities, tests, etc. will remain the same.
+Go through the "Sample Week" on the course website to get familiar with the course pattern, and some motivation for why we are doing things this way.
+```

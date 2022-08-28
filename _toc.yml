@@ -2,6 +2,18 @@ format: jb-book
 root: getting-started/pre_term
 
 parts:
+
+# - caption: Getting Started
+  # chapters:
+  # - file: getting-started/pre_term
+    # title: Before the term starts
+  # - file: getting-started/tasks1
+    # title: Before the first class
+  # - file: getting-started/tasks2
+    # title: After the first class
+  # - file: getting-started/tasks3
+    # title: In the first week
+
 - caption: About this course
   chapters:
   - file: about/unsyllabus
@@ -10,9 +22,7 @@ parts:
 #   - file: about/course_schedule
 #   - file: about/accommodations
 #   - file: about/doing_well
-# 
 
-# parts:
 # - caption: Sample week
 #   chapters:
 #   - file: class/sample/week00_summary
@@ -26,14 +36,6 @@ parts:
 #     - file: class/sample/test
 #     - file: class/sample/learninglog
 
-# - caption: Getting Started
-  # chapters:
-  # - file: getting-started/tasks1
-    # title: Before the Term starts
-  # - file: getting-started/tasks2
-    # title: After the first class
-  # - file: getting-started/tasks3
-    # title: In the first week
   # - file: class/week01/week01_summary.md
     # title: Week 1 - Introductions!
     # sections:
