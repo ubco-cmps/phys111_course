@@ -95,6 +95,24 @@ Remember that your classmates will be able to see your comments too, so feel fre
 Don't be shy, but please also be respectful and courteous.
 ```
 
+<!--
+````{dropdown} 👋🏽 4. Submit the pre-course survey
+    :class-container: sd-shadow-lg
+    :color: success
+
+In a large class, it's often difficult for instructors to know exactly what students need to succeed.
+Of course, I have some sense of what is effective for student learning based on past classes and the education literature, but I still like to ask students to share things about their learning circumstances that they'd like me to know.
+Students often use this survey to give me a heads up that they've got a busy work schedule, adult or child care responsibilities, health concerns, housing issues, etc...
+I'm not likely to be able to solve things for you, but at the very least I can take into consideration your factors when designing the course.
+I run this survey **completely anonymously** at the start of every course so no one feels any pressure, or fears retribution or judgement.
+
+```{button-link} https://ubc.qualtrics.com
+:color: primary
+Click here to complete this survey, I suggest you complete this survey only once (per course).
+```
+````
+-->
+
 ## Say Hello!
 
 If you created a Hypothes.is account, **select this bolded text** and make a comment about your favourite activity.

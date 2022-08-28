@@ -17,19 +17,6 @@ This course is currently under construction. It will continue to be updated and 
 ```{include} unsyllabus_bits/main_nav.md
 ```
 
-```{dropdown} 👋🏽 Submit the pre-course survey
-    :class-container: sd-shadow-lg
-    :color: success
-
-In a large class, it's often difficult for instructors to know exactly what students need to succeed.
-Of course, I have some sense of what is effective for student learning based on past classes and the education literature, but I still like to ask students to share things about their learning circumstances that they'd like me to know.
-Students often use this survey to give me a heads up that they've got a busy work schedule, adult or child care responsibilities, health concerns, housing issues, etc...
-I'm not likely to be able to solve things for you, but at the very least I can take into consideration your factors when designing the course.
-I run this survey **completely anonymously** at the start of every course so no one feels any pressure, or fears retribution or judgement.
-
-[Click here to complete this survey, I suggest you complete this survey only once](https://ubc.qualtrics.com)
-```
-
 (important-details)=
 ## Important Details
 
@@ -38,11 +25,19 @@ I run this survey **completely anonymously** at the start of every course so no 
 
 <div class="page_break"> </div>
 
+
 (contact-us)=
 ## Contact Us
 
 ```{include} syllabus_bits/teaching_team.md
 ```
+
+(syllabus-vs-unsyllabus)=
+## Syllabus vs. Unsyllabus
+
+```{include} syllabus_bits/why_syllabus_unsyllabus.md
+```
+
 (evaluation)=
 ## Evaluation
 
@@ -74,12 +69,6 @@ I run this survey **completely anonymously** at the start of every course so no 
 ## Getting Help
 
 ```{include} unsyllabus_bits/getting_help.md
-```
-
-(syllabus-vs-unsyllabus)=
-## Syllabus vs. Unsyllabus
-
-```{include} syllabus_bits/why_syllabus_unsyllabus.md
 ```
 
 <div class="page_break"> </div>

@@ -10,7 +10,8 @@
 | Course Discussion | To ask any course-related questions, use private (personal, not useful for anyone else) or public (helpful for other) messages on {{ FORUM_LINK }} |
 
 ```{warning}
-If there is a lab and/or tutorial listed on the SSC for this course, You **must** register for all course elements without conflicts, otherwise the department will remove you from the course! There are usually lab or tutorial exemptions for some students (i.e. those repeating the course) and instructions for that will be in this syllabus.
+If there is a lab and/or tutorial listed on the SSC for this course, you **must** register for all course elements without conflicts, otherwise the department will remove you from the course!
+There are usually lab or tutorial exemptions for some students (i.e. those repeating the course, or have prior credit) and instructions for that are in the SSC.
 ```
 
 ### What do I need to purchase for this course?
