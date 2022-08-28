@@ -3,7 +3,7 @@
 ![](../images/UBCO_CMPS_header.jpg)
 
 (page_pre_term)=
-# Before term starts
+# Before the term starts
 
 Welcome to {{ COURSE_CODE }}, {{ TITLE }} !
 I am very excited that you've decided to enrol in my class.
@@ -55,8 +55,19 @@ Here are the steps to sign up for a Student Email Address:
         - Enter in your password at the prompt, and it should authenticate
     - [Windows](https://ubc.service-now.com/kb_view.do?sysparm_article=KB0016884)
 
+I strongly urge you to take this opportunity (before your life gets busier and crazier) to sign-up for an email through UBC and start using that for any professional or official communications.
+These services are very expensive if you were to pay for them yourself; you can get an @student.ubc.ca email at no cost to you.
+
+A professional email like this will be much better for you than a hotmail or even, a gmail account. 
+Trust me when I say this, I am speaking from experience! 
+I thought I was very clever when I created my first email address (`shaq_daddy00@hotmail.com`). For a long time, that was the email I used for everything. 
+It was only when I arrived at University that I realized how bad that email was.
+I will pass on this same advice to you: get a professional email address, use it, and check it frequently!
+
 You should get into the habit of using this email address as much as possible during your career at UBC.
 This account will also grant you access to a range of other UBC services including a free license to Microsoft Office and OneDrive.
+
+P.S. Your CWL is your campus wide login - this is something you would have created when you first applied to UBC and you will use this for the rest of your academic career (at UBC). 
 ```
 
 ```{dropdown} 🖨 2. Set yourself up to Print on Campus
