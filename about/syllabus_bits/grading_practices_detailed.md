@@ -16,7 +16,7 @@ Please note that the "Labs" in this course are run almost completely separately 
 ```
 
 ```{attention} 
-All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
+All deadlines for weekly submissions in this course (except Labs and Tests) have an automatic 48 hour grace period after the due dates listed above.
 Any submissions submitted past the grace period will not be graded (with some exceptions, see below).
 ```
 
