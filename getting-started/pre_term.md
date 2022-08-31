@@ -209,6 +209,17 @@ It would be helpful if you had access to a computing device as we'll be conducti
 {{ TEXTBOOK }}
 ```
 
+```{dropdown} Can I download the book to my computer in case I don't have internet?
+    :class-container: sd-shadow-lg
+    :color: primary
+    :name: textbook-download
+
+Yes! Our textbook is available as a PDF, an ePub file, an Apple Book, and an Amazon Kindle book.
+On the left sidebar of [this page](https://openstax.org/details/books/university-physics-volume-1), you can see all the options.
+
+<img src="../images/book_options.png" width='250px'>
+```
+
 ```{dropdown} Will lectures be recorded so I can re-watch them to study?
     :class-container: sd-shadow-lg
     :color: primary
