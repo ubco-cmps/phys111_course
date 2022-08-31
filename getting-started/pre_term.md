@@ -178,7 +178,7 @@ Even in those cases, unless they tell you otherwise and insist, it's usually wis
     :color: primary
     :name: missing-class-start
 
-I understand this is probably a really stressful experience, and there are all sorts of issues with travel delays and visa problems, not to mention the fact that the pandemic is still around. It's definitely not your fault.
+I understand this is probably a really stressful experience, and there are all sorts of issues with travel delays and visa problems, not to mention the fact that the pandemic is still around.
 
 I'll do my best to make sure the class is setup so that if some students aren't able to be in class within the first few days can still catch up and not be disadvantaged.
 ```
@@ -188,7 +188,7 @@ I'll do my best to make sure the class is setup so that if some students aren't 
     :color: primary
     :name: missing-term
 
-Unfortunately, we have been told that we cannot make accommodations for students that cannot be in Kelowna for the term because classes are being held in-person.
+You can find more advice about some next steps you can take [on this page that's managed by UBC](https://you.ubc.ca/applying-ubc/blog/after-youve-been-admitted/what-to-do-if-your-study-permit-hasnt-arrived-yet/).
 ```
 
 ```{dropdown} Do I need to buy anything for this course?
