@@ -1,27 +1,28 @@
 format: jb-book
-root: getting-started/pre_term
+root: about/unsyllabus
 
 parts:
 
-# - caption: Getting Started
-  # chapters:
-  # - file: getting-started/pre_term
-    # title: Before the term starts
-  # - file: getting-started/tasks1
-    # title: Before the first class
-  # - file: getting-started/tasks2
-    # title: After the first class
-  # - file: getting-started/tasks3
-    # title: In the first week
+- caption: Tools
+  chapters:
+  - file: tools/ed_discussion/ed_discussion
+
+- caption: Getting Started
+  chapters:
+  - file: getting-started/pre_term
+    title: Before the term starts
+  - file: getting-started/tasks1
+    title: Before the first class
+  - file: getting-started/tasks2
+    title: After the first class
+  - file: getting-started/tasks3
+    title: In the first week
 
 - caption: About this course
   chapters:
-  - file: about/unsyllabus
-
-#   - file: about/syllabus
-#   - file: about/course_schedule
-#   - file: about/accommodations
-#   - file: about/doing_well
+  - file: about/course_schedule
+  - file: about/accommodations
+  - file: about/doing_well
 
 # - caption: Sample week
 #   chapters:

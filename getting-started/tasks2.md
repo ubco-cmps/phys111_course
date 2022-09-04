@@ -4,18 +4,8 @@
 There are several things you'll need to do at the start of the course to get set up with all the technology, accounts, and services we'll be using.
 I've split these tasks up into several chunks so it's a bit more manageable. 
 
-```{dropdown} 4. On the left sidebar in Canvas, click on Gradescope
-    :class-container: sd-shadow-lg
-    :color: primary
 
-You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
-
-This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
-
-<img src="../images/GradescopeAccount.gif">
-```
-
-```{dropdown} 5. Read the Unsyllabus
+```{dropdown} 4. Read the Unsyllabus
     :class-container: sd-shadow-lg
     :color: primary
     :open:
@@ -30,3 +20,38 @@ I strongly believe that you are now in charge of your own education, and I am ju
 The Unsyllabus also has lots of details about how this class will be run, my teaching philosophy, dates, deadlines, and other course policies.
 I encourage you to read it - you'll also find out *why* I call it the **UN**syllabus!
 ```
+
+```{dropdown} 5. Read the Phys 111 Lab Syllabus
+    :class-container: sd-shadow-lg
+    :color: primary
+
+During the first class, the Lab Manager Hiroko Nakahara described how the labs will operate in this course.
+The lab portion has a separate outline, policies, and details since it is managed by the department and policies are shared between Physics 111 and 112.
+
+**Please ensure that you understand the policies for the lab, and how to contact the lab instructors.**
+```
+
+```{dropdown} 6. Figure out where your Lab and Tutorials will be held
+    :class-container: sd-shadow-lg
+    :color: primary
+
+On the [Student Service Center](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=111), you can find the time, building, and room number of your lab and/or tutorial (if you're registered in a tutorial other than XM2).
+
+<img src="../images/tutorial.png">
+
+Once you know the building and room number, you can use the [UBCO online interactive maps](https://maps.ok.ubc.ca) to find the building.
+It'll be worth it for you to spend some time figuring out where you need to be so you're not stressed out the first week!
+```
+
+<!-- 
+```{dropdown} 4. On the left sidebar in Canvas, click on Gradescope
+    :class-container: sd-shadow-lg
+    :color: primary
+
+You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
+
+This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
+
+<img src="../images/GradescopeAccount.gif">
+```
+ -->

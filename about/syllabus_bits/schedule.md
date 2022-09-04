@@ -30,3 +30,18 @@ Tests (T) and Bonus Tests (BT) will be held in-person during class on Fridays. T
 ```{note}
 Labs (L) and Tutorials (Tu) will start in Week 2 of the course.
 ```
+
+## Test Dates and times
+
+| Test/Bonus Test | Date                 | Time          | Duration   |
+|-----------------|----------------------|---------------|------------|
+| Test 1          | Friday Sept 16, 2022 | 16:00 - 16:45 | 45 minutes |
+| Bonus Test 1    | Friday Sept 23, 2022 | 16:00 - 16:45 | 45 minutes |
+| Test 2          | Friday Oct 7, 2022   | 16:00 - 16:45 | 45 minutes |
+| Bonus Test 2    | Friday Oct 21, 2022  | 16:00 - 16:45 | 45 minutes |
+| Test 3          | Friday Oct 28, 2022  | 16:00 - 16:45 | 45 minutes |
+| Bonus Test 3    | Friday Nov 4, 2022   | 16:00 - 16:45 | 45 minutes |
+| Test 4          | Friday Nov 18, 2022  | 16:00 - 16:45 | 45 minutes |
+| Bonus Test 4    | Friday Nov 25, 2022  | 16:00 - 16:45 | 45 minutes |
+| Test 5          | Friday Dec 2, 2022   | 16:00 - 16:45 | 45 minutes |
+| Bonus Test 5    | TBD                  | TBD           | 45 minutes |

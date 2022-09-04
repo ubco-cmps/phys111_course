@@ -1,10 +1,11 @@
 # Homework
 
-````{card}
-This week the homework assignment is about Chapters 1 and 2. You can find a link to the assessment below
+<head><base target="_blank"></head>
 
-```{button-link} https://ca.prairielearn.com/pl/course_instance/2344/
-:color: warning
-PrairieLearn HW3
+```{button-link} https://ca.prairielearn.com/pl/course_instance/2439/assessment/18410
+:color: success
+
+Open your homework in a new window on PrairieLearn
 ```
-````
+
+<iframe class="prairielearn-iframe" src="https://ca.prairielearn.com/pl/course_instance/2439/assessment/18410" frameborder="0"></iframe>
