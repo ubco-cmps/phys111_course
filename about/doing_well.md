@@ -35,7 +35,7 @@ And some time after you studied it? This is the acid test for learning and it is
 ### We’ll do lots of tests.
 
 Why? Because research shows testing improves learning.  
-It might seem counterintuitive, but by taking a test, what we recall becomes more recallable in the future.  
+It might seem counter intuitive, but by taking a test, what we recall becomes more recallable in the future.  
 In a sense, you are practicing what you are going to need to do for the final, and more importantly for longer term retention of the skills you will learn in this class.
 
 ## Ingredients for your success 
@@ -54,7 +54,7 @@ If you have never taken a course like this, you might consider thinking a bit mo
 ### Prepare
 
 Read the material for this weeks pre-reading carefully ahead of the classes that follow.  
-Don’t skim it, don’t hunt for answers to the quiz; make notes and engage in discussions with your classmates on Piazza (or Discord) for things you don’t understand.  
+Don’t skim it, don’t hunt for answers to the quiz; make notes and engage in discussions with your classmates on {{ FORUM_LINK }} for things you don’t understand.  
 You need some basic familiarity or fluency with the content before we can make the most of the precious class time we have together.  
 
 ### Engage
