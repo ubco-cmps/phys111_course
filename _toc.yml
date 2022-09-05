@@ -2,11 +2,6 @@ format: jb-book
 root: about/unsyllabus
 
 parts:
-
-- caption: Tools
-  chapters:
-  - file: tools/ed_discussion/ed_discussion
-
 - caption: Getting Started
   chapters:
   - file: getting-started/pre_term
@@ -23,6 +18,10 @@ parts:
   - file: about/course_schedule
   - file: about/accommodations
   - file: about/doing_well
+
+- caption: Tools
+  chapters:
+  - file: tools/ed_discussion/ed_discussion
 
 # - caption: Sample week
 #   chapters:
