@@ -109,7 +109,6 @@ name: hypothesis
 ---
 Gif showing you how to annotate using hypothesis.
 ```
-<br/>
 
 This is an experiment, and I encourage you to make comments and highlights on our unsyllabus.
 Let's see how it goes!
