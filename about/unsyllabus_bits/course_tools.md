@@ -78,7 +78,14 @@ This interface for Sli.do is very intuitive and it does not require creation of 
 You can use Slido on any browser including a laptop, tablet, or mobile device.
 Below is a demo of what you can expect the Slido experience to be like (video credit to [Sli.do](https://www.slido.com/_next/static/media/aedeb61313e69817.mp4)):
 
-<img src="../images/slido.gif" width="100%">
+
+```{figure} ../images/slido.gif
+---
+height: 450px
+name: slido
+---
+Gif showing you how we will use Slido.
+```
 
 ```{tip}
 It is your choice how you want to interact with the tool, but you can [download the iOS](https://apps.apple.com/ca/app/slido-q-a-and-polling/id954596240) or [download the Android app](https://play.google.com/store/apps/details?id=com.slido.app).
@@ -95,7 +102,13 @@ I strongly believe that you are now in charge of your own education, and I am ju
 
 Here's an animated gif of how to annotate (you'll need to sign up for a free account):
 
-<img src="../images/hypothesis_annotation.gif" width="100%">
+```{figure} ../images/hypothesis.gif
+---
+height: 450px
+name: hypothesis
+---
+Gif showing you how to annotate using hypothesis.
+```
 <br/>
 
 This is an experiment, and I encourage you to make comments and highlights on our unsyllabus.

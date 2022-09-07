@@ -18,7 +18,6 @@ parts:
 - caption: About this course
   chapters:
   - file: about/course_schedule
-  - file: about/accommodations
   - file: about/doing_well
 
 - caption: Tools
