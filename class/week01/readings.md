@@ -4,13 +4,8 @@ There is no assigned reading for this week, but you should make sure you click o
 
 <label><input type="checkbox" id="week01_reading1" class="box"> **Look at the Textbook to make sure you can access it.** </input></label> 
 
-````{card}
+```{card} OpenStax University Physics Volume 1
+:link: https://openstax.org/books/university-physics-volume-1/pages/1-introduction
 
 Click below to access the Course Textbook, OpenStax University Physics Volume 1.
-
-```{button-link} https://openstax.org/books/university-physics-volume-1/pages/1-introduction
-OpenStax University Physics Volume 1
-
-:classes: btn-outline-warning btn-block stretched-link text-dark
 ```
-````

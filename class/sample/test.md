@@ -1,13 +1,7 @@
 # Test X
 
+```{card} Test X
+:link: https://ca.prairielearn.com/pl/course_instance/2439/assessments
 
-<!-- 
-````{card}
-
-This week we will do Test X, which covers Chapters Y. 
-
-```{button-link}
-Test 2
+Click here to access the Test X for this week.
 ```
-```` -->
-

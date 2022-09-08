@@ -1,10 +1,7 @@
 # Lab
 
-````{card}
+```{card} Lab
+:link: https://canvas.ubc.ca/courses/114568
 
-The lab information for this week is in the Physics 111 Lab canvas course...
-
-```{button-link} https://canvas.ubc.ca/courses/75016
-Physics 111 Lab Canvas
+Click here to access the Physics 111 Lab Canvas.
 ```
-````

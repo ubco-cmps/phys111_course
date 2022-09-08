@@ -1,10 +1,5 @@
 # Test
 
-````{card}
-
-This week is a Test, and it will mostly be on the contents of Chapter 7 and 8.
-
-```{button-link} https://canvas.ubc.ca/courses/81870/assignments
-Canvas Assignments
-```
-````
+There is no test this week! You get a break from everything (in this course anyway). 
+PLEASE take this time to catch up on anything that you missed, or don't fully understand.
+You can also take this time to work ahead for next week.

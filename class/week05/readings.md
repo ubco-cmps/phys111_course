@@ -16,18 +16,11 @@ This week the readings assignments are listed below:
 
 <label><input type="checkbox" id="week05_reading7" class="box"> **Readings 5.7: Drawing Free-Body Diagrams** </input></label> 
 
+```{card} OpenStax University Physics Volume 1
+:link: https://openstax.org/books/university-physics-volume-1/pages/5-introduction
 
-
-````{card}
-
-Click below to access the Course Textbook, OpenStax University Physics Volume 1.
-
-```{button-link} https://openstax.org/books/university-physics-volume-1/pages/3-introduction
-OpenStax University Physics Volume 1
-
-:classes: btn-outline-warning btn-block stretched-link text-dark
+Click here to access the Course Textbook, OpenStax University Physics Volume 1.
 ```
-````
 
 ## Practice Problems
 

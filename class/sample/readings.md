@@ -17,4 +17,8 @@ This week the readings assignments are listed below:
 
 <label><input type="checkbox" id="week00_reading5" class="box"> **Readings 4.6: Subtopic 6** </input></label> 
 
-You can access the [online Textbook for free here](https://openstax.org/books/university-physics-volume-1/pages/4-introduction).
+```{card} OpenStax University Physics Volume 1
+:link: https://openstax.org/books/university-physics-volume-1/pages/1-introduction
+
+Click here to access the Course Textbook, OpenStax University Physics Volume 1.
+```

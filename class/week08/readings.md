@@ -10,16 +10,11 @@ This week the readings assignments are listed below:
 
 <label><input type="checkbox" id="week08_reading4" class="box"> **Readings 7.4: Power** </input></label> 
 
-````{card}
+```{card} OpenStax University Physics Volume 1
+:link: https://openstax.org/books/university-physics-volume-1/pages/7-introduction
 
-Click below to access the Course Textbook, OpenStax University Physics Volume 1.
-
-```{button-link} https://openstax.org/books/university-physics-volume-1/pages/3-introduction
-OpenStax University Physics Volume 1
-
-:classes: btn-outline-warning btn-block stretched-link text-dark
+Click here to access the Course Textbook, OpenStax University Physics Volume 1.
 ```
-````
 
 ## Practice Problems
 

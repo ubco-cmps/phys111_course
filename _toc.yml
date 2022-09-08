@@ -20,33 +20,30 @@ parts:
   - file: about/course_schedule
   - file: about/doing_well
 
-- caption: Tools
+- caption: Sample week
   chapters:
-  - file: tools/ed_discussion/ed_discussion
+  - file: class/sample/week00_summary
+    title: Week 0 Summary
+    sections:
+    - file: class/sample/videos
+    - file: class/sample/readings
+    - file: class/sample/class
+    - file: class/sample/homework
+    - file: class/sample/lab
+    - file: class/sample/test
+    - file: class/sample/learninglog
 
-# - caption: Sample week
-#   chapters:
-#   - file: class/sample/week00_summary
-#     title: Week 0 Summary
-#     sections:
-#     - file: class/sample/videos
-#     - file: class/sample/readings
-#     - file: class/sample/class
-#     - file: class/sample/homework
-#     - file: class/sample/lab
-#     - file: class/sample/test
-#     - file: class/sample/learninglog
+  - file: class/week01/week01_summary.md
+    title: Week 1 - Introductions!
+    sections:
+      - file: class/week01/readings
+      - file: class/week01/videos
+      - file: class/week01/classes
+      - file: class/week01/homework
+      - file: class/week01/test
+      - file: class/week01/lab
+      - file: class/week01/learninglog
 
-  # - file: class/week01/week01_summary.md
-    # title: Week 1 - Introductions!
-    # sections:
-      # - file: class/week01/readings
-      # - file: class/week01/videos
-      # - file: class/week01/classes
-      # - file: class/week01/homework
-      # - file: class/week01/test
-      # - file: class/week01/lab
-      # - file: class/week01/learninglog
 # - caption: Part 1 - Kinematics
 #   chapters:
 #     - file: class/week02/week02_summary
@@ -175,8 +172,12 @@ parts:
       # - file: class/week13/test
       # - file: class/week13/lab
       # - file: class/week13/learninglog
-# 
-# - caption: Course Feedback
-  # chapters:
-  # - file: about/feedback
-    # title: Anonymous Feedback Form
+
+- caption: Tools
+  chapters:
+  - file: tools/ed_discussion/ed_discussion
+
+- caption: Course Feedback
+  chapters:
+  - file: about/feedback
+    title: Anonymous Feedback Form

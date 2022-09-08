@@ -1,13 +1,13 @@
 # Learning Logs
 
-This week's learning log assignment will be open for you on Gradescope by Thursday.
+This week's learning log assignment will be open for you on PrairieLearn by Friday.
 Please remember to complete the Learning Log **after** you have done all the work for this week.
 
 Here are the questions you will be asked to answer in the learning logs.
 
-## Task 1: Conceptual Question
+## Task 1: Conceptual Question/Task
 
-In this task I will usually ask you a conceptual question related to the content of the course in that week.
+In this task I will usually ask you a conceptual question related to the content of the course in that week, or something about learning.
 Your answer will be graded as:
 
 - Exceeds expectations (100%)
@@ -15,11 +15,7 @@ Your answer will be graded as:
 - Nearing expectations (~60%)
 - Missing, incomplete, or low-effort work (0%)
 
-## Task 2: Earned Grade
-
-In this task, I will usually ask you to reflect on the quality of your learning in the last week, and estimate a score for yourself that represents your "Earned Grade".
-
-## Task 3: Well-being check
+## Task 2: Well-being check
 
 One of my goals this year is to help you (as best I can) manage your stress and anxieties by "measuring it" on a weekly basis and intervening or making suggestions during our weekly class meeting.
 This is an exciting time for all of you as many of you are starting your undergraduate studies.

@@ -16,13 +16,8 @@ Pay particular attention to:
 
 <label><input type="checkbox" id="week03_reading6" class="box"> **Section 3.6: Finding Velocity and Displacement from Acceleration**  </input></label> 
 
-````{card}
+```{card} OpenStax University Physics Volume 1
+:link: https://openstax.org/books/university-physics-volume-1/pages/3-introduction
 
-Click below to access the Course Textbook, OpenStax University Physics Volume 1.
-
-```{button-link} https://openstax.org/books/university-physics-volume-1/pages/3-introduction
-OpenStax University Physics Volume 1
-
-:classes: btn-outline-warning btn-block stretched-link text-dark
+Click here to access the Course Textbook, OpenStax University Physics Volume 1.
 ```
-````

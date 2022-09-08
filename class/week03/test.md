@@ -1,12 +1,11 @@
-# Test 1
+# Bonus Test 1
 
-````{card}
+```{card} Bonus Test 1
+:link: https://ca.prairielearn.com/pl/course_instance/2439/assessments
 
 This week you will have your first Test, and it will mostly be on the contents of Chapters 1 and 2.
-Remember that Test 1 will be available starting at Friday at 6:00 PM PDT and will remain available until Sunday at 6:00 PM.
-You will have 60 minutes to complete the test.
+Remember that the Test will be available starting at Friday during class, and you need to be present in class to take the test, unless prior arrangements have been made with me.
+You will have 45 minutes to complete the test.
 
-```{button-link} https://canvas.ubc.ca/courses/81870/assignments/assignments
-Test 1 on PrairieLearn
+Click here to access the Test
 ```
-````
