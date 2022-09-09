@@ -19,6 +19,7 @@ parts:
   chapters:
   - file: about/course_schedule
   - file: about/doing_well
+  - file: about/syllabus
 
 - caption: Sample week
   chapters:
