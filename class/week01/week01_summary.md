@@ -18,64 +18,8 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 
 <label><input type="checkbox" id="week01_task3" class="box"> [**Watch the videos (None this week)**](./videos.md) </input></label>
 
-
 <label><input type="checkbox" id="week01_task4" class="box"> [**Complete the HW01 (Homework 01) on PrairieLearn**](./homework.md) </input></label>
 
-<label><input type="checkbox" id="week01_task5" class="box"> [**Complete the in-class Physics Diagnostic (0.5% bonus!) (45 mins)**](https://ubc.ca1.qualtrics.com/jfe/form/SV_2uEYuAVjDS2UUhE) </input></label>
+<label><input type="checkbox" id="week01_task5" class="box"> **Complete the in-class Physics Diagnostic (0.5% bonus! - See Class 1C on Friday - 45 mins**) </input></label>
 
-<label><input type="checkbox" id="week01_task6" class="box"> [**Write Test 0 - Math Diagnostic**](./test.md) </input></label>
-
-<label><input type="checkbox" id="week01_task7" class="box"> [**Complete LL01 (Learning Log 1)**](./learninglogs.md) </input></label>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Course Introductions!
-
-Hello, my name is Firas Moosvi and I am your instructor for Physics 111! 
-
-## Navigating the course website
-
-Live demo...
-
-## Navigating Mastering Physics
-
-```{tip}
-I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
-```
-
-## Online polls using Sli.do
-
-Event Code: Physics111
-
-<iframe src="https://app.sli.do/event/lk89xpvr" width="500px" height="700px"></iframe>
-
-## Math Diagnostic
-
-```{tip}
-I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
-```
-
-## Example videos you should expect to see starting next week
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/yBMeYW8Nm_s" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<label><input type="checkbox" id="week01_task7" class="box"> [**Complete LL01 (Learning Log 1)**](./learninglog.md) </input></label>

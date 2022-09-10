@@ -22,4 +22,4 @@ I have put the labs at the end, but if your lab section is earlier in the week, 
 
 <label><input type="checkbox" id="week04_task6" class="box"> [**Complete the lab**](./lab.md) </input></label>
 
-<label><input type="checkbox" id="week04_task7" class="box"> [**Complete your Learning Log assignment**](./learninglogs.md) </input></label>
+<label><input type="checkbox" id="week04_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog.md) </input></label>

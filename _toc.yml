@@ -31,7 +31,7 @@ parts:
     - file: class/sample/class
     - file: class/sample/homework
     - file: class/sample/lab
-    - file: class/sample/test
+    # - file: class/sample/test
     - file: class/sample/learninglog
 
   - file: class/week01/week01_summary.md
