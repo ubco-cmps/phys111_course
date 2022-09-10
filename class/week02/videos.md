@@ -36,20 +36,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/significant-figures.html)
 ```
 
-```{dropdown} 2. Working with Significant Figures
-    :class-container: sd-shadow-lg
-    :color: primary
-    :open:
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/mxbsgqFnNVY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0001_lecture_notes_-_introduction_to_significant_figures_with_examples.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/significant-figures.html)
-```
-
-```{dropdown} 3. Introduction to Tip-to-Tail Vector Addition
+```{dropdown} 2. Introduction to Tip-to-Tail Vector Addition
     :class-container: sd-shadow-lg
     :color: primary
     :open:
@@ -62,7 +49,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/vectors-and-scalars.html)
 ```
 
-```{dropdown} 4. Introductory Tip-to-Tail Vector Addition Problem
+```{dropdown} 3. Introductory Tip-to-Tail Vector Addition Problem
     :class-container: sd-shadow-lg
     :color: primary
     :open:
@@ -75,7 +62,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/tip-to-tail-vector-addition.html)
 ```
 
-```{dropdown} 5. Introduction to Vector Components
+```{dropdown} 4. Introduction to Vector Components
     :class-container: sd-shadow-lg
     :color: primary
     :open:
@@ -88,9 +75,10 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/vector-components.html)
 ```
 
-```{dropdown} 6. How to use Cardinal Directions with Vectors
+```{dropdown} 5. How to use Cardinal Directions with Vectors
     :class-container: sd-shadow-lg
     :color: primary
+    :open:
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/UWn3u6kv1Wk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

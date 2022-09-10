@@ -24,9 +24,9 @@ Below is a list of things you need to do this week, links to where you can do th
 Note that these are just SUGGESTIONS and you are by no means required to them this way. 
 I have put the labs at the end, but if your lab section is earlier in the week, you may want to shift things around.
 
-<label><input type="checkbox" id="week02_task1" class="box"> [**Read/skim the assigned textbook chapter**](./readings.md)</label>
+<label><input type="checkbox" id="week02_task1" class="box"> [**Watch the videos**](./videos.md) </label>
 
-<label><input type="checkbox" id="week02_task2" class="box"> [**Watch the videos**](./videos.md) </label>
+<label><input type="checkbox" id="week02_task2" class="box"> [**Optionally Read/skim the assigned textbook chapter**](./readings.md)</label>
 
 <label><input type="checkbox" id="week02_task3" class="box"> [**Attend Classes for practice**](./classes.md) </label>
 

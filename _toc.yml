@@ -2,29 +2,13 @@ format: jb-book
 root: about/unsyllabus
 
 parts:
-- caption: Getting Started
-  chapters:
-  - file: getting-started/pre_term
-    title: Before the term starts
-  - file: getting-started/tasks1
-    title: Before the first class
-  - file: getting-started/tasks2
-    title: After the first class
-  - file: getting-started/tasks3
-    title: In the first week
-  - file: getting-started/faq
-    title: Frequently Asked Questions
-
 - caption: About this course
   chapters:
   - file: about/course_schedule
   - file: about/doing_well
   - file: about/syllabus
-
-- caption: Sample week
-  chapters:
   - file: class/sample/week00_summary
-    title: Week 0 Summary
+    title: Sample Week
     sections:
     - file: class/sample/videos
     - file: class/sample/readings
@@ -34,6 +18,19 @@ parts:
     # - file: class/sample/test
     - file: class/sample/learninglog
 
+- caption: Getting Started
+  chapters:
+  - file: getting-started/faq
+    title: Frequently Asked Questions
+    sections:
+    - file: getting-started/pre_term
+      title: Before the term starts
+    - file: getting-started/tasks1
+      title: Before the first class
+    - file: getting-started/tasks2
+      title: After the first class
+    - file: getting-started/tasks3
+      title: In the first week
   - file: class/week01/week01_summary.md
     title: Week 1 - Introductions!
     sections:
@@ -45,18 +42,19 @@ parts:
       - file: class/week01/lab
       - file: class/week01/learninglog
 
-# - caption: Part 1 - Kinematics
-#   chapters:
-#     - file: class/week02/week02_summary
-#       title: Week 2 - Chapter 2
-#       sections:
-#         - file: class/week02/readings
-#         - file: class/week02/videos
-#         - file: class/week02/homework
-#         - file: class/week02/classes
-#         - file: class/week02/test
-#         - file: class/week02/lab
-#         - file: class/week02/learninglog
+- caption: Part 1 - Kinematics
+  chapters:
+    - file: class/week02/week02_summary
+      title: Week 2 - Chapter 2
+      sections:
+        - file: class/week02/videos
+        - file: class/week02/readings
+        - file: class/week02/homework
+        - file: class/week03/tutorials
+        - file: class/week02/classes
+        - file: class/week02/test
+        - file: class/week02/lab
+        - file: class/week02/learninglog
 #     - file: class/week03/week03_summary
 #       title: Week 3 - Chapter 3
 #       sections:
