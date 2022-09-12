@@ -1,13 +1,17 @@
 # Week 4 Classes
 
-## Monday
+## [Monday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A.pdf)
 
-<iframe src="../../Class04A_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-## Wednesday
+Post-class slides (with solutions) will be available for download here after class.[](ttps://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A_post.pdf)
 
-<iframe src="../../Class04B_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+## [Wednesday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B.pdf)
+
+<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+
+Post-class slides (with solutions) will be available for download here after class.[](ttps://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B_post.pdf)
 
 ## Friday
 
-<iframe src="../../Class04C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+Friday's class will be a Test 

@@ -1,15 +1,21 @@
 # Week 5 Classes
 
-## Monday
+## [Monday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A.pdf)
 
-<iframe src="../../Class05A_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-## Wednesday
+Post-class slides (with solutions) will be available for download here after class.[](ttps://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A_post.pdf)
 
-<iframe src="../../Class05B_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+## [Wednesday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B.pdf)
 
-Link to Desmos Simulation: https://www.desmos.com/calculator/l1bebrtvgo
+<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+
+Post-class slides (with solutions) will be available for download here after class.[](ttps://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B_post.pdf)
 
 ## Friday
 
-<iframe src="../../Class05C_post.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+Friday's class will be a Test 
+
+## Resources
+
+Link to Desmos Simulation: https://www.desmos.com/calculator/l1bebrtvgo
