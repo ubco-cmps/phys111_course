@@ -7,16 +7,6 @@ parts:
   - file: about/course_schedule
   - file: about/doing_well
   - file: about/syllabus
-  - file: class/sample/week00_summary
-    title: Sample Week
-    sections:
-    - file: class/sample/videos
-    - file: class/sample/readings
-    - file: class/sample/class
-    - file: class/sample/homework
-    - file: class/sample/lab
-    # - file: class/sample/test
-    - file: class/sample/learninglog
 
 - caption: Getting Started
   chapters:
@@ -31,6 +21,16 @@ parts:
       title: After the first class
     - file: getting-started/tasks3
       title: In the first week
+  - file: class/sample/week00_summary
+    title: Sample Week
+    sections:
+    - file: class/sample/videos
+    - file: class/sample/readings
+    - file: class/sample/class
+    - file: class/sample/homework
+    - file: class/sample/lab
+    # - file: class/sample/test
+    - file: class/sample/learninglog
   - file: class/week01/week01_summary.md
     title: Week 1 - Introductions!
     sections:

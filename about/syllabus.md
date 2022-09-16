@@ -2,6 +2,8 @@
 
 ![](../images/UBCO_CMPS_header.jpg)
 
+# Course Syllabus (Official)
+
 You can [download the official Course Syllabus here](https://github.com/ubco-cmps/phys111_course/raw/main/files/phys111_2022WT1.pdf).
 For more details about the reason we have a Syllabus and an [Unsyllabus](unsyllabus), you can [read the explanation here](syllabus-vs-unsyllabus).
 
