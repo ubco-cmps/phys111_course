@@ -120,10 +120,6 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/apc-integrals-kinematics-review.html)
 ```
 
-
-
-https://youtu.be/B6bi5H1pwmE
-
 ## Optional Videos
 
 The videos below are relevant to the subject material, but are only provided for your interest.
