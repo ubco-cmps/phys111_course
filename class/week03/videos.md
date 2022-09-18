@@ -21,6 +21,9 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 <input type="checkbox" id="week03_video6" class="box"><label>Introduction to Acceleration with Prius Brake Slamming Example Problem</input></label>
 
 <input type="checkbox" id="week03_video7" class="box"><label>Introduction to Free-Fall and the Acceleration due to Gravity</input></label>
+
+<input type="checkbox" id="week03_video8" class="box"><label>AP Physics C: Integrals in Kinematics Review (Mechanics)</input></label>
+
 ```
 ````
 
@@ -104,6 +107,22 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0024_lecture_notes_-_introduction_to_free-fall_and_the_acceleration_due_to_gravity.pdf)
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-free-fall.html)
 ```
+
+```{dropdown} AP Physics C: Integrals in Kinematics Review (Mechanics)
+    :class-container: sd-shadow-lg
+    :color: primary
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/B6bi5H1pwmE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0197_lecture_notes_-_ap_physics_c-_integrals_in_kinematics_review__mechanics_.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/apc-integrals-kinematics-review.html)
+```
+
+
+
+https://youtu.be/B6bi5H1pwmE
 
 ## Optional Videos
 
