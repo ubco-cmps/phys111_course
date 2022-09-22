@@ -1,3 +1,3 @@
-# No Tests week
+# Test
 
-There is no Test or Bonus Test this week.
+**There is no test this week because Friday is a holiday - class is cancelled**
