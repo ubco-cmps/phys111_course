@@ -1,6 +1,5 @@
 # Homework
 
-<head><base target="_blank"></head>
 
 ```{button-link} https://ca.prairielearn.com/pl/course_instance/2439/assessment/18414
 :color: success
