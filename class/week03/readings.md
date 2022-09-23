@@ -21,3 +21,18 @@ Pay particular attention to:
 
 Click here to access the Course Textbook, OpenStax University Physics Volume 1.
 ```
+
+## Additional Practice Problems
+
+- Problem 31 (Helpful for "Position From Graph")
+- Problem 39 (Helpful for "Position From Graph")
+- Problem 101 (Helpful for "Throwing Stones")
+- Problem 89 (Helpful for "Electrons Accelerating")
+- Problem 19 (conceptual - Helpful for Eruption of Mount Etna)
+- Problem 71 (Helpful for Eruption of Mount Etna)
+- Problem 15 (conceptual - Helpful for Vehicle Speed)
+- Problem 31 (graph - Helpful for "Label The Graph") 
+- Problem 95 (Helpful for "Label The Graph")
+- Problem 113 (Challenge problem) (Helpful for "Velocity and Acceleration of an Object")
+- Problem 81 (Helpful for "Rocket")
+- Problem 95 (Helpful for "A Coyote and a Rat")
