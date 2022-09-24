@@ -78,19 +78,19 @@ parts:
         - file: class/week04/lab
         - file: class/week04/learninglog
 
-# - caption: Part 2 - Dynamics
-  # chapters:
-  # - file: class/week05/week05_summary
-    # title: Week 5 - Chapter 5
-    # sections:
-      # - file: class/week05/readings
-      # - file: class/week05/videos
-      # - file: class/week05/homework
-      # - file: class/week05/tutorials
-      # - file: class/week05/classes
-      # - file: class/week05/test
-      # - file: class/week05/lab
-      # - file: class/week05/learninglog
+- caption: Part 2 - Dynamics
+  chapters:
+  - file: class/week05/week05_summary
+    title: Week 5 - Chapter 5
+    sections:
+      - file: class/week05/readings
+      - file: class/week05/videos
+      - file: class/week05/homework
+      - file: class/week05/tutorials
+      - file: class/week05/classes
+      - file: class/week05/test
+      - file: class/week05/lab
+      - file: class/week05/learninglog
       # - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_6JsfW1cJEXzscaa
         # title: Mid-course Feedback (Anonymous)
   # - file: class/week06/week06_summary
