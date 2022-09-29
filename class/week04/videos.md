@@ -110,7 +110,7 @@ The video on uniform circular motion mentions forces - this we will cover in Cha
 
 ```
 
-```{dropdown} *NEW* An Introductory Relative Motion Problem with Vector Components
+```{dropdown} *NEW* 18. An Introductory Relative Motion Problem with Vector Components
     :class-container: sd-shadow-lg
     :color: primary
 
@@ -123,7 +123,7 @@ The video on uniform circular motion mentions forces - this we will cover in Cha
 
 ```
 
-```{dropdown} *NEW* Relative Motion Problem: Solving for the angle of the moving object
+```{dropdown} *NEW* 19. Relative Motion Problem: Solving for the angle of the moving object
     :class-container: sd-shadow-lg
     :color: primary
 
@@ -349,31 +349,7 @@ I have maintained the numbering scheme from above so you can see how they fit in
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/relative-motion-problem.html)
 
 ```
-```{dropdown} 18. An Introductory Relative Motion Problem with Vector Components
-    :class-container: sd-shadow-lg
-    :color: primary
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/T8iiMPZAaRM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0080_lecture_notes_-_an_introductory_relative_motion_problem_with_vector_components.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/relative-motion-components.html)
-
-```
-
-```{dropdown} 19. Relative Motion Problem: Solving for the angle of the moving object
-    :class-container: sd-shadow-lg
-    :color: primary
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/1Tv6BnXzzg4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0081_lecture_notes_-_relative_motion_problem-_solving_for_the_angle_of_the_moving_object.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/relative-motion-angle.html)
-
-```
 ```{dropdown} 20. Introduction to Circular Motion and Arc Length
     :class-container: sd-shadow-lg
     :color: primary
