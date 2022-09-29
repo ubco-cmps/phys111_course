@@ -93,19 +93,19 @@ parts:
       - file: class/week05/learninglog
       # - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_6JsfW1cJEXzscaa
         # title: Mid-course Feedback (Anonymous)
-  # - file: class/week06/week06_summary
-    # title: Week 6 - Week Off !!
-  # - file: class/week07/week07_summary
-    # title: Week 7 - Chapter 6
-    # sections:
-      # - file: class/week07/readings
-      # - file: class/week07/videos
-      # - file: class/week07/homework
-      # - file: class/week07/tutorials
-      # - file: class/week07/classes
-      # - file: class/week07/test
-      # - file: class/week07/lab
-      # - file: class/week07/learninglog
+  - file: class/week06/week06_summary
+    title: Week 6 - Week Off !!
+  - file: class/week07/week07_summary
+    title: Week 7 - Chapter 6
+    sections:
+      - file: class/week07/readings
+      - file: class/week07/videos
+      - file: class/week07/homework
+      - file: class/week07/tutorials
+      - file: class/week07/classes
+      - file: class/week07/test
+      - file: class/week07/lab
+      - file: class/week07/learninglog
 # 
 # - caption: Part 3 - Energy & Momentum
   # chapters:
