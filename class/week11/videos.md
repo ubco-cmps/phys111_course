@@ -98,11 +98,11 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
     :color: primary
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/X97-azGdDl8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/wP9bDRiHepc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0248_lecture_notes_-_hookes_law_introduction_-_force_of_a_spring.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/hookes-law.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0181_lecture_notes_-_introductory_conservation_of_momentum_explosion_problem_demonstration.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/explosion-demonstration.html)
 ```
 
 ```{dropdown} 6. Introduction to Elastic and Inelastic Collisions
