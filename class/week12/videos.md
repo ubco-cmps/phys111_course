@@ -129,11 +129,20 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ## Optional Videos
 
-```{dropdown} 6. Introductory Angular Velocity Problem - A Turning Bike Tire Energy Problem
+```{dropdown} 7. Introductory Angular Velocity Problem - A Turning Bike Tire Energy Problem
     :class-container: sd-shadow-lg
     :color: primary
     
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/D6mLuwjiAcc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} (NEW!) 8. Moment of Inertia Introduction and Rotational Kinetic Energy Derivation
+    :class-container: sd-shadow-lg
+    :color: primary
+    
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/C2qGOfCOUko" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
