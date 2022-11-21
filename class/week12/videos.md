@@ -120,7 +120,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
     :color: primary
     
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/W-BCPUQXAJU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/4ctTmivDjQc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0274_lecture_notes_-_introductory_moment_of_inertia_example_problem.pdf)
