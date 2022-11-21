@@ -10,7 +10,7 @@ Post-class slides (with solutions) will be available for download here after cla
 
 <iframe src="../../Class11B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-Post-class slides (with solutions) will be available for download here after class.[](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class11B_post.pdf)
+[Post-class slides (with solutions) will be available for download here after class.](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class11B_post.pdf)
 
 ## Friday
 
