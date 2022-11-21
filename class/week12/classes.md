@@ -14,4 +14,4 @@ Post-class slides (with solutions) will be available for download here after cla
 
 ## Friday
 
-Friday's class will be a Test 
+Friday's class will be a Test, in class.
