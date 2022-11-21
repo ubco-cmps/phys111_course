@@ -1,16 +1,16 @@
 # Week 12 Classes
 
-## [Monday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A.pdf)
+## [Monday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class12A.pdf)
 
-<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class12A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-Post-class slides (with solutions) will be available for download here after class.[](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A_post.pdf)
+Post-class slides (with solutions) will be available for download here after class.[](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class12A_post.pdf)
 
-## [Wednesday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B.pdf)
+## [Wednesday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class12B.pdf)
 
-<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../Class12B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-Post-class slides (with solutions) will be available for download here after class.[](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B_post.pdf)
+Post-class slides (with solutions) will be available for download here after class.[](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class12B_post.pdf)
 
 ## Friday
 
