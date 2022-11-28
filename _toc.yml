@@ -169,7 +169,7 @@ parts:
       - file: class/week13/test
       - file: class/week13/lab
       - file: class/week13/learninglog
-  - file: class/week13/week13_summary
+  - file: class/week14/week14_summary
     title: Week 14 - Review + Diagnostic
     sections:
       - file: class/week14/readings
