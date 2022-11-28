@@ -1,17 +1,13 @@
 # Week 13 Classes
 
-## [Monday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A.pdf)
+## [Monday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class13A.pdf)
 
-<iframe src="../../Class02A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
-
-Post-class slides (with solutions) will be available for download here after class.[](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03A_post.pdf)
+<iframe src="../../Class13A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## [Wednesday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B.pdf)
 
-<iframe src="../../Class02B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
-
-Post-class slides (with solutions) will be available for download here after class.[](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B_post.pdf)
+<iframe src="../../Class13B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Friday
 
-Friday's class will be a Test 
+Friday's class will be Test 5.

@@ -1,3 +1,3 @@
 # Readings
 
-No new readings this week! You're done!
+There are no more readings, you're done!

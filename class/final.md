@@ -11,7 +11,7 @@ The final exam will:
 - have a time limit of 2 hours and 30 minutes. 
 - include multiple choice questions (similar to Tests).
 - include short answer questions (similar to final/midterm practice Qs).
-- include some long answer questiosn (similar to practice final/midterm Qs)
+- include some long answer questions (similar to practice final/midterm Qs)
 - require you to solve some problems with symbols/algebra.
 - NOT include questions on deriving formulas.
 - have some choice (not a lot) in which problems you can choose to do.

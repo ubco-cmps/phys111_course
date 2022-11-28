@@ -155,20 +155,31 @@ parts:
       - file: class/week12/test
       - file: class/week12/lab
       - file: class/week12/learninglog
-# 
-# - caption: Week 13 - Review
-  # chapters:
-  # - file: class/week13/week13_summary
-    # title: Week 13 - Review
-    # sections:
-      # - file: class/week13/readings
-      # - file: class/week13/videos
-      # - file: class/week13/homework
-      # - file: class/week13/tutorials
-      # - file: class/week13/classes
-      # - file: class/week13/test
-      # - file: class/week13/lab
-      # - file: class/week13/learninglog
+
+- caption: Week 13 - Review
+  chapters:
+  - file: class/week13/week13_summary
+    title: Week 13 - Angular Momentum  + Logistics
+    sections:
+      - file: class/week13/readings
+      - file: class/week13/videos
+      - file: class/week13/homework
+      - file: class/week13/tutorials
+      - file: class/week13/classes
+      - file: class/week13/test
+      - file: class/week13/lab
+      - file: class/week13/learninglog
+  - file: class/week13/week13_summary
+    title: Week 14 - Review + Diagnostic
+    sections:
+      - file: class/week14/readings
+      - file: class/week14/videos
+      - file: class/week14/homework
+      - file: class/week14/tutorials
+      - file: class/week14/classes
+      - file: class/week14/test
+      - file: class/week14/lab
+      - file: class/week14/learninglog
 
 - caption: Tools
   chapters:
