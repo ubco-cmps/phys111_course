@@ -155,7 +155,6 @@ parts:
       - file: class/week12/test
       - file: class/week12/lab
       - file: class/week12/learninglog
-
 - caption: Week 13 - Review
   chapters:
   - file: class/week13/week13_summary
@@ -180,11 +179,9 @@ parts:
       - file: class/week14/test
       - file: class/week14/lab
       - file: class/week14/learninglog
-
 - caption: Tools
   chapters:
   - file: tools/ed_discussion/ed_discussion
-
 - caption: Course Feedback
   chapters:
   - file: about/feedback
