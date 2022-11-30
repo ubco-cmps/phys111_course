@@ -93,9 +93,19 @@ The point of this example is just to assure you that if you've been working hard
 
 I will be individually reviewing each case of large disparities between course and final exam performances. 
 
-## Practice Exams
+## Suggestions for how to study for the final exam
 
-You can find lots of potential questions from the [Open Problem Bank in Physics](https://firas.moosvi.com/oer/physics_bank).
+Here are some ways you can prepare for the final exam:
+
+- Review all the tests and bonus tests!
+- Review all the homework questions!
+- Try new variants! Your score won't change
+- Do the Tutorial problems (posted on course website)
+- Try HW 11
+- Do all the weekly suggested practice questions from the textbook
+- Do more conceptual questions from the back of each chapter
+
+You can find also find lots of potential questions from the [Open Problem Bank in Physics](https://firas.moosvi.com/oer/physics_bank).
 
 ## Academic Integrity
 
