@@ -4,7 +4,7 @@
 
 <iframe src="../../Class13A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-## [Wednesday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class03B.pdf)
+## [Wednesday](https://github.com/ubco-cmps/phys111_course/raw/main/files/Class13B.pdf)
 
 <iframe src="../../Class13B.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
