@@ -78,7 +78,7 @@ From the syllabus, here is the passing requirement:
 
 > Yes. To pass this course, you must do all of the following:
 > 
-> - Achieve a minimum of 50% on the labs (10.0 / 32) with no more than 3 missed labs
+> - Achieve a minimum of 50% on the labs (16.0 / 32) with no more than 3 missed labs
 > - Achieve a minimum of 50% on the tests and final exam (20.0 / 40) 
 > - Achieve a minimum of 50% on the whole course grade (50.0 / 100)
 
