@@ -2,19 +2,22 @@ Final Exam Information
 =======================
 ## Logistics
 
-The final exam will:
+Here are some details about the final exam:
 
-- be conducted on Canvas in the same format of a Test.
-- be scheduled exam during the official scheduled time
-- be expected to join a Collaborate Ultra session, and then split off into breakout rooms according to your tutorial sections for invigilation (I will invigilate the tutorial exempt students).
-- have the same rules as Tests (but no test window).
-- have a time limit of 2 hours and 30 minutes. 
-- include multiple choice questions (similar to Tests).
-- include short answer questions (similar to final/midterm practice Qs).
-- include some long answer questions (similar to practice final/midterm Qs)
-- require you to solve some problems with symbols/algebra.
+- It will be conducted on PrairieLearn in the same basic format as a Test
+- You will not be able to start the exam unless you are in the room physically
+
+- You will need a password to begin 
+- Be scheduled exam during the official scheduled time
+- Be expected to join a Collaborate Ultra session, and then split off into breakout rooms according to your tutorial sections for invigilation (I will invigilate the tutorial exempt students).
+- Have the same rules as Tests.
+- Have a time limit of 2 hours and 30 minutes. 
+- Include multiple choice questions (similar to Tests).
+- Include short answer questions (similar to final/midterm practice Qs).
+- Include some long answer questions (similar to practice final/midterm Qs)
+- Require you to solve some problems with symbols/algebra.
 - NOT include questions on deriving formulas.
-- have some choice (not a lot) in which problems you can choose to do.
+- Have some choice (not a lot) in which problems you can choose to do.
 
 ## Final exam rules
 
@@ -28,7 +31,7 @@ The usual "Test" rules apply to the final exam also:
 - Using google to search for concepts is NOT cheating.
 - You can use ANY resource except CHEGG, Course Hero, SLADER and other similar websites that have Q&A or answer questions.
 - If you come across the same or similar question on google, resist the temptation to keep reading, and close your browser tab.
-- Do NOT take pictures of the questions - that IS CHEATING.
+- Do NOT take pictures or screenshots of your questions - that IS CHEATING.
 - Do NOT share test questions with your anyone - that IS CHEATING.
 
 Overall, do not stress! You will be fine :-)
@@ -37,11 +40,11 @@ Overall, do not stress! You will be fine :-)
 
 Here is the approximate structure of the final exam:
 
-**Part A: Conceptual questions (multiple choice questions) (30%)**
+**Part A: Conceptual questions (multiple choice questions) (about 30%)**
 
-**Part B: Short word problems (numerical answers, similar to Tests) (20%)**
+**Part B: Short word problems (numerical answers, multi-part) (about 30%)**
 
-**Part C: Long word problems - choose N of M (similar to practice final exam) (50%)**
+**Part C: Long word problems - choose N of M (about 40%)**
 
 ```{warning}
 For Part C, you will be expected to submit written work as images (after the exam) supporting your answers.
@@ -51,6 +54,7 @@ For Part C, you will be expected to submit written work as images (after the exa
 During the final exam, you will be expected to work on paper (or a digital equivalent using iPad/tablet, etc...).
 
 For Part C questions, you will be expected to submit your written work as images (after the exam) supporting your answers.
+Only half of the question credit will be attributed to the correct answer, the other half will be a human-graded assessment of your work.
 
 Here are our expectations for your work:
 
@@ -74,15 +78,15 @@ From the syllabus, here is the passing requirement:
 
 > Yes. To pass this course, you must do all of the following:
 > 
-> - Achieve a minimum of 50% on the labs (10.0 / 20) with no more than 3 missed labs
-> - Achieve a minimum of 50% on the tests and final exam (25.0 / 50) 
+> - Achieve a minimum of 50% on the labs (10.0 / 32) with no more than 3 missed labs
+> - Achieve a minimum of 50% on the tests and final exam (20.0 / 40) 
 > - Achieve a minimum of 50% on the whole course grade (50.0 / 100)
 
 Note that you must achieve a minimum of 50% COMBINED on the tests and final exams.
 
-For example, if you completed five tests over the term and achieved grades of: 8/10, 6/10, 9/10, 10/10, 8/10.
-This means a total score of 41/50 on the tests.
-The final exam will be out of 50 marks, so the minimum mark you need to achieve on the final to pass the course is 9/50, or 18%.
+For example, if you completed five tests over the term and achieved grades of: 80%, 60%, 90%, 100%, 80%.
+This means a total score of 82% on the tests.
+So the minimum mark you need to achieve on the final to pass the course 18% (make sure you know how to do this calculation!).
 **Please, please, please** do not take this to mean that you can take the exam lightly, and that you are guaranteed to pass the course.
 Failing the final that badly will trigger a manual review of the course work you have submitted so far, and may result in more headache for you in the end. 
 The point of this example is just to assure you that if you've been working hard in the course, doing the tests and bonus tests, keeping up with the material, getting help when you need it, chances are, you will be fine.
@@ -91,9 +95,7 @@ I will be individually reviewing each case of large disparities between course a
 
 ## Practice Exams
 
-You can find lots of past final and midterm exams [here](https://people.ok.ubc.ca/jbobowsk/phys111.html) along with full worked solutions.
-Please note that the midterms and final exams on that page were done before the pandemic, so were in person and were closed-book.
-Another thing to note that we did not do Chapter 12 this term, so you can ignore all questions on rotational dynamics (torque, moment of inertia, rotational energy, centre of mass, rolling friction, and angular momentum).
+You can find lots of potential questions from the [Open Problem Bank in Physics](https://firas.moosvi.com/oer/physics_bank).
 
 ## Academic Integrity
 

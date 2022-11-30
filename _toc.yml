@@ -8,6 +8,10 @@ parts:
   - file: about/doing_well
   - file: about/syllabus
 
+- caption: Final Exam
+  chapters:
+  - file: class/final
+
 - caption: Getting Started
   chapters:
   - file: getting-started/faq
