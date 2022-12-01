@@ -9,7 +9,6 @@ Here are some details about the final exam:
 
 - You will need a password to begin 
 - Be scheduled exam during the official scheduled time
-- Be expected to join a Collaborate Ultra session, and then split off into breakout rooms according to your tutorial sections for invigilation (I will invigilate the tutorial exempt students).
 - Have the same rules as Tests.
 - Have a time limit of 2 hours and 30 minutes. 
 - Include multiple choice questions (similar to Tests).
