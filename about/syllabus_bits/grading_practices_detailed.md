@@ -6,7 +6,7 @@ The grading scheme for this course is:
 | Homework            | 18% (9 x 2%)  | Thursdays at 6 PM                |
 | Labs                | 32% (8 x 4%)  | Variable                         |
 | Tests               | 20% (5 x 4%)  | Friday 4-5 PM                    |
-| Final Exam (Online) | 20%           | Scheduled During the Exam Period |
+| Final Exam | 20%           | Scheduled During the Exam Period |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test one week later and the better score of the Test-Bonus Test pair will be taken.

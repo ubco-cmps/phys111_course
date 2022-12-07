@@ -5,4 +5,4 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 
 | Change Date   | Summary                                                     | Rationale  |
 |---------------|-------------------------------------------------------------|------------|
-| -  | - |
+| Tuesday Dec. 6, 2022  | Removed left-over word from grading practices | Back in person so changed the detail. |
