@@ -44,4 +44,4 @@ Labs (L) and Tutorials (Tu) will start in Week 2 of the course.
 | Test 4          | Friday Nov 18, 2022  | 16:00 - 16:45 | 45 minutes |
 | Bonus Test 4    | Friday Nov 25, 2022  | 16:00 - 16:45 | 45 minutes |
 | Test 5          | Friday Dec 2, 2022   | 16:00 - 16:45 | 45 minutes |
-| Bonus Test 5    | TBD                  | TBD           | 45 minutes |
+| Bonus Test 5    | Wednesday Dec 7, 2022 | 16:00 - 16:45| 45 minutes |
