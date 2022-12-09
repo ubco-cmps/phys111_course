@@ -73,19 +73,19 @@ The final exam will cover all chapters covered in the course, up until (and incl
 
 There seems to be some confusion about the passing requirement for the final exam. 
 
-From the syllabus, here is the passing requirement:
+From the syllabus, here are the passing requirements:
 
-> Yes. To pass this course, you must do all of the following:
-> 
-> - Achieve a minimum of 50% on the labs (16.0 / 32) with no more than 3 missed labs
-> - Achieve a minimum of 50% on the tests and final exam (20.0 / 40) 
-> - Achieve a minimum of 50% on the whole course grade (50.0 / 100)
+> 1. Obtain an average grade of at least 50% on the Labs, with no more than 3 missed labs,
+> 2. Obtain an average grade of at least 50% on the Test and Exam components together,
+> 3. Obtain an average grade of at least 40% on the Final Exam,
+> 4. Obtain a grade of at least 50% on the whole course. 
+
 
 Note that you must achieve a minimum of 50% COMBINED on the tests and final exams.
 
 For example, if you completed five tests over the term and achieved grades of: 80%, 60%, 90%, 100%, 80%.
 This means a total score of 82% on the tests.
-So the minimum mark you need to achieve on the final to pass the course 18% (make sure you know how to do this calculation!).
+So the minimum mark you need to achieve on the final to pass the course 18% (make sure you know how to do this calculation!) BUT, you need to earn a minimum of 40% on the final exam to satisfy the third passing requirement.
 **Please, please, please** do not take this to mean that you can take the exam lightly, and that you are guaranteed to pass the course.
 Failing the final that badly will trigger a manual review of the course work you have submitted so far, and may result in more headache for you in the end. 
 The point of this example is just to assure you that if you've been working hard in the course, doing the tests and bonus tests, keeping up with the material, getting help when you need it, chances are, you will be fine.
