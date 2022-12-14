@@ -22,14 +22,15 @@ Here are some details about the final exam:
 
 The usual "Test" rules apply to the final exam also:
 
-- You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are - fine).
-- You DO NOT need to add the units in to the answers, Canvas numeric fields require only the numbers.
+- You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans).
+- You DO NOT need to add the units in to the answers, numeric fields require only the numbers.
 - Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc...)
 - The test is open-book, open-notes, open-web.
 - Copying the question text and googling IS CHEATING
 - Using google to search for concepts is NOT cheating.
-- You can use ANY resource except CHEGG, Course Hero, SLADER and other similar websites that have Q&A or answer questions.
+- You can use ANY resource except CHEGG, Course Hero, SLADER and other similar websites that have Q&A or answer questions for you.
 - If you come across the same or similar question on google, resist the temptation to keep reading, and close your browser tab.
+- **NEW** Using ChatGPT or AI tools for your questions IS considered cheating.
 - Do NOT take pictures or screenshots of your questions - that IS CHEATING.
 - Do NOT share test questions with your anyone - that IS CHEATING.
 
